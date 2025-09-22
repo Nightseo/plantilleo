@@ -1,0 +1,78 @@
+{
+  "id": "modelo-estudio-basico-seguridad-salud",
+  "titulo": "Modelo de Estudio Básico de Seguridad y Salud",
+  "slug": "modelo-estudio-basico-seguridad-salud",
+  "categoria": "Construcción",
+  "descripcion": "Plantilla formal para la elaboración de un Estudio Básico de Seguridad y Salud en proyectos de construcción, conforme a la normativa vigente en España.",
+  "imagenUrl": "https://www.ejemplo.com/imagenes/modelo-estudio-basico-seguridad-salud.jpg",
+  "descargas": 1200,
+  "valoracion": 4.6,
+  "caracteristicas": [
+    "Formato editable en Microsoft Word y PDF",
+    "Incluye secciones detalladas para la identificación y evaluación de riesgos",
+    "Guías para la implementación de medidas preventivas y protecciones técnicas",
+    "Diseño profesional y fácil de personalizar",
+    "Adaptado a la normativa legal española, incluyendo el Real Decreto 1627/1997"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.coacyle.com/descargas/cat_coacyle_1256117229.doc"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.tragsa.es/_layouts/GrupoTragsa/GetArchivo.aspx/ANEJO%205-ESTUDIO%20BASICO%20DE%20SEGURIDAD%20Y%20SALUD%20DEL%20PROYECTO?n=0000025583_PU_009.pdf&t=874525217"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado (DOCX o PDF).",
+    "Abre el archivo con el software correspondiente (Microsoft Word o un lector de PDF).",
+    "Completa las secciones con la información específica de tu proyecto, incluyendo la identificación de riesgos y las medidas preventivas.",
+    "Revisa cuidadosamente la información antes de finalizar el documento.",
+    "Utiliza el estudio como parte integral de la documentación de tu proyecto de construcción.",
+    "Asegúrate de que todos los involucrados en el proyecto tengan acceso al estudio y comprendan sus contenidos."
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un Estudio Básico de Seguridad y Salud?",
+      "respuesta": "Es un documento que identifica y evalúa los riesgos laborales en una obra de construcción, estableciendo las medidas preventivas necesarias para garantizar la seguridad y salud de los trabajadores."
+    },
+    {
+      "pregunta": "¿Cuándo es obligatorio elaborar un Estudio Básico de Seguridad y Salud?",
+      "respuesta": "Es obligatorio en proyectos de construcción que no cumplen con los supuestos que requieren un Estudio de Seguridad y Salud más completo, según lo establecido en el Real Decreto 1627/1997."
+    },
+    {
+      "pregunta": "¿Quién debe elaborar el Estudio Básico de Seguridad y Salud?",
+      "respuesta": "Debe ser elaborado por un técnico competente designado por el promotor del proyecto."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre un Estudio y un Estudio Básico de Seguridad y Salud?",
+      "respuesta": "La principal diferencia radica en la complejidad y el alcance del proyecto. Un Estudio Básico se aplica a proyectos de menor envergadura que no cumplen con los criterios que requieren un Estudio completo."
+    },
+    {
+      "pregunta": "¿Qué normativa regula la elaboración de este estudio?",
+      "respuesta": "La elaboración del Estudio Básico de Seguridad y Salud está regulada por el Real Decreto 1627/1997, que establece las disposiciones mínimas de seguridad y salud en las obras de construcción."
+    }
+  ],
+  "informacionLegal": "Esta plantilla ha sido diseñada conforme a la normativa legal española en materia de seguridad y salud en la construcción, específicamente el Real Decreto 1627/1997. Se recomienda su uso para proyectos que requieren un Estudio Básico de Seguridad y Salud. En caso de duda, se aconseja consultar con un profesional especializado.",
+  "detalles": {
+    "fechaActualizacion": "18 de marzo de 2025",
+    "tamanoArchivo": "85 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "30-60 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Identifica claramente todos los riesgos asociados al proyecto para implementar medidas preventivas efectivas.",
+    "Consulta con expertos en seguridad y salud laboral durante la elaboración del estudio.",
+    "Asegúrate de que el estudio cumpla con toda la normativa legal vigente.",
+    "Revisa y actualiza el estudio regularmente para reflejar cualquier cambio en el proyecto.",
+    "Forma y sensibiliza al personal involucrado sobre las medidas de seguridad establecidas en el estudio."
+  ]
+}

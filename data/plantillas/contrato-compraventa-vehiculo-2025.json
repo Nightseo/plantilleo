@@ -1,0 +1,71 @@
+{
+  "id": "contrato-compraventa-vehiculo-2025",
+  "titulo": "Contrato de Compraventa de Vehículo 2025",
+  "slug": "contrato-compraventa-vehiculo-2025",
+  "categoria": "Automoción",
+  "descripcion": "Modelo oficial de contrato para la compraventa de vehículos entre particulares, con protección legal para ambas partes.",
+  "imagenUrl": "/images/plantillas/contrato-compraventa-vehiculo-2025.jpg",
+  "descargas": 8765,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Formato legal completo y actualizado",
+    "Protección legal para comprador y vendedor",
+    "Editable en Word y PDF",
+    "Incluye instrucciones post-transacción",
+    "Secciones para datos del vehículo y estado",
+    "Cláusulas de garantía y responsabilidad"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/tramites-gestiones/contrato-compraventa-vehiculos.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/tramites-gestiones/contrato-compraventa-vehiculos.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido.",
+    "Completa los datos del comprador y vendedor.",
+    "Detalla el precio y método de pago.",
+    "Especifica el estado del vehículo.",
+    "Incluye fecha y lugar de entrega.",
+    "Firma con dos testigos.",
+    "Distribuye copias a ambas partes."
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Es obligatorio usar un contrato para la compraventa de un vehículo entre particulares?",
+      "respuesta": "Aunque no es legalmente obligatorio, es altamente recomendable utilizar un contrato de compraventa para proteger los intereses de ambas partes."
+    },
+    {
+      "pregunta": "¿Qué datos debe incluir un contrato de compraventa de vehículo?",
+      "respuesta": "El contrato debe incluir: datos completos del comprador y vendedor, características del vehículo, precio, forma de pago, fecha y lugar de entrega."
+    }
+  ],
+  "informacionLegal": "Este contrato se ajusta a la normativa de tráfico y seguridad vial vigente en España. Cumple con los requisitos establecidos por la DGT para la transmisión de vehículos entre particulares.",
+  "detalles": {
+    "fechaActualizacion": "10 de febrero de 2025",
+    "tamanoArchivo": "35 kb",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat"
+    ],
+    "tiempoEdicion": "15-30 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Verifica la documentación del vehículo antes de la compra.",
+    "Comprueba que no hay cargas pendientes sobre el vehículo.",
+    "Realiza una inspección mecánica si es posible.",
+    "Fotografía el estado del vehículo antes de la entrega.",
+    "Notifica rápidamente el cambio a las autoridades de tráfico.",
+    "Tramita inmediatamente el cambio de titularidad.",
+    "Conserva el contrato firmado durante al menos 5 años."
+  ]
+}

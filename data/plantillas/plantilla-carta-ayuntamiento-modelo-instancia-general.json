@@ -1,0 +1,85 @@
+{
+  "id": "plantilla-carta-ayuntamiento-modelo-instancia-general",
+  "titulo": "Modelo de Carta al Ayuntamiento [Instancia General]",
+  "slug": "modelo-carta-instancia-general-ayuntamiento",
+  "categoria": "Urbanismo",
+  "descripcion": "Descarga un modelo de carta para el ayuntamiento en formato Word (.docx) y PDF. Esta plantilla de instancia general cumple con la estructura requerida por la Ley 39/2015 para realizar cualquier solicitud, comunicación o trámite ante la administración local en España. Perfecta para presentar en el registro de entrada, tanto físico como electrónico, de forma clara y oficial.",
+  "imagenUrl": "https://images.pexels.com/photos/164790/pexels-photo-164790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "descargas": 9540,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Conforme a la Ley 39/2015: Sigue la estructura del Procedimiento Administrativo Común de las Administraciones Públicas.",
+    "Secciones Clave Predefinidas: Incluye los apartados 'Datos del Interesado', 'EXPONE', y 'SOLICITA' para una correcta formulación.",
+    "Formato DOCX Editable: Personaliza fácilmente el contenido de tu petición en Microsoft Word o Google Docs.",
+    "Apta para Sede Electrónica: Válida para presentar telemáticamente utilizando un certificado digital o Cl@ve.",
+    "Diseño Formal y Limpio: Presentación profesional, sin elementos superfluos, centrada en la claridad del trámite.",
+    "Guía para Adjuntar Documentos: Indica cómo referenciar la documentación anexa a tu solicitud de forma correcta.",
+    "Adaptable a Cualquier Municipio: Plantilla genérica válida para dirigirse a cualquier ayuntamiento de España.",
+    "Incluye Notas de Ayuda: Comentarios y aclaraciones para rellenar cada campo sin errores."
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://santaella.es/wp-content/uploads/2023/02/1.-MODELO-INSTANCIA-GENERICA1.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.alicante.es/sites/default/files/documentos/201911/instancia-general-ayto-5.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Para qué tipo de trámites puedo usar esta plantilla de instancia general?",
+      "respuesta": "Puedes usarla para una amplia variedad de gestiones que no tengan un formulario específico. Por ejemplo, para solicitar información pública, comunicar un cambio de domicilio, informar de una incidencia en la vía pública (una farola rota, un bache), solicitar una licencia de obra menor, presentar una queja o sugerencia, o aportar documentación a un expediente ya abierto."
+    },
+    {
+      "pregunta": "¿Es obligatorio usar el modelo oficial de mi ayuntamiento si lo tuviera?",
+      "respuesta": "Si tu ayuntamiento dispone de un formulario específico para tu trámite (ej. 'Solicitud de Padrón'), es muy recomendable usar ese. Para todo lo demás, un modelo de instancia general como este es perfectamente válido, ya que cumple con los requisitos de la Ley 39/2015. Lo importante es que contenga todos los datos necesarios."
+    },
+    {
+      "pregunta": "¿Cómo y dónde se presenta este escrito una vez rellenado?",
+      "respuesta": "Puedes presentarlo de dos formas. Presencialmente, en una Oficina de Atención al Ciudadano (OAC) o registro del ayuntamiento, donde te sellarán una copia. O de forma telemática, a través de la 'Sede Electrónica' del ayuntamiento, utilizando tu Certificado Digital, DNI electrónico o sistema Cl@ve. Esta última opción es obligatoria para empresas y profesionales."
+    },
+    {
+      "pregunta": "¿Tengo que adjuntar siempre una fotocopia de mi DNI?",
+      "respuesta": "Es una práctica muy recomendable. Aunque te identifiques para presentar el escrito, adjuntar una fotocopia del DNI/NIE asegura que no haya dudas sobre tu identidad y agiliza el trámite. Si actúas en nombre de otra persona o una empresa, deberás adjuntar también el documento que acredite dicha representación."
+    },
+    {
+      "pregunta": "¿Cómo sé que el ayuntamiento ha recibido mi solicitud y qué plazo tiene para responder?",
+      "respuesta": "Al presentar el escrito, deben darte un justificante con un número de 'Registro de Entrada' y la fecha. Ese es tu resguardo oficial. A partir de esa fecha, el plazo general que tiene la administración para resolver y notificar es de tres meses, salvo que la normativa específica de tu trámite indique otro plazo distinto."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre la parte de 'EXPONE' y 'SOLICITA'?",
+      "respuesta": "Es la estructura clave de la instancia. En 'EXPONE', describes de forma clara y ordenada los hechos, antecedentes y motivos de tu escrito. En 'SOLICITA', especificas de forma concisa y directa qué es lo que pides al ayuntamiento. Por ejemplo: EXPONES que una señal está rota en tu calle, y SOLICITAS su reparación."
+    }
+  ],
+  "informacionLegal": "Este modelo se ajusta a los requisitos del artículo 66 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común. Para su validez, el escrito debe contener el nombre, apellidos y DNI/NIE del interesado y, en su caso, de su representante, así como un domicilio a efectos de notificaciones. La firma del solicitante es indispensable. El ayuntamiento está obligado a emitir un recibo que acredite la fecha y hora de presentación (Registro de Entrada).",
+  "detalles": {
+    "fechaActualizacion": "22/09/2025",
+    "tamanoArchivo": "310 KB",
+    "idiomas": [
+      "Español (España)"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word 2016 o superior",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "Aproximadamente 15-25 minutos para una solicitud estándar.",
+    "actualizaciones": "Plantilla revisada anualmente para asegurar su conformidad con la legislación de procedimiento administrativo vigente."
+  },
+  "comoUsar": [
+    "Descarga la plantilla en formato DOCX para editarla en tu ordenador.",
+    "Rellena tus datos personales en la sección 'DATOS DEL/DE LA SOLICITANTE'. No olvides el domicilio para notificaciones.",
+    "En el apartado 'EXPONE', redacta de forma clara y cronológica los hechos o razones de tu petición.",
+    "En 'SOLICITA', sé directo y conciso, pidiendo exactamente lo que deseas que el ayuntamiento haga.",
+    "Si adjuntas otros papeles (fotos, informes, etc.), menciónalos en el campo 'DOCUMENTACIÓN QUE SE ADJUNTA'.",
+    "Imprime el documento, fírmalo y pon la fecha. Ahora ya está listo para presentarlo en el registro."
+  ],
+  "consejos": [
+    "Antes de nada, visita la web de tu ayuntamiento. Puede que tengan un formulario online específico que te ahorre tiempo.",
+    "Sé siempre respetuoso y formal en tu lenguaje. Evita opiniones personales y céntrate en los hechos objetivos.",
+    "Guarda como oro tu copia sellada por el Registro de Entrada. Es la prueba legal de tu solicitud.",
+    "Si el trámite es complejo, puedes citar la normativa o ley en la que basas tu petición para darle más fuerza.",
+    "Para trámites importantes, valora usar la Sede Electrónica, ya que todo el proceso queda registrado digitalmente."
+  ]
+}

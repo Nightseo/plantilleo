@@ -1,0 +1,87 @@
+{
+  "id": "plantilla-diagrama-flujo-prisma-2020-investigacion",
+  "titulo": "Plantilla Diagrama de Flujo PRISMA",
+  "slug": "plantilla-diagrama-flujo-prisma-2020",
+  "categoria": "Educación",
+  "descripcion": "Descarga la plantilla editable del diagrama de flujo PRISMA, indispensable para cualquier revisión sistemática o metaanálisis en España. Este recurso, en formato DOCX y PDF, te permite presentar de forma clara y estandarizada el proceso de selección de estudios. Esencial para investigadores, doctorandos y estudiantes de TFM que necesiten cumplir con los estándares de publicación científica más exigentes.",
+  "imagenUrl": "https://www.prisma-statement.org/images/PRISMA_2020_flow_diagram_new_SRs_v1.png",
+  "descargas": 4250,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "100% Actualizada a la Declaración PRISMA 2020: Incluye la estructura y terminología más reciente.",
+    "Diseño Profesional: Formato limpio y claro, listo para ser insertado en manuscritos, tesis doctorales o pósteres científicos.",
+    "Totalmente Editable en Word: Modifica fácilmente las cifras en cada una de las fases del diagrama (identificación, cribado, elegibilidad).",
+    "Incluye las 4 Fases Clave: Identificación de registros, cribado (screening), elegibilidad de los informes e inclusión de estudios.",
+    "Bilingüe (Español/Inglés): Aunque la plantilla está en español, la terminología es fácilmente adaptable al inglés para publicaciones internacionales.",
+    "Versión para Revisiones Existentes: Contiene el diagrama específico para cuando se actualiza una revisión sistemática previa.",
+    "Ligera y Compatible: Funciona con Microsoft Word, Google Docs y LibreOffice sin problemas de formato.",
+    "Añade Rigor a tu Investigación: Su uso es un sello de calidad y transparencia metodológica reconocido internacionalmente."
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "http://www.prisma-statement.org/documents/PRISMA%202020%20flow%20diagram%20for%20new%20SRs%20updated%20May%202021.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://bibliogetafe.com/wp-content/uploads/2021/04/prisma_2020_statement_definitivo-espanol-completo.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Esta plantilla está actualizada a la última versión de PRISMA?",
+      "respuesta": "Sí, esta plantilla corresponde a la declaración PRISMA 2020, que es la versión más reciente y vigente en 2025. Utilizar esta versión es fundamental para que tu revisión sistemática sea aceptada en la mayoría de revistas científicas y cumpla con los estándares metodológicos actuales exigidos en el ámbito académico español e internacional."
+    },
+    {
+      "pregunta": "¿Es obligatorio usar un diagrama PRISMA en mi revisión sistemática?",
+      "respuesta": "Aunque no es una 'ley', es una exigencia de facto en la mayoría de las revistas científicas de prestigio, especialmente en ciencias de la salud. Omitirlo puede ser motivo de rechazo editorial. Aporta transparencia y permite a los revisores y lectores entender rápidamente tu proceso de selección de estudios, por lo que su uso es altamente recomendable."
+    },
+    {
+      "pregunta": "¿Cómo debo citar la declaración PRISMA en mi artículo o tesis?",
+      "respuesta": "Es obligatorio y una buena práctica científica citar la publicación original. La referencia completa que debes incluir en tu bibliografía es: Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: 10.1136/bmj.n71"
+    },
+    {
+      "pregunta": "¿Puedo modificar la estructura del diagrama de flujo?",
+      "respuesta": "No se recomienda alterar la estructura fundamental de las cuatro fases. El objetivo del diagrama es estandarizar la presentación de la información. Sin embargo, puedes y debes adaptar los cuadros grises opcionales si se ajustan a tu metodología, por ejemplo, si buscaste en fuentes adicionales como registros de ensayos clínicos o listas de referencias."
+    },
+    {
+      "pregunta": "Tengo dudas sobre qué número poner en cada casilla, ¿dónde puedo consultar?",
+      "respuesta": "La mejor fuente es el documento oficial 'PRISMA 2020 Explanation and Elaboration'. Este documento explica en detalle qué significa cada casilla y cómo debes realizar el recuento de registros, informes y estudios en cada fase del proceso. La plantilla PDF que enlazamos contiene la traducción al español de la guía completa."
+    },
+    {
+      "pregunta": "¿Sirve esta plantilla para una revisión de alcance (scoping review)?",
+      "respuesta": "Sí, aunque PRISMA fue diseñado para revisiones sistemáticas, su extensión PRISMA-ScR (Scoping Reviews) utiliza un diagrama de flujo muy similar. Esta plantilla puede adaptarse fácilmente para una scoping review, simplemente asegurándote de que la terminología en tu manuscrito se alinee con las directrices de PRISMA-ScR."
+    }
+  ],
+  "informacionLegal": "El diagrama de flujo PRISMA es un estándar internacional de investigación. Su uso y el de la propia declaración deben ser citados obligatoriamente en la publicación final. La referencia correcta es: Page MJ, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. El investigador es responsable de que los datos de su estudio subyacente cumplan con la Ley Orgánica de Protección de Datos (LOPDGDD), especialmente en investigación clínica.",
+  "detalles": {
+    "fechaActualizacion": "15/09/2025",
+    "tamanoArchivo": "412 KB",
+    "idiomas": [
+      "Español (España)",
+      "Inglés (terminología)"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word 2019 o superior",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "Menos de 30 minutos (asumiendo que los datos del cribado ya están recopilados).",
+    "actualizaciones": "La plantilla será actualizada conforme a futuras revisiones de la declaración oficial del Grupo PRISMA."
+  },
+  "comoUsar": [
+    "Descarga el archivo DOCX para poder editarlo.",
+    "Comienza por la casilla superior 'Identificación', introduciendo el número total de registros identificados en las bases de datos.",
+    "Rellena el número de registros eliminados antes del cribado (p. ej., duplicados).",
+    "Completa las casillas de la fase de 'Cribado' (screening), indicando cuántos informes se excluyeron y por qué.",
+    "Introduce los datos en la fase de 'Elegibilidad', detallando los motivos de exclusión de los informes completos evaluados.",
+    "Finalmente, indica en la última casilla el número total de estudios incluidos en la síntesis cualitativa y/o metaanálisis."
+  ],
+  "consejos": [
+    "Utiliza un gestor bibliográfico como Mendeley, Zotero o EndNote para automatizar la eliminación de duplicados y facilitar el recuento.",
+    "Mantén un registro detallado de los motivos de exclusión en cada fase; lo necesitarás para el apartado de metodología.",
+    "Verifica dos veces que los números del diagrama coinciden exactamente con los descritos en el texto de tu manuscrito.",
+    "Para proyectos colaborativos, usa una herramienta como Rayyan QCRI que facilita el cribado por parte de dos revisores independientes.",
+    "Consulta siempre la web oficial de PRISMA (prisma-statement.org) para acceder a las últimas guías y extensiones de la normativa."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "modelo-rescision-contrato-alquiler",
+  "titulo": "Modelo de Rescisión de Contrato de Alquiler",
+  "slug": "modelo-rescision-contrato-alquiler",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para rescindir un contrato de alquiler de forma legal, cumpliendo con los plazos de preaviso y evitando problemas con la devolución de la fianza.",
+  "imagenUrl": "https://static-oforms.onlyoffice.com/image1_8135d1613b.png",
+  "descargas": 4689,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Cumple con la Ley de Arrendamientos Urbanos (LAU)",
+    "Incluye notificación de preaviso al arrendador",
+    "Estructura clara y válida para cualquier tipo de alquiler",
+    "Editable en Word y PDF",
+    "Adecuado tanto para inquilinos como para propietarios",
+    "Plantilla adaptable a distintas situaciones legales"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://mundojuridico.info/wp-content/uploads/2015/10/FINALIZACION-DE-CONTRATO-DE-ARRENDAMIENTO-DE-VIVIENDA-Y-ENTREGA-DE-LLAVES-.doc"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://static-oforms.onlyoffice.com/rescision_contrato_alquiler_e88b9f182f.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo se puede rescindir un contrato de alquiler?",
+      "respuesta": "Un contrato de alquiler puede rescindirse en la fecha de finalización pactada o anticipadamente si se cumplen los plazos de preaviso exigidos por la Ley de Arrendamientos Urbanos (LAU). En el caso de inquilinos, deben haber transcurrido al menos seis meses desde el inicio del contrato y dar un preaviso de 30 días."
+    },
+    {
+      "pregunta": "¿Cómo se debe comunicar la rescisión del contrato de alquiler?",
+      "respuesta": "Debe comunicarse por escrito al arrendador mediante un documento formal de rescisión, especificando la fecha de salida y las condiciones acordadas. Se recomienda enviarlo por burofax o correo certificado para tener prueba de la notificación."
+    },
+    {
+      "pregunta": "¿Tengo derecho a recuperar la fianza tras la rescisión del contrato?",
+      "respuesta": "Sí, siempre que el inquilino haya cumplido con el contrato y entregue la vivienda en buen estado. El arrendador dispone de un mes para devolver la fianza tras la entrega de llaves, pudiendo descontar daños o impagos justificados."
+    },
+    {
+      "pregunta": "¿Puede un arrendador rescindir el contrato antes de tiempo?",
+      "respuesta": "El arrendador solo puede rescindir el contrato anticipadamente en casos específicos, como impago del alquiler, subarriendo no autorizado o daños graves a la propiedad. En estos casos, debe iniciar un procedimiento de desahucio legal."
+    },
+    {
+      "pregunta": "¿Qué consecuencias puede haber si no se respeta el preaviso?",
+      "respuesta": "Si el inquilino no respeta el preaviso, el arrendador podría exigir una indemnización equivalente a la parte proporcional de la renta hasta cumplir el plazo acordado. En algunos casos, también puede descontarlo de la fianza."
+    }
+  ],
+  "informacionLegal": "Este modelo de rescisión de contrato de alquiler está adaptado a la Ley de Arrendamientos Urbanos (LAU) vigente en España. La rescisión debe notificarse con un preaviso de 30 días en contratos de vivienda habitual. Se recomienda formalizar la entrega de llaves con un documento firmado por ambas partes y conservar pruebas de la comunicación de rescisión.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-20 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los datos del inquilino, el arrendador y la vivienda alquilada.",
+    "Indica la fecha efectiva de rescisión y el cumplimiento del preaviso.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y envíalo al arrendador por un medio que deje constancia.",
+    "Guarda una copia del documento firmado y solicita un acuse de recibo."
+  ],
+  "consejos": [
+    "Notifica la rescisión por escrito con **al menos 30 días de antelación**.",
+    "Utiliza burofax o correo certificado para evitar disputas con el arrendador.",
+    "Asegúrate de dejar la vivienda en buen estado para recuperar la fianza.",
+    "Solicita una inspección conjunta del inmueble antes de la entrega de llaves.",
+    "Guarda copias de toda la documentación relacionada con la rescisión del contrato."
+  ]
+}

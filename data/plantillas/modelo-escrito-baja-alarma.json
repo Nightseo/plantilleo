@@ -1,0 +1,81 @@
+{
+  "id": "modelo-escrito-baja-alarma",
+  "titulo": "Modelo de Escrito de Baja de Alarma",
+  "slug": "modelo-escrito-baja-alarma",
+  "categoria": "Seguros",
+  "descripcion": "Plantilla formal para solicitar la baja de un servicio de alarma, cumpliendo con la normativa vigente en España.",
+  "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/515610563/original/d8a1efeaf6/1?v=1",
+  "descargas": 2890,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Formato legalmente válido según la normativa española",
+    "Incluye secciones para datos personales, detalles del contrato y motivos de la baja",
+    "Diseño claro y fácil de completar",
+    "Editable en Word y PDF",
+    "Adecuado para cualquier proveedor de servicios de alarma",
+    "Facilita la comunicación formal con la empresa de seguridad"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.wonder.legal/mx/modele/solicitud-dar-baja-contrato-servicios"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.securitasdirect.es/alarmas/legal/Modelo_desistimiento_alarma.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cómo puedo dar de baja mi servicio de alarma?",
+      "respuesta": "Para dar de baja su servicio de alarma, debe enviar una solicitud por escrito a su proveedor, incluyendo sus datos personales, detalles del contrato y motivo de la baja. Es recomendable revisar las condiciones de su contrato para conocer los plazos y posibles penalizaciones."
+    },
+    {
+      "pregunta": "¿Es necesario avisar con antelación para cancelar el servicio de alarma?",
+      "respuesta": "Sí, generalmente se requiere notificar la cancelación con un plazo de antelación especificado en el contrato, que suele ser de 30 días. Revise su contrato para confirmar el periodo exacto."
+    },
+    {
+      "pregunta": "¿Puedo cancelar el servicio de alarma antes de finalizar el periodo de permanencia?",
+      "respuesta": "Sí, puede cancelar el servicio antes de finalizar el periodo de permanencia, pero es posible que deba abonar una penalización por incumplimiento contractual. Consulte las condiciones específicas en su contrato."
+    },
+    {
+      "pregunta": "¿Qué documentos debo adjuntar a la solicitud de baja?",
+      "respuesta": "Es recomendable adjuntar una copia de su DNI/NIF y una copia del contrato o factura reciente donde se reflejen sus datos y el número de contrato."
+    },
+    {
+      "pregunta": "¿Cómo puedo asegurarme de que la empresa ha recibido mi solicitud de baja?",
+      "respuesta": "Envíe la solicitud de baja por un medio que le proporcione comprobante de recepción, como correo certificado con acuse de recibo o burofax. También puede solicitar una confirmación por escrito de la empresa."
+    }
+  ],
+  "informacionLegal": "Este modelo de escrito de baja de alarma está adaptado a la normativa legal vigente en España. Se recomienda revisar las condiciones específicas de su contrato y, si es necesario, consultar con un profesional legal para garantizar que la solicitud de baja cumple con todos los requisitos legales.",
+  "detalles": {
+    "fechaActualizacion": "10 de marzo de 2025",
+    "tamanoArchivo": "20 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-15 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descargue la plantilla en su formato preferido (DOCX o PDF).",
+    "Abra el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellene sus datos personales, los detalles del contrato y el motivo de la baja.",
+    "Revise cuidadosamente el contenido antes de imprimir o enviar.",
+    "Adjunte una copia de su DNI/NIF y del contrato o factura reciente.",
+    "Envíe la solicitud a su proveedor de servicios de alarma por un medio que le proporcione comprobante de recepción.",
+    "Guarde una copia de la solicitud y del comprobante de envío para su registro."
+  ],
+  "consejos": [
+    "Revise las condiciones de su contrato para conocer los plazos y posibles penalizaciones por la cancelación.",
+    "Notifique la baja con la antelación requerida para evitar cargos adicionales.",
+    "Utilice medios de envío que le proporcionen comprobante de recepción, como correo certificado o burofax.",
+    "Conserve copias de todos los documentos relacionados con la solicitud de baja.",
+    "Si no recibe confirmación de la baja en un plazo razonable, contacte con su proveedor para verificar el estado de su solicitud."
+  ]
+}

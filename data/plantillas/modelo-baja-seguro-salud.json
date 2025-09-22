@@ -1,0 +1,82 @@
+{
+  "id": "modelo-baja-seguro-salud",
+  "titulo": "Modelo de Baja de Seguro de Salud",
+  "slug": "modelo-baja-seguro-salud",
+  "categoria": "Seguros",
+  "descripcion": "Plantilla formal para solicitar la baja de un seguro de salud de manera efectiva y conforme a la normativa vigente. Válido para cualquier aseguradora en España.",
+  "imagenUrl": "https://www.polizamedica.es/images_pm/modelo-carta-dar-de-baja-seguro.png",
+  "descargas": 3721,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Estructura clara y formal",
+    "Cumple con la Ley de Contrato de Seguro en España",
+    "Incluye secciones para datos del tomador y póliza",
+    "Válido para seguros de salud individuales y colectivos",
+    "Editable en Word y PDF",
+    "Plantilla adaptable a todas las aseguradoras"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.audiolis.com/wp-content/uploads/2020/08/Carta-anulacion-seguros-comunidades-propietarios.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://unodeene.es/todossomosclientes/modelos/Modelo_cancelacion_seguro.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo se puede solicitar la baja de un seguro de salud?",
+      "respuesta": "Para cancelar un seguro de salud en España, se debe notificar a la aseguradora **con al menos un mes de antelación** antes de la fecha de renovación automática, conforme a la Ley 50/1980 de Contrato de Seguro. Algunas pólizas permiten la baja anticipada por motivos justificados, como cambios en la prima o modificación de coberturas."
+    },
+    {
+      "pregunta": "¿Qué datos debe incluir la carta de baja de seguro de salud?",
+      "respuesta": "El documento debe contener el nombre completo del tomador, número de póliza, compañía aseguradora, motivo de la baja (opcional), fecha de solicitud y firma. Se recomienda solicitar un acuse de recibo para evitar problemas con la cancelación."
+    },
+    {
+      "pregunta": "¿Cómo se debe presentar la solicitud de baja?",
+      "respuesta": "La solicitud de baja debe enviarse por **correo certificado con acuse de recibo, burofax, email con confirmación de lectura o en persona en la oficina de la aseguradora**. Es importante conservar una copia de la solicitud enviada y de la confirmación de la aseguradora."
+    },
+    {
+      "pregunta": "¿Se puede cancelar un seguro de salud en cualquier momento?",
+      "respuesta": "Depende de las condiciones contractuales. En la mayoría de los casos, la baja solo es efectiva en la fecha de vencimiento con el preaviso correspondiente. Sin embargo, si la aseguradora cambia unilateralmente las condiciones del contrato o aumenta la prima sin justificación, el asegurado puede solicitar la baja anticipada."
+    },
+    {
+      "pregunta": "¿Qué hacer si la aseguradora rechaza la baja del seguro de salud?",
+      "respuesta": "Si la compañía aseguradora se niega a cancelar el seguro sin justificación válida, puedes presentar una reclamación ante la Dirección General de Seguros y Fondos de Pensiones. También puedes recurrir a organismos de defensa del consumidor para hacer valer tus derechos."
+    }
+  ],
+  "informacionLegal": "Este modelo de baja de seguro de salud cumple con la normativa establecida en la Ley 50/1980 de Contrato de Seguro en España. Para cancelar la póliza, el asegurado debe notificarlo **con al menos un mes de antelación** a la aseguradora. Se recomienda enviar la solicitud por un medio que deje constancia de su recepción y, en caso de disputa, recurrir a organismos de defensa del consumidor o la Dirección General de Seguros.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-20 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los campos con tus datos personales y los de la póliza de seguro.",
+    "Incluye la fecha exacta en la que deseas dar de baja el seguro de salud.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y envíalo a la aseguradora por un medio válido (correo certificado, burofax, email con acuse de recibo, etc.).",
+    "Guarda una copia de la solicitud y la confirmación de recepción de la aseguradora."
+  ],
+  "consejos": [
+    "Envía la solicitud con al menos **un mes de antelación** a la fecha de renovación.",
+    "Usa medios que dejen constancia de la recepción de la solicitud (burofax, correo certificado, email con confirmación).",
+    "Si cancelas por cambios en las condiciones del contrato, adjunta la documentación justificativa.",
+    "Solicita a la aseguradora una confirmación por escrito de la baja.",
+    "Guarda una copia del documento enviado y del acuse de recibo.",
+    "Si la aseguradora rechaza la baja sin justificación, presenta una reclamación ante la Dirección General de Seguros."
+  ]
+}

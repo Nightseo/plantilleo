@@ -1,0 +1,81 @@
+{
+  "id": "modelo-registro-jornada-laboral",
+  "titulo": "Modelo de Registro de Jornada Laboral",
+  "slug": "modelo-registro-jornada-laboral",
+  "categoria": "Recursos Humanos",
+  "descripcion": "Plantilla oficial para el registro diario de la jornada laboral de los empleados, cumpliendo con la normativa vigente en España.",
+  "imagenUrl": "https://es.scribd.com/document/607365351/Plantilla-de-Registro-de-Jornada-Laboral",
+  "descargas": 4321,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Formato legalmente válido según la normativa española",
+    "Incluye campos para hora de entrada y salida",
+    "Diseño claro y fácil de usar",
+    "Editable en Word y PDF",
+    "Adecuado para empresas de todos los tamaños",
+    "Facilita el cumplimiento de la legislación laboral"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://addwill.eu/wp-content/uploads/2020/12/COMUNICADO-TRABAJADORES-CONTROL-HORARIO-1.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.btsasociados.com/wp-content/uploads/Modelo-de-Registro-Jornada.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Es obligatorio llevar un registro de la jornada laboral?",
+      "respuesta": "Sí, desde mayo de 2019, todas las empresas en España están obligadas a llevar un registro diario de la jornada laboral de sus empleados, según el artículo 34.9 del Estatuto de los Trabajadores."
+    },
+    {
+      "pregunta": "¿Qué información debe contener el registro de jornada?",
+      "respuesta": "El registro debe incluir el horario concreto de inicio y finalización de la jornada de trabajo de cada empleado, sin perjuicio de la flexibilidad horaria que se establezca en cada caso."
+    },
+    {
+      "pregunta": "¿Cómo se debe conservar el registro de jornada?",
+      "respuesta": "Los registros deben conservarse durante un periodo mínimo de cuatro años y deben estar a disposición de los trabajadores, sus representantes legales y la Inspección de Trabajo."
+    },
+    {
+      "pregunta": "¿Qué sanciones existen por no llevar el registro de jornada?",
+      "respuesta": "La ausencia de un registro de jornada puede considerarse una infracción grave, con sanciones que oscilan entre 626 y 6.250 euros, según la gravedad y el número de trabajadores afectados."
+    },
+    {
+      "pregunta": "¿Se puede llevar el registro de jornada de forma digital?",
+      "respuesta": "Sí, el registro puede realizarse en formato digital o en papel, siempre que garantice la fiabilidad e invariabilidad de los datos y cumpla con la normativa de protección de datos."
+    }
+  ],
+  "informacionLegal": "Este modelo de registro de jornada laboral está adaptado a la normativa vigente en España, cumpliendo con las obligaciones establecidas en el artículo 34.9 del Estatuto de los Trabajadores y el Real Decreto-ley 8/2019. Se recomienda su uso para garantizar el cumplimiento legal y evitar posibles sanciones.",
+  "detalles": {
+    "fechaActualizacion": "9 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "5-10 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los datos de la empresa y del empleado.",
+    "Registra diariamente las horas de entrada y salida de cada trabajador.",
+    "Revisa y firma el documento al finalizar cada jornada.",
+    "Almacena los registros de forma segura durante al menos cuatro años.",
+    "Facilita el acceso a los registros a los empleados y a la Inspección de Trabajo cuando sea requerido."
+  ],
+  "consejos": [
+    "Establece un sistema claro y consistente para el registro de la jornada laboral.",
+    "Informa a los empleados sobre la importancia de cumplir con el registro diario.",
+    "Utiliza herramientas digitales para automatizar y simplificar el proceso.",
+    "Realiza auditorías internas periódicas para asegurar el cumplimiento de la normativa.",
+    "Consulta con un asesor laboral para resolver dudas específicas sobre la legislación vigente."
+  ]
+}

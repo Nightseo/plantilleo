@@ -1,0 +1,86 @@
+{
+  "id": "justificante-modelo-carta-vacaciones-disfrutadas-rrhh-2025",
+  "titulo": "Justificante de Vacaciones Disfrutadas [Modelo 2025]",
+  "slug": "justificante-modelo-vacaciones-disfrutadas-empleado",
+  "categoria": "Recursos Humanos",
+  "descripcion": "Descarga nuestro modelo de justificante de vacaciones disfrutadas, una herramienta esencial para la gestión de RRHH en España. Esta plantilla en formato Word (DOCX) y PDF permite a la empresa y al trabajador dejar constancia formal del periodo vacacional tomado, cumpliendo con el Estatuto de los Trabajadores. Úsalo para un registro interno claro o para adjuntar al finiquito en caso de cese.",
+  "imagenUrl": "https://images.pexels.com/photos/7648356/pexels-photo-7648356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "descargas": 6850,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Acorde al Estatuto de los Trabajadores: Redactado para cumplir con la legislación laboral española (Art. 38).",
+    "Formato de Mutuo Acuerdo: Diseñado para ser firmado por ambas partes (empresa y empleado), dotándolo de validez probatoria.",
+    "Claridad en las Fechas: Secciones específicas para detallar el día de inicio y fin del periodo vacacional disfrutado.",
+    "Cálculo de Saldo Vacacional: Incluye un apartado para reflejar el total de días tomados y el remanente de días pendientes del año.",
+    "Editable en DOCX: Personaliza fácilmente la plantilla con los datos de tu empresa y los de cada trabajador.",
+    "Ideal para el Finiquito: Sirve como anexo al documento de Saldo y Finiquito para liquidar vacaciones no disfrutadas.",
+    "Uso Interno y Externo: Válido como documento de registro interno y como justificante ante posibles inspecciones o reclamaciones.",
+    "Lenguaje Profesional y Neutro: Redacción formal y clara, estándar para cualquier sector empresarial en España."
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://cdn.cuestioneslaborales.es/wp-content/uploads/2020/04/Modelo-solicitud-vacaciones.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.carm.es/web/descarga?ARCHIVO=instruccin_2006.pdf&ALIAS=ARCH&IDCONTENIDO=19454&IDTIPO=60&RASTRO=c$m4232"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Es obligatorio en España firmar un justificante de vacaciones disfrutadas?",
+      "respuesta": "Aunque el Estatuto de los Trabajadores no lo exige explícitamente como un documento obligatorio para cada periodo, es una práctica de RRHH altamente recomendable. Proporciona seguridad jurídica a ambas partes, evitando malentendidos o futuras reclamaciones sobre los días disfrutados. Es especialmente crucial al momento de calcular un finiquito."
+    },
+    {
+      "pregunta": "¿Qué datos debe contener este certificado para que sea válido?",
+      "respuesta": "Para su validez, el documento debe incluir: los datos completos de la empresa y del trabajador (nombre, NIF/CIF, DNI/NIE), el periodo exacto de las vacaciones disfrutadas (fecha de inicio y fin), el total de días que comprende dicho periodo, el saldo de días de vacaciones restantes y, fundamentalmente, la firma de ambas partes con la fecha de la firma."
+    },
+    {
+      "pregunta": "¿Se puede usar este modelo al finalizar un contrato para el finiquito?",
+      "respuesta": "Sí, es uno de sus usos principales. Al adjuntar este justificante firmado al documento de finiquito, la empresa certifica qué días de vacaciones ha disfrutado el trabajador durante el año en curso. Esto permite calcular con exactitud la cantidad a abonar en concepto de 'vacaciones no disfrutadas', que es uno de los componentes clave de la liquidación final."
+    },
+    {
+      "pregunta": "¿Qué ocurre si un trabajador se niega a firmar este documento?",
+      "respuesta": "La firma acredita el acuerdo. Si un trabajador se niega a firmarlo porque no está de acuerdo con las fechas o el saldo, la empresa debe revisar los registros para aclarar la discrepancia. Si persiste el desacuerdo, la empresa puede entregar el documento igualmente (con un testigo si es posible) y el trabajador puede firmar como 'No conforme', reservándose el derecho a reclamar."
+    },
+    {
+      "pregunta": "¿Cómo se calculan los días de vacaciones pendientes?",
+      "respuesta": "Por norma general en España, un trabajador genera 2,5 días naturales de vacaciones por mes trabajado (totalizando 30 días al año). Para calcular los días pendientes, se restan los días ya disfrutados (reflejados en este justificante) del total de días devengados hasta la fecha. El convenio colectivo aplicable puede especificar si el cómputo es en días naturales o laborales."
+    },
+    {
+      "pregunta": "¿Debe firmarse este documento antes o después de las vacaciones?",
+      "respuesta": "Lo más lógico y recomendable es firmarlo a la vuelta del periodo vacacional. De este modo, el documento certifica un hecho que ya ha ocurrido (el disfrute de las vacaciones), evitando problemas si, por ejemplo, el trabajador tuviera que interrumpir sus vacaciones por una baja médica, en cuyo caso las fechas cambiarían."
+    }
+  ],
+  "informacionLegal": "Este documento acredita el acuerdo entre empresa y trabajador sobre el disfrute de un periodo vacacional concreto, en el marco del Artículo 38 del Estatuto de los Trabajadores. La firma de ambas partes le confiere carácter probatorio. Las vacaciones anuales retribuidas son un derecho irrenunciable y no sustituible por compensación económica, salvo en caso de extinción del contrato de trabajo, momento en el que se liquidarán los días devengados y no disfrutados.",
+  "detalles": {
+    "fechaActualizacion": "22/09/2025",
+    "tamanoArchivo": "295 KB",
+    "idiomas": [
+      "Español (España)"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word 2016 o superior",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "Menos de 10 minutos por cada registro.",
+    "actualizaciones": "El modelo se revisa anualmente para asegurar su adecuación a la legislación laboral española y a las interpretaciones de la jurisprudencia."
+  },
+  "comoUsar": [
+    "Descarga la plantilla en formato DOCX para una fácil edición.",
+    "Introduce los datos fiscales y de identificación de la empresa en la cabecera.",
+    "Completa los datos personales del trabajador (Nombre completo, DNI/NIE, puesto).",
+    "Especifica con claridad la fecha de inicio y la fecha de fin del periodo de vacaciones que ya ha finalizado.",
+    "Realiza el cálculo del total de días disfrutados y los días pendientes de disfrutar en el año en curso.",
+    "Imprime dos copias, una para la empresa y otra para el empleado.",
+    "Ambas partes deben firmar los dos documentos en el espacio habilitado, indicando la fecha de la firma."
+  ],
+  "consejos": [
+    "Implementa la firma de este justificante como un procedimiento estándar de RRHH para todos los empleados.",
+    "Archiva siempre la copia firmada por el trabajador en su expediente personal; es tu respaldo legal.",
+    "Utiliza este documento como una oportunidad para comunicar de forma transparente el saldo de vacaciones restantes al empleado.",
+    "Si un convenio colectivo aplicable en tu empresa tiene particularidades sobre las vacaciones, asegúrate de que el documento no las contradiga.",
+    "Para una mayor agilidad, considera integrar este proceso en un sistema de firma digital legalmente válido en España."
+  ]
+}

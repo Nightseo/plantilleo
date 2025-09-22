@@ -1,0 +1,81 @@
+{
+  "id": "modelo-precontrato-trabajo",
+  "titulo": "Modelo de Precontrato de Trabajo",
+  "slug": "modelo-precontrato-trabajo",
+  "categoria": "Laboral",
+  "descripcion": "Plantilla formal para la redacción de un precontrato de trabajo, válida para cualquier tipo de empresa y adaptada a la legislación laboral española.",
+  "imagenUrl": "https://website-assets.studocu.com/img/document_thumbnails/a38839c88042d6e6dae82fe6c90505c5/thumb_1200_1696.png",
+  "descargas": 4153,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Estructura clara y formal",
+    "Cumple con la normativa laboral española",
+    "Incluye secciones para salario, funciones y condiciones",
+    "Válido para contratos indefinidos y temporales",
+    "Editable en Word y PDF",
+    "Plantilla adaptable a distintos sectores"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.asprometal.es/archivos_interes/7/modelo-precontrato-laboral.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://loentiendo.com/documentos/modelos/modelo%20precontrato%20de%20trabajo.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un precontrato de trabajo?",
+      "respuesta": "El precontrato de trabajo es un documento en el que una empresa y un trabajador acuerdan la futura firma de un contrato laboral. Este documento especifica condiciones como el puesto, la remuneración, la jornada laboral y la fecha de inicio del empleo, ofreciendo seguridad tanto al empleador como al empleado."
+    },
+    {
+      "pregunta": "¿Es obligatorio firmar un precontrato antes de un contrato de trabajo?",
+      "respuesta": "No es obligatorio, pero es recomendable en situaciones donde la contratación formal se realizará en una fecha posterior. Permite establecer compromisos y proteger tanto a la empresa como al trabajador en caso de incumplimiento."
+    },
+    {
+      "pregunta": "¿Qué información debe incluir un precontrato de trabajo?",
+      "respuesta": "Debe incluir los datos del empleador y del trabajador, la fecha prevista de inicio del contrato, el puesto a desempeñar, el salario acordado, la duración del contrato (si es temporal) y cualquier otra condición relevante, como periodo de prueba o beneficios adicionales."
+    },
+    {
+      "pregunta": "¿Un precontrato de trabajo tiene validez legal?",
+      "respuesta": "Sí, un precontrato es un acuerdo legalmente vinculante entre las partes. Si una de ellas incumple lo pactado sin una causa justificada, la otra parte puede exigir compensaciones por daños y perjuicios."
+    },
+    {
+      "pregunta": "¿Cómo se cancela un precontrato de trabajo?",
+      "respuesta": "Si ambas partes están de acuerdo, el precontrato puede anularse sin consecuencias legales. Sin embargo, si una de las partes lo incumple de forma unilateral sin justificación, la otra parte puede reclamar una indemnización en los tribunales."
+    }
+  ],
+  "informacionLegal": "Este modelo de precontrato de trabajo está basado en la normativa laboral vigente en España, incluyendo el Estatuto de los Trabajadores. Aunque este documento tiene validez legal, se recomienda su revisión por un abogado laboralista antes de su firma para garantizar que cumple con todas las regulaciones aplicables.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "17 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-30 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los campos con los datos de la empresa y del trabajador.",
+    "Especifica claramente las condiciones laborales, como salario, puesto y fecha de inicio.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y solicita la firma de la otra parte para formalizar el acuerdo.",
+    "Guarda una copia del precontrato firmado como respaldo legal."
+  ],
+  "consejos": [
+    "Asegúrate de incluir todos los términos acordados para evitar malentendidos.",
+    "Si tienes dudas, consulta con un abogado laboralista antes de firmar.",
+    "Guarda siempre una copia del precontrato firmado en formato digital y en papel.",
+    "Si la empresa incumple el precontrato, puedes reclamar compensaciones por daños y perjuicios.",
+    "Evita firmar precontratos sin fechas definidas o condiciones poco claras."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "modelo-reclamacion-danos-vivienda",
+  "titulo": "Modelo de Reclamación por Daños en Vivienda",
+  "slug": "modelo-reclamacion-danos-vivienda",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para reclamar daños en una vivienda, dirigida a responsables o aseguradoras, cumpliendo con la normativa legal vigente en España.",
+  "imagenUrl": "https://modelos-de.com/wp-content/uploads/2020/09/modelo-carta-reclamacion-por-danos-materiales.jpg",
+  "descargas": 3897,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Formato formal y legalmente válido",
+    "Cumple con la normativa legal española",
+    "Incluye secciones para descripción de daños y reclamación",
+    "Válido para reclamaciones a particulares, empresas o aseguradoras",
+    "Editable en Word y PDF",
+    "Plantilla estructurada para facilitar el trámite"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://blog.alquilino.com/wp-content/uploads/Modelo-de-reclamacion-de-danos.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.marcialpons.es/media/pdf/Hwpi2gle4jcGVvh3uwsRA.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo se debe presentar una reclamación por daños en la vivienda?",
+      "respuesta": "Se debe presentar cuando la vivienda sufre daños por causas externas, como filtraciones de agua, humedades, obras colindantes o desperfectos causados por terceros, y se busca una compensación o reparación por parte del responsable."
+    },
+    {
+      "pregunta": "¿Qué información debe incluir la reclamación?",
+      "respuesta": "Debe contener los datos del reclamante, una descripción detallada de los daños, la fecha en que ocurrieron, las posibles causas, el valor estimado de la reparación y, si es posible, fotografías o informes técnicos que respalden la reclamación."
+    },
+    {
+      "pregunta": "¿A quién se dirige la reclamación por daños en la vivienda?",
+      "respuesta": "La reclamación se dirige al responsable de los daños, que puede ser un vecino, una empresa constructora, una comunidad de propietarios o una compañía aseguradora, dependiendo del origen del daño."
+    },
+    {
+      "pregunta": "¿Es necesario adjuntar pruebas en la reclamación?",
+      "respuesta": "Sí, es fundamental adjuntar pruebas como fotografías, informes técnicos, presupuestos de reparación y cualquier documento que respalde la existencia y valoración de los daños."
+    },
+    {
+      "pregunta": "¿Qué plazo hay para presentar una reclamación por daños en la vivienda?",
+      "respuesta": "El plazo puede variar según la causa del daño y la legislación aplicable, pero es recomendable presentar la reclamación lo antes posible tras la detección de los daños para evitar problemas de prescripción."
+    }
+  ],
+  "informacionLegal": "Este modelo de reclamación por daños en vivienda está adaptado a la normativa legal vigente en España. Se recomienda revisar la legislación específica aplicable al caso concreto y, si es necesario, consultar con un profesional legal para garantizar que la reclamación cumple con todos los requisitos legales.",
+  "detalles": {
+    "fechaActualizacion": "9 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-30 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena tus datos personales y los del destinatario de la reclamación.",
+    "Describe detalladamente los daños sufridos en la vivienda, incluyendo fechas y posibles causas.",
+    "Adjunta pruebas como fotografías, informes técnicos o presupuestos de reparación.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y envíalo al responsable por un medio que deje constancia de su recepción.",
+    "Guarda una copia de la reclamación y de los documentos adjuntos para tu registro."
+  ],
+  "consejos": [
+    "Documenta los daños con fotografías y obtén informes técnicos que respalden tu reclamación.",
+    "Envía la reclamación por medios que acrediten su recepción, como burofax o correo certificado.",
+    "Conserva copias de todos los documentos enviados y recibidos relacionados con la reclamación.",
+    "Si no obtienes respuesta en un plazo razonable, considera buscar asesoramiento legal para posibles acciones adicionales.",
+    "Mantén una comunicación formal y respetuosa con el destinatario de la reclamación para facilitar una resolución amistosa."
+  ]
+}

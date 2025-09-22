@@ -1,0 +1,82 @@
+{
+  "id": "modelo-baja-seguro-coche",
+  "titulo": "Modelo de Baja de Seguro de Coche",
+  "slug": "modelo-baja-seguro-coche",
+  "categoria": "Seguros",
+  "descripcion": "Plantilla oficial para solicitar la baja de un seguro de coche de manera efectiva, asegurando el cumplimiento de los plazos y evitando penalizaciones.",
+  "imagenUrl": "https://tse1.mm.bing.net/th?id=OIP.JICkjNBmuGWEoeLEiJ45oAHaJH&pid=Api",
+  "descargas": 5124,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Formato formal y legalmente válido",
+    "Cumple con la Ley de Contrato de Seguro en España",
+    "Incluye secciones para datos del tomador y póliza",
+    "Válido para todas las aseguradoras",
+    "Editable en Word y PDF",
+    "Plantilla estructurada para facilitar el trámite"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.ocu.org/-/media/ocu/resources/themes/consumo%20y%20familia/no%20center%20of%20content/standard%20letters/desistimiento-compra-distancia.docx?hash=D5160D81960342BCE4FE7FEE2D3A41A6&rev=95e1528b-769a-413a-8a55-6399e4247379&utm_source=chatgpt.com"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.autopoliza.com/wp-content/uploads/2015/12/Carta-solicitud-baja-Seguro-de-coche.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo se puede solicitar la baja de un seguro de coche?",
+      "respuesta": "Para cancelar un seguro de coche en España, debes notificarlo a la aseguradora con al menos **un mes de antelación** antes de la fecha de renovación automática, conforme a la Ley 50/1980 de Contrato de Seguro. En algunos casos, se permite la baja anticipada si hay un motivo justificado, como la venta o baja definitiva del vehículo."
+    },
+    {
+      "pregunta": "¿Cómo se debe presentar la solicitud de baja?",
+      "respuesta": "La solicitud de baja debe enviarse por **correo certificado con acuse de recibo, burofax, email con confirmación de lectura o en persona en la oficina de la aseguradora**. Se recomienda conservar una copia de la solicitud enviada y la confirmación de la aseguradora para evitar problemas futuros."
+    },
+    {
+      "pregunta": "¿Qué datos debe incluir la carta de baja de seguro de coche?",
+      "respuesta": "Debe contener el nombre del tomador del seguro, número de póliza, datos del vehículo, motivo de la baja (opcional), fecha de solicitud y firma. También se recomienda solicitar una confirmación escrita de la aseguradora para garantizar la cancelación efectiva."
+    },
+    {
+      "pregunta": "¿Se puede cancelar el seguro de coche en cualquier momento?",
+      "respuesta": "En la mayoría de los casos, la cancelación solo es efectiva al final del periodo de vigencia, con el preaviso correspondiente. Sin embargo, si el vehículo ha sido vendido, dado de baja definitiva o transferido, puedes solicitar la cancelación inmediata del seguro presentando la documentación que lo justifique."
+    },
+    {
+      "pregunta": "¿Qué hacer si la aseguradora rechaza la baja del seguro de coche?",
+      "respuesta": "Si la compañía aseguradora se niega a cancelar el seguro sin justificación válida, puedes presentar una reclamación ante la Dirección General de Seguros y Fondos de Pensiones. También puedes acudir a una asociación de consumidores para hacer valer tus derechos."
+    }
+  ],
+  "informacionLegal": "Este modelo de baja de seguro de coche cumple con la normativa establecida en la Ley 50/1980 de Contrato de Seguro en España. Para evitar la renovación automática, el asegurado debe notificar la cancelación con **al menos un mes de antelación**. Se recomienda presentar la solicitud por un medio que deje constancia de su recepción y, en caso de disputa, recurrir a organismos de defensa del consumidor o la Dirección General de Seguros.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-20 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los datos del tomador del seguro y la información de la póliza.",
+    "Especifica la fecha de cancelación y el motivo si es necesario.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y envíalo a la aseguradora por un medio válido.",
+    "Guarda una copia de la solicitud y la confirmación de recepción de la aseguradora."
+  ],
+  "consejos": [
+    "Envía la solicitud con al menos **un mes de antelación** a la fecha de renovación.",
+    "Usa medios que dejen constancia de la recepción de la solicitud (burofax, correo certificado, email con confirmación).",
+    "Si cancelas el seguro por venta del vehículo, adjunta la documentación de la transferencia o baja.",
+    "Solicita a la aseguradora una confirmación por escrito de la baja.",
+    "Guarda una copia del documento enviado y del acuse de recibo.",
+    "Si la aseguradora rechaza la baja sin justificación, presenta una reclamación ante la Dirección General de Seguros."
+  ]
+}

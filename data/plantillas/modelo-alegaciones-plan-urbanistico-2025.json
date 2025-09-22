@@ -1,0 +1,81 @@
+{
+  "id": "modelo-alegaciones-plan-urbanistico-2025",
+  "titulo": "Modelo de Alegaciones a un Plan Urbanístico 2025",
+  "slug": "modelo-alegaciones-plan-urbanistico-2025",
+  "categoria": "Urbanismo",
+  "descripcion": "Plantilla oficial para presentar alegaciones a un plan urbanístico. Documento estructurado y adaptable a normativas locales para reclamar modificaciones o correcciones.",
+  "imagenUrl": "/images/plantillas/modelo-alegaciones-plan-urbanistico-2025.jpg",
+  "descargas": 3249,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Estructura clara y formal",
+    "Cumple con la normativa urbanística vigente",
+    "Incluye secciones para exposición de hechos y argumentos",
+    "Apto para ciudadanos, empresas y colectivos",
+    "Editable en Word y PDF",
+    "Adaptable a planes urbanísticos municipales y autonómicos"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "/plantillas/modelo-alegaciones-plan-urbanistico-2025.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "/plantillas/modelo-alegaciones-plan-urbanistico-2025.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una alegación a un plan urbanístico?",
+      "respuesta": "Una alegación a un plan urbanístico es un escrito formal que presenta un ciudadano, empresa o entidad para manifestar su desacuerdo con determinadas disposiciones del plan urbanístico municipal o autonómico. Su objetivo es solicitar modificaciones, rectificaciones o la eliminación de medidas que puedan afectar intereses particulares o colectivos."
+    },
+    {
+      "pregunta": "¿Quién puede presentar alegaciones a un plan urbanístico?",
+      "respuesta": "Cualquier persona física o jurídica puede presentar alegaciones si considera que el plan urbanístico afecta a sus intereses o derechos. Esto incluye propietarios de terrenos, vecinos, asociaciones, empresas o colectivos afectados por los cambios en la planificación urbana."
+    },
+    {
+      "pregunta": "¿Cuándo se pueden presentar alegaciones a un plan urbanístico?",
+      "respuesta": "Las alegaciones pueden presentarse dentro del periodo de exposición pública del plan urbanístico. Este plazo suele ser de 20 a 45 días hábiles, dependiendo de la normativa autonómica y municipal. Es importante revisar el Boletín Oficial correspondiente para conocer las fechas exactas."
+    },
+    {
+      "pregunta": "¿Qué argumentos son válidos para una alegación urbanística?",
+      "respuesta": "Las alegaciones pueden basarse en errores técnicos del plan, perjuicio a la propiedad privada, incumplimiento de normativas urbanísticas, impacto ambiental negativo, afectación a infraestructuras públicas, falta de estudios técnicos suficientes o vulneración de derechos ciudadanos. Es recomendable aportar documentación de respaldo."
+    },
+    {
+      "pregunta": "¿Cómo se presenta una alegación a un plan urbanístico?",
+      "respuesta": "Las alegaciones pueden presentarse en los registros oficiales del ayuntamiento o administración pública correspondiente, a través de sede electrónica o presencialmente en las oficinas de urbanismo. Se recomienda entregar el documento con copia sellada como comprobante."
+    }
+  ],
+  "informacionLegal": "Este modelo de alegaciones cumple con la legislación urbanística vigente en España, conforme a la Ley del Suelo y Rehabilitación Urbana, así como a las normativas autonómicas y municipales aplicables. Su presentación debe realizarse dentro del plazo de exposición pública y siguiendo los procedimientos oficiales. Se recomienda consultar con un abogado especializado en derecho urbanístico para casos complejos.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "12 kb",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "20-40 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los campos con tus datos personales o los de tu entidad.",
+    "Expón los hechos de manera clara y argumentada.",
+    "Añade documentación que respalde tu alegación (mapas, informes, fotos, etc.).",
+    "Firma el documento y presenta la alegación en el registro oficial correspondiente.",
+    "Guarda una copia sellada como comprobante de entrega."
+  ],
+  "consejos": [
+    "Consulta la normativa urbanística local antes de presentar la alegación.",
+    "Redacta de manera clara y objetiva, evitando términos vagos.",
+    "Aporta documentación de respaldo para fortalecer tu argumento.",
+    "Revisa el Boletín Oficial de tu comunidad para conocer los plazos exactos.",
+    "Entrega la alegación en el registro adecuado y solicita copia sellada."
+  ]
+}

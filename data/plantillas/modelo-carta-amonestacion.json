@@ -1,0 +1,80 @@
+{
+  "id": "modelo-carta-amonestacion",
+  "titulo": "Modelo de Carta de Amonestación",
+  "slug": "modelo-carta-amonestacion",
+  "categoria": "Recursos Humanos",
+  "descripcion": "Plantilla formal para amonestar a un trabajador por incumplimiento de sus obligaciones laborales, conforme a la normativa vigente en España.",
+  "descargas": 1500,
+  "valoracion": 4.5,
+  "caracteristicas": [
+    "Formato editable en Microsoft Word y PDF",
+    "Incluye secciones para detallar la conducta inapropiada y las consecuencias",
+    "Diseño profesional y claro",
+    "Adaptable a diferentes situaciones laborales",
+    "Facilita la comunicación formal de amonestaciones",
+    "Compatible con versiones recientes de Microsoft Word y lectores de PDF"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://app.idlpol.com/docs/Word/IDLPol_FORMATOS%20PAD%20LEVE.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.supercontable.com/envios/formularios_boletin/CARTA_ADVERTENCIA_TRABAJADOR.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una carta de amonestación?",
+      "respuesta": "Es un documento formal que una empresa utiliza para notificar a un trabajador sobre una conducta inapropiada o un incumplimiento de sus obligaciones laborales, advirtiéndole de posibles consecuencias si la situación persiste."
+    },
+    {
+      "pregunta": "¿Cuándo se debe emitir una carta de amonestación?",
+      "respuesta": "Se emite cuando un empleado incurre en faltas leves o moderadas, como incumplimientos de horarios, bajo rendimiento o comportamientos inadecuados, y se busca corregir dicha conducta antes de aplicar sanciones más severas."
+    },
+    {
+      "pregunta": "¿Qué información debe contener una carta de amonestación?",
+      "respuesta": "Debe incluir los datos del empleado, una descripción detallada de la conducta inapropiada, referencias a las normas o políticas incumplidas, las consecuencias de continuar con dicha conducta y la firma de la persona autorizada."
+    },
+    {
+      "pregunta": "¿Es necesario que el trabajador firme la carta de amonestación?",
+      "respuesta": "Sí, es recomendable que el trabajador firme la carta para dejar constancia de su recepción. Si se niega, se puede contar con testigos o enviar la carta por medios que acrediten su recepción."
+    },
+    {
+      "pregunta": "¿Qué consecuencias puede tener una amonestación para el trabajador?",
+      "respuesta": "Una amonestación es una advertencia formal. Si el trabajador persiste en su conducta inapropiada, la empresa puede aplicar sanciones más severas, como suspensiones o incluso el despido, dependiendo de la gravedad de las faltas."
+    }
+  ],
+  "informacionLegal": "Este modelo de carta de amonestación está diseñado conforme a la normativa laboral vigente en España. Se recomienda adaptarlo según las políticas internas de cada empresa y, si es necesario, consultar con un profesional legal para garantizar su correcta aplicación.",
+  "detalles": {
+    "fechaActualizacion": "13 de marzo de 2025",
+    "tamanoArchivo": "25 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-15 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado (DOCX o PDF) desde los enlaces proporcionados.",
+    "Abre el archivo con el software correspondiente (Microsoft Word para DOCX o un lector de PDF).",
+    "Rellena los datos del empleado y describe detalladamente la conducta que motiva la amonestación.",
+    "Especifica las normas o políticas internas que han sido incumplidas.",
+    "Indica las posibles consecuencias de continuar con dicha conducta.",
+    "Revisa el documento para asegurar su claridad y precisión.",
+    "Entrega la carta al trabajador y solicita su firma para constancia.",
+    "Guarda una copia firmada en el expediente del empleado."
+  ],
+  "consejos": [
+    "Actúa con prontitud al detectar una conducta inapropiada para evitar su repetición.",
+    "Sé específico y objetivo al describir la falta cometida.",
+    "Mantén un tono respetuoso y profesional en la redacción de la carta.",
+    "Asegúrate de que el trabajador comprende las consecuencias de no corregir su conducta.",
+    "Documenta todas las comunicaciones relacionadas con la amonestación para futuras referencias."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "modelo-presupuesto-obra-2025",
+  "titulo": "Modelo de Presupuesto de Obra 2025",
+  "slug": "modelo-presupuesto-obra-2025",
+  "categoria": "Construcción",
+  "descripcion": "Plantilla profesional para crear presupuestos de construcción y reforma con desglose detallado de fases de trabajo, materiales y mano de obra.",
+  "imagenUrl": "/images/plantillas/modelo-presupuesto-obra-2025.jpg",
+  "descargas": 7654,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Formato profesional con desglose detallado",
+    "Secciones para materiales, mano de obra y plazos",
+    "Cálculos automáticos de subtotales e impuestos",
+    "Adaptable a diversos proyectos de construcción",
+    "Editable en Word y Excel",
+    "Incluye condiciones generales y particulares"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.modelocontrato.net/downloads/presupuesto-obra.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.modelocontrato.net/downloads/presupuesto-obra.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla.",
+    "Completa los datos de la empresa y cliente.",
+    "Detalla las fases de trabajo con descripciones y precios.",
+    "Calcula subtotales e impuestos.",
+    "Especifica condiciones de pago.",
+    "Incluye condiciones aplicables.",
+    "Obtén la firma del cliente."
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Es obligatorio un presupuesto antes de iniciar una obra?",
+      "respuesta": "Sí, según la normativa española de protección al consumidor, es obligatorio un presupuesto previo por escrito para servicios de reparación o reforma, salvo renuncia expresa del cliente."
+    },
+    {
+      "pregunta": "¿Qué elementos debe incluir un presupuesto de obra completo?",
+      "respuesta": "Un presupuesto de obra completo debe incluir: datos del profesional/empresa, datos del cliente, descripción detallada de los trabajos, desglose de materiales y mano de obra, precios unitarios y totales, impuestos aplicables, forma de pago, plazo de ejecución, validez del presupuesto, garantías, y condiciones generales y particulares."
+    },
+    {
+      "pregunta": "¿Cómo se calculan los impuestos en un presupuesto de obra?",
+      "respuesta": "En España, las obras de reforma de vivienda suelen aplicar IVA reducido del 10%, mientras que la obra nueva aplica 21% de IVA. Existen excepciones según el tipo de obra y materiales."
+    },
+    {
+      "pregunta": "¿Qué pasa si surgen trabajos imprevistos durante la obra?",
+      "respuesta": "Si aparecen trabajos adicionales no contemplados, el profesional debe informar al cliente y presentar un presupuesto complementario. Estos trabajos solo pueden ejecutarse con aprobación explícita del cliente."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo es válido un presupuesto de obra?",
+      "respuesta": "Por ley, un presupuesto debe ser válido al menos 30 días. Sin embargo, debido a la volatilidad de precios de materiales, los profesionales suelen establecer validez específica."
+    }
+  ],
+  "informacionLegal": "Esta plantilla cumple con la normativa de construcción y protección al consumidor vigente en España.",
+  "detalles": {
+    "fechaActualizacion": "8 de marzo de 2025",
+    "tamanoArchivo": "45 kb",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Google Docs"
+    ],
+    "tiempoEdicion": "30-60 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Sé extremadamente detallado en las descripciones de trabajo.",
+    "Incluye un presupuesto de contingencia del 5-10%.",
+    "Especifica claramente qué servicios están incluidos y excluidos.",
+    "Adjunta planos o fotografías para mayor claridad.",
+    "Establece hitos de pago vinculados al avance de obra.",
+    "Detalla la calidad de los materiales a utilizar.",
+    "Conserva copia firmada del cliente."
+  ]
+}

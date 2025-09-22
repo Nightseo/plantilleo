@@ -1,0 +1,79 @@
+{
+  "id": "plantilla-evaluacion-riesgos",
+  "titulo": "Plantilla de Evaluación de Riesgos",
+  "slug": "plantilla-evaluacion-riesgos",
+  "categoria": "Laboral",
+  "descripcion": "Plantilla editable para realizar evaluaciones de riesgos laborales, facilitando la identificación y gestión de peligros en el entorno de trabajo.",
+  "imagenUrl": "https://es.smartsheet.com/sites/default/files/2022-02-templates/IC-Risk-Assessment-Matrix-27193_WORD_ES.docx",
+  "descargas": 4120,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Formato editable en Microsoft Word y PDF",
+    "Incluye secciones para identificación de peligros, evaluación y medidas preventivas",
+    "Diseño claro y estructurado para facilitar su uso",
+    "Adaptable a diferentes sectores y tamaños de empresa",
+    "Cumple con la normativa vigente en prevención de riesgos laborales",
+    "Facilita la documentación y seguimiento de las medidas de seguridad implementadas"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://es.smartsheet.com/sites/default/files/2022-02-templates/IC-Risk-Assessment-Matrix-27193_WORD_ES.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.mutuauniversal.net/flippingbooks/16/data/downloads/16_eval_riesgos.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una evaluación de riesgos laborales?",
+      "respuesta": "Es el proceso de identificar, analizar y evaluar los riesgos presentes en el entorno laboral para establecer medidas que garanticen la seguridad y salud de los trabajadores."
+    },
+    {
+      "pregunta": "¿Por qué es importante utilizar una plantilla para la evaluación de riesgos?",
+      "respuesta": "Una plantilla facilita la sistematización del proceso de evaluación, asegurando que se consideren todos los aspectos relevantes y se cumpla con la normativa vigente."
+    },
+    {
+      "pregunta": "¿Esta plantilla es adaptable a cualquier tipo de empresa?",
+      "respuesta": "Sí, la plantilla es flexible y puede adaptarse a las necesidades específicas de diferentes sectores y tamaños de empresa."
+    },
+    {
+      "pregunta": "¿Qué secciones incluye la plantilla de evaluación de riesgos?",
+      "respuesta": "La plantilla incluye secciones para la identificación de peligros, evaluación de riesgos, medidas preventivas y seguimiento de acciones implementadas."
+    },
+    {
+      "pregunta": "¿Dónde puedo encontrar más información sobre la evaluación de riesgos laborales?",
+      "respuesta": "Puedes consultar la guía de evaluación de riesgos laborales del Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) disponible en su sitio web oficial."
+    }
+  ],
+  "informacionLegal": "Esta plantilla está diseñada para cumplir con la normativa vigente en materia de prevención de riesgos laborales en España. Se recomienda adaptarla según las necesidades específicas de cada empresa y sector.",
+  "detalles": {
+    "fechaActualizacion": "11 de marzo de 2025",
+    "tamanoArchivo": "150 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "30-60 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en formato DOCX o PDF desde los enlaces proporcionados.",
+    "Abre el archivo con el software compatible (Microsoft Word o Adobe Acrobat Reader).",
+    "Completa las secciones correspondientes a la identificación de peligros, evaluación de riesgos y medidas preventivas.",
+    "Revisa y adapta la información según las particularidades de tu empresa.",
+    "Guarda los cambios y comparte el documento con el equipo responsable de la seguridad laboral.",
+    "Realiza un seguimiento periódico de las medidas implementadas y actualiza la evaluación según sea necesario."
+  ],
+  "consejos": [
+    "Involucra a todo el equipo en el proceso de evaluación para obtener una perspectiva completa de los riesgos.",
+    "Revisa y actualiza la evaluación de riesgos de forma regular, especialmente cuando se introduzcan cambios en el entorno laboral.",
+    "Utiliza la plantilla como una herramienta viva que refleje las condiciones actuales de trabajo.",
+    "Asegúrate de que todas las medidas preventivas sean comunicadas y comprendidas por todo el personal.",
+    "Considera la posibilidad de recibir formación adicional en prevención de riesgos laborales para mejorar la eficacia de las evaluaciones."
+  ]
+}

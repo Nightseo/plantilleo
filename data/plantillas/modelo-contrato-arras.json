@@ -1,0 +1,72 @@
+{
+  "id": "modelo-contrato-arras",
+  "titulo": "Modelo de Contrato de Arras",
+  "slug": "modelo-de-contrato-de-arras",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para establecer un contrato de arras en compraventa inmobiliaria, conforme a las normativas españolas",
+  "imagenUrl": "/images/plantillas/modelo-contrato-arras.jpg",
+  "descargas": 6789,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Editable en Microsoft Word y PDF",
+    "Secciones para datos del comprador y vendedor",
+    "Especificación clara de condiciones de venta",
+    "Cláusulas penitenciales y consecuencias por incumplimiento",
+    "Diseño profesional",
+    "Adaptado a normativas legales españolas"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://st1.idealista.com/static/common/pdf/vendorleads/modelo_contrato_de_arras.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://planesdefuturo.mapfre.es/media/2021/09/008.-canalJUBILACION_Contrato-de-arras-MODELO.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado",
+    "Abre con el software correspondiente",
+    "Completa los datos del comprador y vendedor",
+    "Especifica las condiciones de venta y señal",
+    "Revisa cuidadosamente la información",
+    "Firma el documento con la otra parte",
+    "Conserva copia firmada para ambas partes"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un contrato de arras?",
+      "respuesta": "Es un acuerdo privado entre comprador y vendedor de un inmueble que formaliza un compromiso de compra, incluyendo una garantía monetaria."
+    },
+    {
+      "pregunta": "¿Qué tipos de arras existen?",
+      "respuesta": "Existen tres tipos: arras confirmatorias, penitenciales y penales, cada una con diferentes implicaciones legales en caso de incumplimiento."
+    },
+    {
+      "pregunta": "¿Qué pasa si una parte incumple el contrato?",
+      "respuesta": "Si incumple el comprador, puede perder la cantidad entregada. Si incumple el vendedor, podría devolver el doble de la cantidad recibida."
+    }
+  ],
+  "informacionLegal": "Diseñado conforme a las normativas legales españolas para contratos de compraventa inmobiliaria.",
+  "detalles": {
+    "fechaActualizacion": "28 de marzo de 2025",
+    "tamanoArchivo": "35 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "25-40 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Especifica claramente el inmueble objeto de compraventa.",
+    "Define el precio total y la cantidad de las arras.",
+    "Establece plazos claros para la firma del contrato definitivo.",
+    "Incluye condiciones suspensivas si es necesario.",
+    "Conserva toda la documentación relacionada."
+  ]
+}

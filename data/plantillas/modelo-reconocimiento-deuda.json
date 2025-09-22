@@ -1,0 +1,72 @@
+{
+  "id": "modelo-reconocimiento-deuda",
+  "titulo": "Modelo de Reconocimiento de Deuda",
+  "slug": "modelo-de-reconocimiento-de-deuda",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para documentar el reconocimiento de una deuda y establecer las condiciones de pago, conforme a la normativa vigente en España.",
+  "imagenUrl": "/images/plantillas/modelo-reconocimiento-deuda.jpg",
+  "descargas": 5234,
+  "valoracion": 4.6,
+  "caracteristicas": [
+    "Editable en Microsoft Word y PDF",
+    "Secciones para datos del deudor y acreedor",
+    "Especificación clara del importe de la deuda y condiciones de pago",
+    "Cláusulas sobre intereses, garantías y consecuencias del incumplimiento",
+    "Diseño profesional y fácil de personalizar",
+    "Adaptado a regulaciones legales españolas"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.camercedes.org.ar/wp-content/uploads/2016/12/ISO9001-TA-Reconocimiento-de-deuda-y-convenio-de-pago-de-multa.doc"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.bufetefigueras.com/wp-content/uploads/2018/10/RECONOCIMIENTO-DE-DEUDA-Y-PAGO-APLAZADO.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado",
+    "Abre con el software correspondiente",
+    "Completa los datos del deudor y acreedor",
+    "Especifica el importe de la deuda, causa y condiciones de pago",
+    "Revisa cuidadosamente la información",
+    "Firma el documento con ambas partes",
+    "Conserva copias firmadas para ambas partes"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un documento de reconocimiento de deuda?",
+      "respuesta": "Es un documento donde una persona (deudor) reconoce deber dinero a otra (acreedor) y se compromete a pagar bajo condiciones establecidas."
+    },
+    {
+      "pregunta": "¿Es necesario firmar ante notario?",
+      "respuesta": "No es obligatorio, pero hacerlo proporciona mayor seguridad jurídica y facilita la ejecución en caso de impago."
+    },
+    {
+      "pregunta": "¿Qué pasa si el deudor no paga?",
+      "respuesta": "El acreedor puede iniciar acciones legales para reclamar la deuda, incluyendo intereses de demora y gastos legales."
+    }
+  ],
+  "informacionLegal": "Plantilla elaborada conforme a la normativa legal española para el reconocimiento y pago de deudas.",
+  "detalles": {
+    "fechaActualizacion": "2 de abril de 2025",
+    "tamanoArchivo": "30 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "20-35 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Especifica claramente el origen de la deuda.",
+    "Define un calendario de pagos realista.",
+    "Incluye cláusulas de interés por demora si procede.",
+    "Considera establecer garantías adicionales.",
+    "Conserva toda la documentación relacionada con la deuda."
+  ]
+}

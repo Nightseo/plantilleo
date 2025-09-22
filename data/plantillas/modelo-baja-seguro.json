@@ -1,0 +1,82 @@
+{
+  "id": "modelo-baja-seguro",
+  "titulo": "Modelo de Baja de Seguro",
+  "slug": "modelo-baja-seguro",
+  "categoria": "Seguros",
+  "descripcion": "Plantilla formal para solicitar la baja de un seguro de cualquier tipo: hogar, coche, salud o vida. Adaptable a cualquier compañía aseguradora y conforme a la normativa vigente.",
+  "imagenUrl": "https://www.polizamedica.es/images_pm/modelo-carta-dar-de-baja-seguro.png",
+  "descargas": 4892,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Estructura clara y formal",
+    "Cumple con la Ley de Contrato de Seguro en España",
+    "Incluye secciones para datos del tomador y póliza",
+    "Válido para cualquier tipo de seguro",
+    "Editable en Word y PDF",
+    "Plantilla adaptable a todas las aseguradoras"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.audiolis.com/wp-content/uploads/2020/08/Carta-anulacion-seguros-comunidades-propietarios.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://unodeene.es/todossomosclientes/modelos/Modelo_cancelacion_seguro.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo se puede solicitar la baja de un seguro?",
+      "respuesta": "Para dar de baja un seguro en España, se debe notificar a la compañía aseguradora con al menos **un mes de antelación** antes de la fecha de renovación automática, según establece la Ley de Contrato de Seguro (Ley 50/1980). En algunos casos, puede aceptarse la baja fuera de plazo si hay un motivo justificado, como cambios en las condiciones del contrato."
+    },
+    {
+      "pregunta": "¿Qué datos debe incluir una carta de baja de seguro?",
+      "respuesta": "El documento debe incluir el nombre del tomador, número de póliza, compañía aseguradora, motivo de la baja (opcional), fecha de solicitud y firma. Además, se recomienda solicitar acuse de recibo o confirmación escrita de la aseguradora para evitar problemas posteriores."
+    },
+    {
+      "pregunta": "¿Cómo se debe presentar la solicitud de baja?",
+      "respuesta": "La carta de baja puede enviarse por correo certificado con acuse de recibo, mediante burofax, email con confirmación de lectura o entregarse en una oficina física de la aseguradora. Se recomienda conservar una copia del documento sellado o la confirmación de recepción como prueba."
+    },
+    {
+      "pregunta": "¿Puedo cancelar un seguro en cualquier momento?",
+      "respuesta": "Depende del tipo de seguro y sus condiciones contractuales. En la mayoría de los casos, solo se puede cancelar en la fecha de vencimiento con preaviso de un mes. Sin embargo, algunos seguros permiten cancelaciones anticipadas si el asegurado justifica un cambio en las circunstancias que afecten la póliza."
+    },
+    {
+      "pregunta": "¿Qué pasa si la aseguradora rechaza mi solicitud de baja?",
+      "respuesta": "Si la aseguradora no acepta la baja sin justificación válida, puedes presentar una reclamación ante la Dirección General de Seguros y Fondos de Pensiones o acudir a una asociación de consumidores. Es fundamental contar con pruebas de la solicitud enviada en tiempo y forma."
+    }
+  ],
+  "informacionLegal": "Este modelo de baja de seguro cumple con la normativa establecida en la Ley 50/1980 de Contrato de Seguro en España. El asegurado tiene derecho a cancelar la póliza con un preaviso de **un mes antes de la renovación automática**. Se recomienda enviar la solicitud por un medio que deje constancia de su recepción y, en caso de disputa, recurrir a organismos de defensa del consumidor o la Dirección General de Seguros.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "2 MB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-20 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena los campos con tus datos personales y los de la póliza de seguro.",
+    "Asegúrate de incluir la fecha exacta en la que deseas dar de baja el seguro.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y envíalo a la aseguradora por un medio válido (correo certificado, burofax, email con acuse de recibo, etc.).",
+    "Guarda una copia de la solicitud y la confirmación de recepción de la aseguradora."
+  ],
+  "consejos": [
+    "Envía la solicitud con al menos **un mes de antelación** a la fecha de renovación.",
+    "Usa medios que dejen constancia de la recepción de la solicitud (burofax, correo certificado, email con confirmación).",
+    "Si cancelas por cambios en las condiciones del contrato, adjunta la documentación justificativa.",
+    "Solicita a la aseguradora una confirmación por escrito de la baja.",
+    "Guarda una copia del documento enviado y del acuse de recibo.",
+    "Si la aseguradora rechaza la baja sin justificación, presenta una reclamación ante la Dirección General de Seguros."
+  ]
+}

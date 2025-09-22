@@ -1,0 +1,80 @@
+{
+  "id": "modelo-solicitud-excedencia-voluntaria",
+  "titulo": "Modelo de Solicitud de Excedencia Voluntaria",
+  "slug": "modelo-solicitud-excedencia-voluntaria",
+  "categoria": "Recursos Humanos",
+  "descripcion": "Plantilla formal para solicitar una excedencia voluntaria en una empresa, cumpliendo con la normativa laboral vigente en España.",
+  "imagenUrl": "https://solicitar-acta.com/wp-content/uploads/2020/09/modelo-carta-excedencia-voluntaria.jpg",
+  "descargas": 2890,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Formato legalmente válido según el Estatuto de los Trabajadores",
+    "Incluye secciones para datos personales, periodo de excedencia y firma",
+    "Diseño claro y fácil de completar",
+    "Editable en Word y PDF",
+    "Adecuado para trabajadores de todos los sectores",
+    "Facilita la comunicación formal con la empresa"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://afapna.es/wp-content/uploads/2021/02/Solicitud-de-EXCEDENCIA-VOLUNTARIA.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://ugthuawei.es/wp-content/uploads/2019/04/Plantilla-Excedencia-Voluntaria.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una excedencia voluntaria?",
+      "respuesta": "Es el derecho del trabajador a suspender temporalmente su contrato laboral por motivos personales, sin recibir remuneración, manteniendo un derecho preferente al reingreso en la empresa."
+    },
+    {
+      "pregunta": "¿Cuál es la duración mínima y máxima de una excedencia voluntaria?",
+      "respuesta": "Según el artículo 46 del Estatuto de los Trabajadores, la duración mínima es de cuatro meses y la máxima de cinco años."
+    },
+    {
+      "pregunta": "¿Qué requisitos se deben cumplir para solicitar una excedencia voluntaria?",
+      "respuesta": "Es necesario tener una antigüedad mínima de un año en la empresa y no haber disfrutado de otra excedencia en los cuatro años anteriores."
+    },
+    {
+      "pregunta": "¿Se tiene derecho a reserva del puesto de trabajo durante la excedencia?",
+      "respuesta": "No, durante la excedencia voluntaria no hay reserva del puesto, pero se mantiene un derecho preferente al reingreso en vacantes de igual o similar categoría."
+    },
+    {
+      "pregunta": "¿Cómo se solicita el reingreso tras una excedencia voluntaria?",
+      "respuesta": "El trabajador debe comunicar por escrito su intención de reingresar antes de finalizar la excedencia, y la empresa deberá informarle sobre las vacantes disponibles."
+    }
+  ],
+  "informacionLegal": "Este modelo de solicitud de excedencia voluntaria está adaptado a la normativa vigente en España, específicamente al artículo 46 del Estatuto de los Trabajadores. Se recomienda presentar la solicitud por escrito y con suficiente antelación, según lo establecido en el convenio colectivo aplicable.",
+  "detalles": {
+    "fechaActualizacion": "9 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-15 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en formato DOCX o PDF.",
+    "Abre el archivo con un editor compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena tus datos personales, los de la empresa y especifica el periodo de excedencia.",
+    "Revisa el documento para asegurarte de que toda la información es correcta.",
+    "Firma el documento y entrégalo al departamento de recursos humanos o a tu superior directo.",
+    "Guarda una copia de la solicitud firmada para tus registros."
+  ],
+  "consejos": [
+    "Consulta el convenio colectivo de tu sector para verificar condiciones específicas sobre la excedencia voluntaria.",
+    "Presenta la solicitud con la antelación requerida para facilitar la organización interna de la empresa.",
+    "Mantén una comunicación abierta con la empresa durante el periodo de excedencia.",
+    "Infórmate sobre tus derechos y obligaciones durante la excedencia para evitar malentendidos.",
+    "Planifica con tiempo tu reincorporación y comunica tu intención de reingreso según los plazos establecidos."
+  ]
+}

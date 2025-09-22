@@ -1,0 +1,80 @@
+{
+  "id": "modelo-contrato-de-arras",
+  "titulo": "Modelo de Contrato de Arras",
+  "slug": "modelo-contrato-de-arras",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para establecer un acuerdo de arras en la compraventa de inmuebles, conforme a la normativa vigente en España.",
+  "imagenUrl": "https://hispacoop.es/wp-content/uploads/2021/12/Formulario-Contrato-de-Arras.jpg",
+  "descargas": 3200,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Formato editable en Microsoft Word y PDF",
+    "Incluye secciones para datos del comprador y vendedor",
+    "Especificación clara de las condiciones de la compraventa",
+    "Cláusulas sobre arras penitenciales y consecuencias de incumplimiento",
+    "Diseño profesional y fácil de personalizar",
+    "Adaptado a la normativa legal española"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://st1.idealista.com/static/common/pdf/vendorleads/modelo_contrato_de_arras.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://planesdefuturo.mapfre.es/media/2021/09/008.-canalJUBILACION_Contrato-de-arras-MODELO.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado (DOCX o PDF).",
+    "Abre el archivo con el software correspondiente (Microsoft Word o un lector de PDF).",
+    "Completa los datos del comprador y del vendedor.",
+    "Especifica las condiciones de la compraventa, incluyendo el precio y las arras.",
+    "Revisa cuidadosamente la información antes de firmar.",
+    "Firma el documento junto con la otra parte.",
+    "Guarda una copia firmada para ambas partes."
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un contrato de arras?",
+      "respuesta": "Es un acuerdo privado entre comprador y vendedor de un inmueble que formaliza un compromiso de compraventa, incluyendo una cantidad de dinero como señal o garantía."
+    },
+    {
+      "pregunta": "¿Qué tipos de arras existen?",
+      "respuesta": "Existen tres tipos: arras confirmatorias, arras penitenciales y arras penales, cada una con diferentes implicaciones legales en caso de incumplimiento."
+    },
+    {
+      "pregunta": "¿Qué ocurre si una de las partes incumple el contrato de arras?",
+      "respuesta": "Si el comprador incumple, puede perder la cantidad entregada. Si el vendedor incumple, puede estar obligado a devolver el doble de la cantidad recibida."
+    },
+    {
+      "pregunta": "¿Es obligatorio firmar un contrato de arras?",
+      "respuesta": "No es obligatorio, pero es recomendable para asegurar el compromiso de ambas partes en la compraventa de un inmueble."
+    },
+    {
+      "pregunta": "¿El contrato de arras sustituye al contrato de compraventa?",
+      "respuesta": "No, el contrato de arras es un acuerdo previo que garantiza la futura firma del contrato de compraventa definitivo."
+    }
+  ],
+  "informacionLegal": "Esta plantilla ha sido diseñada conforme a la normativa legal española en materia de contratos de arras. Se recomienda su uso para garantizar el compromiso en la compraventa de inmuebles. En caso de duda, se aconseja consultar con un abogado especializado.",
+  "detalles": {
+    "fechaActualizacion": "18 de marzo de 2025",
+    "tamanoArchivo": "35 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-20 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Especifica claramente las condiciones de la compraventa para evitar malentendidos.",
+    "Incluye una copia de los documentos de identidad de ambas partes.",
+    "Establece plazos claros para la firma del contrato de compraventa definitivo.",
+    "Guarda una copia del documento firmado por ambas partes.",
+    "Consulta con un profesional sobre las implicaciones legales del contrato de arras."
+  ]
+}

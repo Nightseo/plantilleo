@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Indicar a Google dónde encontrar el favicon para SERPs
+# Esto ayuda a Google a encontrar el favicon correcto
+Sitemap: https://www.plantilleo.com/sitemap.xml
+

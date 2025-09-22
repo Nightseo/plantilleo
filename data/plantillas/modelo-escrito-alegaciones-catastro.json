@@ -1,0 +1,83 @@
+{
+  "id": "modelo-escrito-alegaciones-catastro",
+  "titulo": "Modelo de Escrito de Alegaciones al Catastro",
+  "slug": "modelo-escrito-alegaciones-catastro",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para presentar alegaciones ante el Catastro, dirigida a la Gerencia Regional del Catastro, cumpliendo con la normativa legal vigente en España.",
+  "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/355344923/original/0738ffb4d7/1?v=1",
+  "descargas": 3120,
+  "valoracion": 4.6,
+  "caracteristicas": [
+    "Formato legalmente válido según la normativa catastral española",
+    "Incluye secciones para datos del interesado, descripción de la discrepancia y fundamentos de la alegación",
+    "Diseño claro y fácil de completar",
+    "Editable en Word y PDF",
+    "Adecuado para propietarios de bienes inmuebles",
+    "Facilita la comunicación formal con la Administración Catastral"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://sede.carm.es/documentos/707/Modelo%20alegaciones%20P-0707.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.supercontable.com/boletin/A/formularios/alegaciones_comprobacion_valores.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una alegación al Catastro?",
+      "respuesta": "Es un escrito formal que presenta el propietario de un bien inmueble ante la Gerencia Regional del Catastro para manifestar su desacuerdo con datos catastrales que considera incorrectos, como el valor catastral, la superficie o el uso del inmueble."
+    },
+    {
+      "pregunta": "¿Cuándo se debe presentar una alegación al Catastro?",
+      "respuesta": "Se debe presentar cuando el propietario detecta errores o discrepancias en los datos catastrales de su propiedad, especialmente tras recibir una notificación de alteración catastral o de regularización de valores."
+    },
+    {
+      "pregunta": "¿Qué información debe incluir el escrito de alegaciones?",
+      "respuesta": "Debe contener los datos identificativos del interesado, la descripción detallada de la discrepancia, los fundamentos legales que respaldan la alegación y la documentación que pruebe la veracidad de lo expuesto."
+    },
+    {
+      "pregunta": "¿Dónde se presenta el escrito de alegaciones al Catastro?",
+      "respuesta": "Se presenta en la Gerencia Regional del Catastro correspondiente al lugar donde se ubica el inmueble, pudiendo entregarse de forma presencial, por correo certificado o a través de la sede electrónica del Catastro."
+    },
+    {
+      "pregunta": "¿Qué plazo hay para presentar las alegaciones?",
+      "respuesta": "El plazo habitual es de 15 días hábiles desde la notificación de la resolución o acuerdo que se desea impugnar, aunque puede variar según el procedimiento específico."
+    }
+  ],
+  "informacionLegal": "Este modelo de escrito de alegaciones al Catastro está adaptado a la normativa legal vigente en España. Se recomienda revisar la legislación específica aplicable al caso concreto y, si es necesario, consultar con un profesional legal para garantizar que la alegación cumple con todos los requisitos legales.",
+  "detalles": {
+    "fechaActualizacion": "10 de marzo de 2025",
+    "tamanoArchivo": "29 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-30 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Rellena tus datos personales y los del inmueble en cuestión.",
+    "Describe detalladamente la discrepancia encontrada en los datos catastrales.",
+    "Fundamenta legalmente tu alegación, citando la normativa aplicable.",
+    "Adjunta pruebas como planos, escrituras o informes técnicos que respalden tu alegación.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento y envíalo a la Gerencia Regional del Catastro por un medio que deje constancia de su recepción.",
+    "Guarda una copia de la alegación y de los documentos adjuntos para tu registro."
+  ],
+  "consejos": [
+    "Documenta las discrepancias con pruebas sólidas como planos actualizados, fotografías o informes técnicos.",
+    "Envía la alegación por medios que acrediten su recepción, como correo certificado o la sede electrónica del Catastro.",
+    "Conserva copias de todos los documentos enviados y recibidos relacionados con la alegación.",
+    "Si no obtienes respuesta en un plazo razonable, considera buscar asesoramiento legal para posibles acciones adicionales.",
+    "Mantén una comunicación formal y respetuosa con la Administración Catastral para facilitar una resolución favorable."
+  ]
+}

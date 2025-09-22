@@ -1,0 +1,71 @@
+{
+  "id": "modelo-certificado-horario-laboral-colegio",
+  "titulo": "Modelo de Certificado de Horario Laboral para Colegio",
+  "slug": "modelo-de-certificado-de-horario-laboral-para-colegio",
+  "categoria": "Educación",
+  "descripcion": "Plantilla formal para certificar el horario laboral de un trabajador, útil para justificar horarios ante instituciones educativas.",
+  "imagenUrl": "/images/plantillas/modelo-certificado-horario-laboral-colegio.jpg",
+  "descargas": 4123,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Formato editable en Microsoft Word y PDF",
+    "Incluye secciones para datos del empleador y del empleado",
+    "Especificación clara del horario laboral y días de trabajo",
+    "Diseño profesional y fácil de personalizar",
+    "Adaptado a la normativa laboral española"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://templates.onlyoffice.com/es/formulario-certificado-de-horario-laboral"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.ceo.es/wp-content/uploads/2020/03/Modelos-certificados-desplazamientos-trabajadores.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado",
+    "Abre el archivo con el software correspondiente",
+    "Completa los datos de la empresa y del empleado",
+    "Especifica el horario laboral y días de trabajo",
+    "Revisa la información para asegurar su exactitud",
+    "Firma y sella el documento",
+    "Entrega al empleado para presentar en el colegio"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un certificado de horario laboral?",
+      "respuesta": "Es un documento emitido por la empresa que acredita el horario de trabajo de un empleado"
+    },
+    {
+      "pregunta": "¿Quién debe firmar el certificado?",
+      "respuesta": "Debe ser firmado por el representante legal de la empresa o el responsable de recursos humanos"
+    },
+    {
+      "pregunta": "¿Este certificado tiene validez legal?",
+      "respuesta": "Sí, siempre que esté correctamente firmado y, preferiblemente, sellado por la empresa, tiene validez legal"
+    }
+  ],
+  "informacionLegal": "Este certificado cumple con la normativa laboral española y es válido para justificar horarios ante instituciones educativas.",
+  "detalles": {
+    "fechaActualizacion": "30 de marzo de 2025",
+    "tamanoArchivo": "22 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-15 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Incluye el sello de la empresa para mayor formalidad.",
+    "Especifica claramente los horarios de entrada y salida.",
+    "Indica si hay horarios especiales o flexibles.",
+    "Conserva una copia en el expediente del empleado.",
+    "Actualiza el certificado si cambian las condiciones laborales."
+  ]
+}

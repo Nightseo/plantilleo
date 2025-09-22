@@ -1,0 +1,83 @@
+{
+  "id": "modelo-consentimiento-proteccion-datos",
+  "titulo": "Modelo de Consentimiento de Protección de Datos",
+  "slug": "modelo-de-consentimiento-de-proteccion-de-datos",
+  "categoria": "Legal",
+  "descripcion": "Plantilla para recopilar el consentimiento informado para el tratamiento de datos personales, conforme al Reglamento General de Protección de Datos (RGPD)",
+  "imagenUrl": "/images/plantillas/modelo-consentimiento-proteccion-datos.jpg",
+  "descargas": 4521,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Editable en Microsoft Word y PDF",
+    "Incluye secciones para identificación del responsable del tratamiento",
+    "Especifica finalidad y base legal",
+    "Define destinatarios de los datos",
+    "Detalla derechos del usuario",
+    "Establece período de conservación",
+    "Diseño profesional",
+    "Adaptable a diferentes sectores",
+    "Cumple con RGPD",
+    "Facilita el consentimiento informado"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.aepd.es/sites/default/files/2020-09/modelo-consentimiento-datos-personales.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.aepd.es/sites/default/files/2020-09/modelo-consentimiento-datos-personales.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado",
+    "Abre con el software correspondiente",
+    "Completa la información específica de tu entidad",
+    "Revisa la claridad y comprensibilidad",
+    "Entrega al interesado para su firma",
+    "Conserva el documento firmado de forma segura"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es el consentimiento informado en protección de datos?",
+      "respuesta": "Es la manifestación de voluntad libre, específica, informada e inequívoca por la que el interesado acepta el tratamiento de datos personales que le conciernen."
+    },
+    {
+      "pregunta": "¿Cuándo es necesario el consentimiento para tratar datos personales?",
+      "respuesta": "Cuando no existe otra base legal como la ejecución de un contrato o el cumplimiento de una obligación legal."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el consentimiento según el RGPD?",
+      "respuesta": "Debe ser libre, específico, informado e inequívoco. Requiere una acción afirmativa clara."
+    },
+    {
+      "pregunta": "¿Puede el interesado retirar el consentimiento?",
+      "respuesta": "Sí, en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo."
+    },
+    {
+      "pregunta": "¿Qué información debe incluir el modelo de consentimiento?",
+      "respuesta": "Identidad del responsable del tratamiento, finalidad, base legal, destinatarios de los datos, derechos del usuario y período de conservación."
+    }
+  ],
+  "informacionLegal": "Elaborado conforme al Reglamento General de Protección de Datos (RGPD) de la UE y la normativa española de protección de datos. Se recomienda adaptar a las necesidades específicas de cada organización.",
+  "detalles": {
+    "fechaActualizacion": "20 de marzo de 2025",
+    "tamanoArchivo": "32 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-25 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Utiliza un lenguaje claro y comprensible para el interesado.",
+    "Evita cláusulas abusivas o desproporcionadas.",
+    "Especifica claramente qué datos se van a tratar y para qué.",
+    "Informa sobre la posibilidad de retirar el consentimiento.",
+    "Conserva una copia firmada del consentimiento."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "modelo-contrato-prestamo-particulares-sin-intereses",
+  "titulo": "Modelo de Contrato de Préstamo Entre Particulares Sin Intereses",
+  "slug": "modelo-contrato-prestamo-particulares-sin-intereses",
+  "categoria": "Legal",
+  "descripcion": "Plantilla legal para formalizar un préstamo entre particulares sin intereses. Adaptado a la normativa española y válido para acuerdos privados entre familiares o amigos.",
+  "imagenUrl": "https://static-oforms.onlyoffice.com/image1_d400adda75.png",
+  "descargas": 5218,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Contrato formal y legalmente válido",
+    "Cumple con la normativa fiscal española",
+    "Incluye cláusulas para devolución del préstamo",
+    "Válido para préstamos entre familiares o amigos",
+    "Editable en Word y PDF",
+    "Plantilla adaptada para evitar problemas fiscales"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.solucionesong.org/img/foros/59b69b1108513/761316_Uri.doc"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://static-oforms.onlyoffice.com/prestamo_entre_familiares_29098e672e.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Es obligatorio formalizar un préstamo entre particulares por escrito?",
+      "respuesta": "No es obligatorio, pero sí recomendable. Un contrato por escrito ayuda a evitar conflictos futuros y sirve como prueba legal en caso de incumplimiento. Además, Hacienda podría considerar que un préstamo no documentado es una donación, lo que conlleva implicaciones fiscales."
+    },
+    {
+      "pregunta": "¿Se debe declarar un préstamo entre particulares sin intereses?",
+      "respuesta": "Sí, aunque no tenga intereses, el prestamista y el prestatario deben declarar la operación a Hacienda mediante el modelo 600 para evitar que se interprete como una donación sujeta al Impuesto de Sucesiones y Donaciones."
+    },
+    {
+      "pregunta": "¿Qué elementos debe incluir un contrato de préstamo entre particulares?",
+      "respuesta": "El contrato debe especificar los datos del prestamista y del prestatario, la cantidad prestada, el plazo de devolución, la ausencia de intereses y cualquier otra condición acordada, como pagos parciales o cláusulas en caso de impago."
+    },
+    {
+      "pregunta": "¿Qué sucede si el prestatario no devuelve el dinero?",
+      "respuesta": "Si el prestatario no cumple con la devolución del préstamo, el prestamista puede acudir a la vía judicial y reclamar la deuda como un impago, siempre que el contrato esté correctamente firmado por ambas partes."
+    },
+    {
+      "pregunta": "¿Se pueden establecer plazos de devolución en este contrato?",
+      "respuesta": "Sí, el contrato puede incluir una fecha límite de devolución o acordar pagos fraccionados. Es recomendable detallar estos plazos para evitar malentendidos entre ambas partes."
+    }
+  ],
+  "informacionLegal": "Este modelo de contrato de préstamo entre particulares sin intereses está adaptado a la normativa española y cumple con los requisitos establecidos por la Agencia Tributaria. Se recomienda presentar el modelo 600 ante Hacienda para evitar problemas fiscales. En caso de conflicto, el contrato puede ser utilizado como prueba en procedimientos legales.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "100 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-30 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "comoUsar": [
+    "Descarga la plantilla en tu formato preferido (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, etc.).",
+    "Completa los datos del prestamista y del prestatario, así como la cantidad prestada.",
+    "Indica el plazo de devolución del préstamo y si habrá pagos parciales.",
+    "Revisa cuidadosamente el contenido antes de imprimir o enviar.",
+    "Firma el documento en presencia de testigos o con reconocimiento notarial si es necesario.",
+    "Guarda una copia del contrato y presenta el modelo 600 en Hacienda si aplica."
+  ],
+  "consejos": [
+    "Especifica claramente el plazo de devolución para evitar malentendidos.",
+    "Si el préstamo es entre familiares, regístralo en Hacienda para evitar problemas fiscales.",
+    "Guarda copias del contrato firmado en formato digital y en papel.",
+    "Si hay testigos, haz que firmen el contrato para mayor seguridad jurídica.",
+    "En caso de impago, intenta llegar a un acuerdo antes de recurrir a la vía legal."
+  ]
+}

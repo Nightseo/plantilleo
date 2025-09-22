@@ -1,0 +1,80 @@
+{
+  "id": "modelo-reconocimiento-de-deuda",
+  "titulo": "Modelo de Reconocimiento de Deuda",
+  "slug": "modelo-reconocimiento-de-deuda",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para documentar el reconocimiento de una deuda y establecer las condiciones de pago, conforme a la normativa vigente en España.",
+  "imagenUrl": "https://www.ejemplo.com/imagenes/modelo-reconocimiento-de-deuda.jpg",
+  "descargas": 2800,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Formato editable en Microsoft Word y PDF",
+    "Incluye secciones para datos del deudor y acreedor",
+    "Especificación clara del monto adeudado y condiciones de pago",
+    "Cláusulas sobre intereses, garantías y consecuencias de incumplimiento",
+    "Diseño profesional y fácil de personalizar",
+    "Adaptado a la normativa legal española"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.camercedes.org.ar/wp-content/uploads/2016/12/ISO9001-TA-Reconocimiento-de-deuda-y-convenio-de-pago-de-multa.doc"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.bufetefigueras.com/wp-content/uploads/2018/10/RECONOCIMIENTO-DE-DEUDA-Y-PAGO-APLAZADO.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado (DOCX o PDF).",
+    "Abre el archivo con el software correspondiente (Microsoft Word o un lector de PDF).",
+    "Completa los datos del deudor y del acreedor.",
+    "Especifica detalladamente el monto de la deuda, la causa de la misma y las condiciones de pago.",
+    "Revisa cuidadosamente la información antes de firmar.",
+    "Firma el documento junto con la otra parte.",
+    "Guarda una copia firmada para ambas partes."
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un reconocimiento de deuda?",
+      "respuesta": "Es un documento mediante el cual una persona (deudor) reconoce deber una cantidad de dinero a otra (acreedor) y se compromete a pagarla en las condiciones establecidas."
+    },
+    {
+      "pregunta": "¿Es necesario firmar el reconocimiento de deuda ante notario?",
+      "respuesta": "No es obligatorio, pero hacerlo ante notario otorga mayor seguridad jurídica y facilita su ejecución en caso de incumplimiento."
+    },
+    {
+      "pregunta": "¿Qué ocurre si el deudor no cumple con el pago acordado?",
+      "respuesta": "El acreedor puede iniciar acciones legales para reclamar la deuda, incluyendo intereses de demora y gastos legales."
+    },
+    {
+      "pregunta": "¿Se pueden establecer garantías en el reconocimiento de deuda?",
+      "respuesta": "Sí, es posible incluir garantías como avales o prendas para asegurar el cumplimiento del pago."
+    },
+    {
+      "pregunta": "¿Es válido un reconocimiento de deuda entre familiares?",
+      "respuesta": "Sí, siempre que se cumplan los requisitos legales y el documento refleje claramente la voluntad de las partes."
+    }
+  ],
+  "informacionLegal": "Esta plantilla ha sido diseñada conforme a la normativa legal española en materia de reconocimiento de deudas. Se recomienda su uso para formalizar acuerdos de pago y evitar futuros conflictos. En caso de duda, se aconseja consultar con un abogado especializado.",
+  "detalles": {
+    "fechaActualizacion": "18 de marzo de 2025",
+    "tamanoArchivo": "40 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "10-15 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Especifica claramente el monto de la deuda y las condiciones de pago para evitar malentendidos.",
+    "Incluye una copia de los documentos de identidad de ambas partes.",
+    "Establece plazos realistas y acordes a la capacidad de pago del deudor.",
+    "Guarda una copia del documento firmado por ambas partes.",
+    "Considera la posibilidad de incluir garantías para asegurar el cumplimiento del pago."
+  ]
+}

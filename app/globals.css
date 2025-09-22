@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 30 50% 98%;
+    --foreground: 30 10% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 30 10% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 10% 10%;
+
+    --primary: 24 95% 60%;
+    --primary-foreground: 30 10% 10%;
+
+    --secondary: 30 30% 90%;
+    --secondary-foreground: 30 10% 10%;
+
+    --muted: 30 30% 90%;
+    --muted-foreground: 30 10% 40%;
+
+    --accent: 30 30% 90%;
+    --accent-foreground: 30 10% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 30 30% 90%;
+    --input: 30 30% 90%;
+    --ring: 24 95% 60%;
+
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 30 20% 10%;
+    --foreground: 30 10% 98%;
+
+    --card: 30 20% 10%;
+    --card-foreground: 30 10% 98%;
+
+    --popover: 30 20% 10%;
+    --popover-foreground: 30 10% 98%;
+
+    --primary: 24 95% 60%;
+    --primary-foreground: 30 10% 10%;
+
+    --secondary: 30 30% 20%;
+    --secondary-foreground: 30 10% 98%;
+
+    --muted: 30 30% 20%;
+    --muted-foreground: 30 10% 60%;
+
+    --accent: 30 30% 20%;
+    --accent-foreground: 30 10% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 30 10% 98%;
+
+    --border: 30 30% 20%;
+    --input: 30 30% 20%;
+    --ring: 24 95% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+
+.font-serif {
+  font-family: var(--font-playfair), serif;
+}
+
+.font-sans {
+  font-family: var(--font-inter), sans-serif;
+}
+
+@keyframes blob {
+  0% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate(30px, -50px) scale(1.1);
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+  100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+}
+
+.animate-blob {
+  animation: blob 7s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+.noise-bg {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 200px 200px;
+}
+
+@layer components {
+  .btn-word {
+    @apply bg-gradient-to-r from-blue-500 to-blue-700 text-white hover:from-blue-600 hover:to-blue-800;
+  }
+
+  .btn-pdf {
+    @apply bg-gradient-to-r from-red-500 to-red-700 text-white hover:from-red-600 hover:to-red-800;
+  }
+
+  .btn-primary {
+    @apply bg-gradient-to-r from-orange-500 to-orange-600 text-white hover:from-orange-600 hover:to-orange-700;
+  }
+
+  .feature-card {
+    @apply bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow;
+  }
+
+  .feature-icon {
+    @apply bg-orange-50 p-3 rounded-full w-fit mb-4;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+

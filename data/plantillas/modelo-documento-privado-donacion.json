@@ -1,0 +1,72 @@
+{
+  "id": "modelo-documento-privado-donacion",
+  "titulo": "Modelo de Documento Privado de Donación",
+  "slug": "modelo-de-documento-privado-de-donacion",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para donación privada de bienes muebles o dinero, conforme a las regulaciones españolas",
+  "imagenUrl": "/images/plantillas/modelo-documento-privado-donacion.jpg",
+  "descargas": 3421,
+  "valoracion": 4.7,
+  "caracteristicas": [
+    "Editable en Microsoft Word y PDF",
+    "Secciones para datos del donante y donatario",
+    "Especificación clara del bien donado/cantidad",
+    "Cláusulas sobre obligaciones fiscales y condiciones",
+    "Diseño profesional y fácil de personalizar",
+    "Adaptado a normativas legales españolas"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.ejemplo.com/plantillas/modelo-documento-privado-donacion.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.ejemplo.com/plantillas/modelo-documento-privado-donacion.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado",
+    "Abre con el software correspondiente",
+    "Completa los datos del donante y donatario",
+    "Describe el bien donado o cantidad de dinero con precisión",
+    "Revisa cuidadosamente la información",
+    "Firma el documento junto con ambas partes",
+    "Conserva copia firmada para ambas partes"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un documento privado de donación?",
+      "respuesta": "Es un contrato por el cual una persona transfiere gratuitamente la propiedad de un bien mueble o dinero a otra, sin necesidad de escritura pública."
+    },
+    {
+      "pregunta": "¿Es necesario registrar la donación?",
+      "respuesta": "Para bienes muebles o dinero, no es obligatorio el registro, pero sí recomendable para efectos legales y fiscales."
+    },
+    {
+      "pregunta": "¿Qué impuestos se aplican a las donaciones?",
+      "respuesta": "Las donaciones están sujetas al Impuesto de Sucesiones y Donaciones, que varía según la comunidad autónoma y el valor del bien donado."
+    }
+  ],
+  "informacionLegal": "Plantilla diseñada conforme a la normativa legal española para donaciones de bienes muebles o dinero. Se recomienda consulta con abogado especializado para casos específicos.",
+  "detalles": {
+    "fechaActualizacion": "22 de marzo de 2025",
+    "tamanoArchivo": "28 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "20-30 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Especifica claramente el bien donado y su valor aproximado.",
+    "Incluye las condiciones de la donación si las hay.",
+    "Considera las implicaciones fiscales antes de realizar la donación.",
+    "Conserva una copia firmada para tus registros.",
+    "Consulta con un asesor fiscal para situaciones complejas."
+  ]
+}

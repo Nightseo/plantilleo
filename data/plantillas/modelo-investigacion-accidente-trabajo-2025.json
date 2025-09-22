@@ -1,0 +1,82 @@
+{
+  "id": "modelo-investigacion-accidente-trabajo-2025",
+  "titulo": "Modelo de Investigación de Accidente de Trabajo 2025",
+  "slug": "modelo-investigacion-accidente-trabajo-2025",
+  "categoria": "Laboral",
+  "descripcion": "Plantilla detallada para documentar la investigación de accidentes laborales, cumpliendo con la normativa de prevención de riesgos en España y garantizando un análisis preciso.",
+  "imagenUrl": "https://docu-administrativo.com/wp-content/uploads/modelo-investigacion-accidente-de-trabajo-pdf-word.png",
+  "descargas": 5127,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Formato estructurado para informes laborales",
+    "Cumple con normativa de prevención de riesgos",
+    "Sección para causas, análisis y medidas correctivas",
+    "Apto para cualquier sector profesional",
+    "Editable en Word y PDF",
+    "Incluye ejemplos y recomendaciones"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://herramientaprl.org/wp-content/uploads/2018/11/6.3-Procedimiento-de-investigacion-de-accidentes-laborales-ccelpa.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "http://sbprevencion.es/wp-content/uploads/2012/10/fichainformes.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo es obligatorio realizar una investigación de accidente de trabajo?",
+      "respuesta": "En España, toda empresa está obligada a investigar los accidentes laborales cuando resulten en lesiones, incapacidades o fallecimientos, según la Ley de Prevención de Riesgos Laborales (Ley 31/1995). Esta investigación es fundamental para determinar las causas del incidente y establecer medidas preventivas que eviten su repetición."
+    },
+    {
+      "pregunta": "¿Quién debe realizar el informe de investigación del accidente?",
+      "respuesta": "El informe debe ser realizado por el responsable de prevención de riesgos laborales de la empresa, junto con el técnico de seguridad si lo hubiera. También pueden participar delegados de prevención y representantes de los trabajadores para garantizar un análisis imparcial y completo."
+    },
+    {
+      "pregunta": "¿Qué elementos debe incluir un modelo de investigación de accidente de trabajo?",
+      "respuesta": "El informe debe contener la descripción detallada del accidente, el lugar y hora en que ocurrió, datos del trabajador afectado, causas probables, testigos, consecuencias del accidente y medidas correctivas recomendadas. También debe especificar si se notificó a las autoridades competentes y si se aplicarán sanciones o ajustes en los protocolos de seguridad."
+    },
+    {
+      "pregunta": "¿Es necesario reportar todos los accidentes laborales?",
+      "respuesta": "Sí, cualquier accidente que implique lesiones, bajas médicas o daños materiales debe ser documentado y reportado a la autoridad laboral correspondiente. En el caso de accidentes graves o mortales, la empresa debe notificarlo de inmediato a la Inspección de Trabajo y Seguridad Social."
+    },
+    {
+      "pregunta": "¿Cómo ayuda este modelo a mejorar la seguridad en el trabajo?",
+      "respuesta": "Este modelo permite a las empresas analizar accidentes de manera estructurada, identificando riesgos y deficiencias en las medidas de seguridad. A través de este proceso, se pueden implementar mejoras para reducir la siniestralidad laboral y cumplir con la normativa vigente."
+    }
+  ],
+  "informacionLegal": "Este modelo cumple con la Ley 31/1995 de Prevención de Riesgos Laborales en España, así como con el Real Decreto 39/1997 que regula los Servicios de Prevención. Su uso es obligatorio en empresas que deban investigar incidentes laborales según el artículo 16 de la citada ley. Este documento es una plantilla de referencia y no sustituye el asesoramiento legal. Para situaciones complejas, se recomienda la consulta con un especialista en prevención de riesgos laborales.",
+  "detalles": {
+    "fechaActualizacion": "7 de marzo de 2025",
+    "tamanoArchivo": "64 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "30-45 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Recoge toda la información del accidente de inmediato.",
+    "Incluye declaraciones de testigos para mayor precisión.",
+    "Analiza las causas raíz del accidente y no solo los síntomas.",
+    "Proporciona medidas correctivas claras y aplicables.",
+    "Asegúrate de cumplir con la normativa de prevención de riesgos.",
+    "Guarda copias del informe para auditorías y revisiones futuras."
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato que prefieras (DOCX o PDF).",
+    "Abre el archivo con el software compatible (Microsoft Word, Google Docs, Adobe Acrobat).",
+    "Completa todos los campos con la información detallada del accidente.",
+    "Incluye declaraciones de testigos y evidencias fotográficas si las hay.",
+    "Analiza las causas del accidente y propón medidas preventivas.",
+    "Revisa cuidadosamente todo el contenido antes de finalizar el informe.",
+    "Guarda una copia digital y, si es necesario, imprime para archivar físicamente."
+  ]
+}

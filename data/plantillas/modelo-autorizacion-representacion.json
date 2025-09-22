@@ -1,0 +1,72 @@
+{
+  "id": "modelo-autorizacion-representacion",
+  "titulo": "Modelo de Autorización de Representación",
+  "slug": "modelo-de-autorizacion-de-representacion",
+  "categoria": "Legal",
+  "descripcion": "Plantilla formal para autorizar a una persona a realizar gestiones en tu nombre, conforme a la normativa vigente en España.",
+  "imagenUrl": "/images/plantillas/modelo-autorizacion-representacion.jpg",
+  "descargas": 5672,
+  "valoracion": 4.6,
+  "caracteristicas": [
+    "Editable en Microsoft Word y PDF",
+    "Secciones para datos del autorizante y autorizado",
+    "Especificación de acciones autorizadas y período de validez",
+    "Diseño profesional y claro",
+    "Adaptable a diferentes tipos de gestiones",
+    "Cumple con regulaciones legales españolas"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.agenciatributaria.gob.es/static_files/Sede/Tema/Destacados/Mod_repre/REPRESENTACION_A_INSTANCIA_CORREGIDO.doc"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.agenciatributaria.gob.es/static_files/Sede/Tema/Destacados/Mod_repre/REPRESENTACION_A_INSTANCIA_CORREGIDO.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla en el formato deseado",
+    "Abre con el software correspondiente",
+    "Completa los datos del autorizante y autorizado",
+    "Especifica las acciones autorizadas y período de validez",
+    "Revisa cuidadosamente la información",
+    "Firma el documento y entrégalo al autorizado",
+    "Presenta ante la entidad correspondiente si es necesario"
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué gestiones puede realizar un representante autorizado?",
+      "respuesta": "Solo las gestiones específicamente autorizadas en el documento. Es importante ser preciso y limitar las acciones al mínimo necesario."
+    },
+    {
+      "pregunta": "¿Necesita ser notarizada la autorización?",
+      "respuesta": "Para gestiones administrativas simples no suele ser necesario, pero para asuntos importantes se recomienda firmar ante notario o con testigos."
+    },
+    {
+      "pregunta": "¿Puedo revocar la autorización en cualquier momento?",
+      "respuesta": "Sí, el autorizante puede revocar en cualquier momento, preferiblemente por escrito, notificando al autorizado y entidades involucradas."
+    }
+  ],
+  "informacionLegal": "Esta plantilla cumple con la normativa española sobre representación y poderes, adaptándose a las necesidades de gestiones administrativas y privadas.",
+  "detalles": {
+    "fechaActualizacion": "25 de marzo de 2025",
+    "tamanoArchivo": "25 KB",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "15-25 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Especifica las acciones autorizadas de forma clara y limitada.",
+    "Incluye un período de validez claro.",
+    "Conserva una copia firmada para tus registros.",
+    "Notifica al autorizado y entidades cuando revoque la autorización.",
+    "Consulta con un abogado para situaciones complejas."
+  ]
+}

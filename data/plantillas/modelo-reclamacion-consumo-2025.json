@@ -1,0 +1,73 @@
+{
+  "id": "modelo-reclamacion-consumo-2025",
+  "titulo": "Modelo de Reclamación de Consumo 2025",
+  "slug": "modelo-reclamacion-consumo-2025",
+  "categoria": "Consumo",
+  "descripcion": "Plantilla oficial para presentar reclamaciones ante servicios de atención al cliente, organismos de consumo y vías administrativas.",
+  "imagenUrl": "/images/plantillas/modelo-reclamacion-consumo-2025.jpg",
+  "descargas": 6543,
+  "valoracion": 4.8,
+  "caracteristicas": [
+    "Formato oficial reconocido por organismos de consumo",
+    "Estructura clara para presentar hechos y peticiones",
+    "Adaptable a diversos tipos de reclamaciones",
+    "Incluye referencias normativas de protección al consumidor",
+    "Editable en Word y PDF",
+    "Incluye guía paso a paso del proceso de reclamación"
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.consumo.gob.es/sites/consumo.gob.es/files/Modelo_reclamacion_consumo.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.consumo.gob.es/sites/consumo.gob.es/files/Modelo_reclamacion_consumo.pdf"
+    }
+  ],
+  "comoUsar": [
+    "Descarga la plantilla.",
+    "Completa los datos personales y de la empresa.",
+    "Describe los hechos de forma cronológica.",
+    "Especifica la petición de forma precisa.",
+    "Adjunta copias de documentos justificativos.",
+    "Firma y presenta por duplicado.",
+    "Conserva toda la documentación del proceso."
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo debo presentar una reclamación de consumo?",
+      "respuesta": "Cuando se vulneren tus derechos como consumidor: productos defectuosos, incumplimiento de garantías, publicidad engañosa, cláusulas abusivas, cobros indebidos."
+    },
+    {
+      "pregunta": "¿Dónde se presenta una reclamación de consumo?",
+      "respuesta": "Proceso recomendado: 1) Establecimiento, 2) Oficina Municipal de Información al Consumidor, 3) Dirección de Consumo autonómica, 4) Vía judicial si el valor de la reclamación lo justifica."
+    },
+    {
+      "pregunta": "¿Qué documentación debo adjuntar a la reclamación?",
+      "respuesta": "Es fundamental adjuntar documentación justificativa: facturas, tickets, contratos, comunicaciones, fotos del producto, informes técnicos."
+    }
+  ],
+  "informacionLegal": "Esta plantilla se ajusta a la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias vigentes en España.",
+  "detalles": {
+    "fechaActualizacion": "15 de enero de 2025",
+    "tamanoArchivo": "28 kb",
+    "idiomas": [
+      "Español"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Acrobat Reader"
+    ],
+    "tiempoEdicion": "20-40 minutos",
+    "actualizaciones": "Actualizaciones gratuitas durante 1 año"
+  },
+  "consejos": [
+    "Sé objetivo y preciso en la descripción de los hechos.",
+    "Incluye fechas exactas y números de referencia.",
+    "Cuantifica el impacto económico si es posible.",
+    "Mantén un tono formal y respetuoso.",
+    "Utiliza vías de comunicación que dejen constancia documental."
+  ]
+}
