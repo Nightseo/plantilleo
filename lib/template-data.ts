@@ -57,7 +57,7 @@ export const getTemplateBySlug = cache((slug: string): Template | null => {
 export const getTemplatesByCategory = cache((categorySlug: string): Template[] => {
   const allTemplates = getAllTemplates()
   return allTemplates.filter(template => 
-    template.categoria.toLowerCase().replace(/\s+/g, '-') === categorySlug
+    generateSlug(template.categoria) === categorySlug
   )
 })
 
@@ -72,7 +72,7 @@ export const getAllCategories = cache((): Category[] => {
 
   return Array.from(categoriesMap.entries()).map(([name, count]) => ({
     name,
-    slug: name.toLowerCase().replace(/\s+/g, '-'),
+    slug: generateSlug(name),
     description: `Descarga ${count} plantillas de ${name} en formato PDF y WORD. Modelos gratuitos actualizados para cumplir con la legislación española en 2025.`,
     templateCount: count
   })).sort((a, b) => a.name.localeCompare(b.name))

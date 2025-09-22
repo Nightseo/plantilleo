@@ -13,7 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  // URLs de categorías
+  // URLs de categorías (acceso directo sin /categorias/)
   const categorias = Array.from(new Set(plantillasData.plantillas.map((p) => p.categoria)))
   const categoriaPages = categorias.map((categoria) => ({
     url: `${baseUrl}/${generateSlug(categoria)}`,
@@ -22,9 +22,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  // URLs de plantillas (en la raíz)
+  // URLs de plantillas (usando el slug correcto)
   const plantillaPages = plantillasData.plantillas.map((plantilla) => ({
-    url: `${baseUrl}/${generateSlug(plantilla.titulo)}`,
+    url: `${baseUrl}/${plantilla.slug}`,
     lastModified: new Date().toISOString(),
     changeFrequency: "monthly" as const,
     priority: 0.9,
