@@ -33,7 +33,7 @@ export async function GET() {
     .map(
       (plantilla) => `
     <url>
-      <loc>${escapeXml(`${baseUrl}/plantillas/${generateSlug(plantilla.titulo)}`)}</loc>
+      <loc>${escapeXml(`${baseUrl}/${generateSlug(plantilla.titulo)}`)}</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url>

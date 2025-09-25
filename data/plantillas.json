@@ -1,6 +1,92 @@
 {
   "plantillas": [
     {
+      "id": "solicitud-carta-vacaciones-empleados-2025",
+      "titulo": "Modelo de Carta de Aprobación de Vacaciones",
+      "slug": "carta-aprobacion-vacaciones-empleados",
+      "categoria": "Recursos Humanos",
+      "descripcion": "Descarga nuestra plantilla oficial para comunicar la aprobación de las vacaciones a tus empleados. Este modelo de carta, editable en Word (DOCX), permite al departamento de RRHH o al responsable de equipo confirmar las fechas solicitadas, cumpliendo con la obligación legal de fijar el periodo vacacional por escrito. Es una herramienta clave para una gestión de personal transparente y organizada.",
+      "imagenUrl": "https://images.pexels.com/photos/1078884/pexels-photo-1078884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 15300,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Cumple con el Estatuto de los Trabajadores: Conforme al Artículo 38, que establece que el periodo de disfrute se fijará de común acuerdo.",
+        "Confirmación Fehaciente: Sirve como prueba documental del acuerdo entre empresa y trabajador sobre las fechas de vacaciones.",
+        "Formato Profesional y Claro: Comunica la aprobación de forma inequívoca, indicando las fechas de inicio y fin, y el día de reincorporación.",
+        "Plantilla DOCX Editable: Personaliza fácilmente con los datos de tu empresa, el logo y los detalles de cada trabajador.",
+        "Incluye Saldo Vacacional: Dispone de un apartado para informar al empleado del cómputo de días tomados y su saldo restante.",
+        "Previene Malentendidos: Una comunicación por escrito evita cualquier duda sobre las fechas aprobadas, protegiendo a ambas partes.",
+        "Apta para Entrega en Mano o Email: Diseño formal y limpio, ideal para los canales de comunicación interna de la empresa.",
+        "Agiliza la Gestión de RRHH: Estandariza la comunicación de vacaciones, ahorrando tiempo y asegurando la consistencia."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.bizneo.com/blog/wp-content/uploads/2020/02/Modelo-de-carta-de-vacaciones.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.peoplenext.com/recursos/plantillas/plantilla-solicitud-vacaciones.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Es obligatorio para la empresa entregar una carta de vacaciones por escrito?",
+          "respuesta": "Sí. Aunque la solicitud del empleado puede ser verbal, la empresa tiene la obligación de que el trabajador conozca las fechas de disfrute con al menos dos meses de antelación. Formalizar la aprobación por escrito (ya sea en esta carta o a través de un portal de empleado) es la forma correcta de cumplir con la ley y tener un registro del acuerdo."
+        },
+        {
+          "pregunta": "¿Puede la empresa cambiar las fechas de vacaciones de un empleado una vez aprobadas?",
+          "respuesta": "Una vez que las fechas están acordadas y comunicadas, la empresa no puede modificarlas unilateralmente, salvo por causas de fuerza mayor o razones organizativas muy graves y justificadas. Dicho cambio debería ser pactado de nuevo. La carta de aprobación da seguridad al empleado para que pueda hacer sus reservas y planes."
+        },
+        {
+          "pregunta": "¿Qué información debe contener esta carta de aprobación de vacaciones?",
+          "respuesta": "La carta debe identificar claramente a la empresa y al trabajador, especificar la fecha de inicio del periodo vacacional, la fecha de fin y, muy importante, el día exacto de reincorporación al puesto de trabajo. También es recomendable incluir el total de días que se van a disfrutar y el saldo de días restantes."
+        },
+        {
+          "pregunta": "¿Quién debe firmar esta carta para que sea válida?",
+          "respuesta": "La carta debe estar firmada por un representante de la empresa con autoridad para conceder las vacaciones (normalmente el responsable de RRHH o el superior directo del empleado). Es una buena práctica que el empleado también firme una copia como 'recibido y conforme', que la empresa conservará en su expediente."
+        },
+        {
+          "pregunta": "Mi empresa utiliza un software de RRHH para gestionar las vacaciones, ¿necesito esta carta?",
+          "respuesta": "Si tu empresa utiliza un portal del empleado donde las solicitudes y aprobaciones de vacaciones quedan registradas digitalmente, ese sistema ya actúa como justificante y comunicación formal. En ese caso, la carta en papel no sería estrictamente necesaria, aunque algunas empresas la utilizan como un formalismo adicional."
+        },
+        {
+          "pregunta": "¿Qué pasa si un empleado no solicita sus vacaciones?",
+          "respuesta": "El derecho a las vacaciones caduca el 31 de diciembre del año en que se generan. La empresa tiene la obligación de promover activamente que sus empleados disfruten de sus vacaciones. Si un empleado no las pide, la empresa debería comunicarle por escrito (esta carta puede adaptarse para ello) las fechas en las que se le asignarán para asegurar que no pierde su derecho."
+        }
+      ],
+      "informacionLegal": "El Artículo 38 del Estatuto de los Trabajadores establece que el periodo de vacaciones anuales retribuidas será el pactado en convenio colectivo o contrato individual, nunca inferior a treinta días naturales. El periodo de disfrute se fijará de común acuerdo entre el empresario y el trabajador. El calendario de vacaciones se fijará en cada empresa y el trabajador conocerá las fechas que le correspondan dos meses antes, al menos, del comienzo del disfrute.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "295 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Menos de 10 minutos por empleado.",
+        "actualizaciones": "Plantilla revisada anualmente para asegurar su conformidad con la legislación laboral y las mejores prácticas de Recursos Humanos."
+      },
+      "comoUsar": [
+        "Una vez el empleado haya solicitado sus vacaciones y estas hayan sido aprobadas internamente, descarga la plantilla DOCX.",
+        "Personaliza la cabecera con el logo y los datos de tu empresa.",
+        "Rellena los datos del empleado y su departamento.",
+        "Especifica claramente las fechas de inicio, fin y reincorporación del periodo vacacional aprobado.",
+        "Completa el apartado sobre el cómputo de días, indicando los días tomados y el saldo restante del trabajador.",
+        "Firma la carta y entrégasela al empleado, quedándote con una copia firmada por él como 'recibido y conforme'.",
+        "Archiva la copia firmada en el expediente personal del trabajador."
+      ],
+      "consejos": [
+        "Utiliza esta carta como parte de un proceso de solicitud y aprobación claro y conocido por toda la plantilla.",
+        "Acompaña la entrega de la carta con un comentario positivo, como '¡Disfruta mucho de tus merecidas vacaciones!'. Refuerza la moral del equipo.",
+        "Asegúrate de que los saldos de días de vacaciones que comunicas son correctos y están actualizados para evitar confusiones.",
+        "Para una gestión más eficiente en empresas grandes, considera la implementación de un portal del empleado que automatice este proceso.",
+        "Planifica las vacaciones del equipo con suficiente antelación para garantizar que las necesidades del negocio queden cubiertas."
+      ]
+    },
+    {
       "id": "plantilla-carta-papa-noel-para-imprimir-navidad-2025",
       "titulo": "Plantilla Carta para Papá Noel 2025",
       "slug": "plantilla-carta-papa-noel-2025",
@@ -86,6 +172,177 @@
       ]
     },
     {
+      "id": "solicitud-carta-asuntos-propios-2025",
+      "titulo": "Modelo de Carta para Solicitar Días de Asuntos Propios",
+      "slug": "carta-solicitud-dias-asuntos-propios",
+      "categoria": "Laboral",
+      "descripcion": "Descarga nuestra plantilla para solicitar formalmente días de asuntos propios en tu empresa. Este modelo de carta, editable en Word (DOCX), te permite comunicar tu solicitud de manera clara y profesional, indicando las fechas deseadas. Es la herramienta perfecta para ejercer tu derecho a días de libre disposición, cumpliendo con el preaviso que marque tu convenio.",
+      "imagenUrl": "https://images.pexels.com/photos/4427430/pexels-photo-4427430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 14200,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Cumple con el Estatuto de los Trabajadores: Redactada para ejercer el derecho a los días de permiso por asuntos propios.",
+        "No Requiere Justificación: El diseño de la carta respeta el principio de que el trabajador no tiene por qué motivar su ausencia.",
+        "Formato Directo y Profesional: Comunicación clara y concisa, dirigida al departamento de RRHH o al superior directo.",
+        "Plantilla DOCX Editable: Personaliza fácilmente con tus datos, los de tu empresa y las fechas exactas que solicitas.",
+        "Facilita la Aprobación: Una solicitud formal y presentada con la antelación correcta agiliza la gestión por parte de la empresa.",
+        "Deja Constancia por Escrito: Sirve como justificante de que la solicitud se ha realizado en tiempo y forma.",
+        "Apta para Cualquier Sector: Modelo genérico válido para trabajadores de empresas privadas y funcionarios públicos.",
+        "Incluye Espacio para la Firma: Preparada para ser entregada en mano y recibir una copia firmada como 'recibí'."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/03/Modelo-de-carta-para-solicitar-dias-de-asuntos-propios.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.dip-badajoz.es/consorcios/promedio/ficheros/0/19022019131641_anexo-v-solicitud-de-permisos-y-licencias.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Tengo derecho a días de asuntos propios en mi trabajo?",
+          "respuesta": "No todos los trabajadores tienen este derecho por defecto. Debes consultar tu convenio colectivo, que es donde se suele regular. Si tu convenio lo contempla, tendrás derecho al número de días que este especifique. Para los funcionarios públicos, este derecho está garantizado por el Estatuto Básico del Empleado Público (EBEP)."
+        },
+        {
+          "pregunta": "¿Necesito justificar el motivo por el que pido un día de asuntos propios?",
+          "respuesta": "No. La característica principal de los días de asuntos propios o de libre disposición es precisamente esa: no requieren ninguna justificación. La empresa no puede preguntarte el motivo ni exigirte un justificante. Son días para que los uses en lo que consideres oportuno."
+        },
+        {
+          "pregunta": "¿Con cuánta antelación debo solicitar estos días?",
+          "respuesta": "Debes solicitarlo con la antelación que marque tu convenio colectivo o, en su defecto, la política interna de tu empresa. Si no hay nada especificado, un preaviso razonable (entre 48 horas y una semana, según la urgencia) suele ser suficiente. La clave es facilitar la organización del trabajo."
+        },
+        {
+          "pregunta": "¿La empresa puede negarse a darme los días de asuntos propios que solicito?",
+          "respuesta": "La empresa solo puede negarse por razones organizativas o de producción debidamente justificadas (por ejemplo, si varios compañeros del mismo departamento ya han pedido el mismo día). No puede negártelos de forma arbitraria o sistemática. Si lo hacen sin justificación, podrías reclamar."
+        },
+        {
+          "pregunta": "¿Los días de asuntos propios son remunerados?",
+          "respuesta": "Generalmente, sí. Si están recogidos en el convenio colectivo, suelen tener el carácter de permiso retribuido. No obstante, algunos convenios pueden especificarlos como permisos no retribuidos, aunque es menos común. Revísalo en tu convenio para estar seguro."
+        },
+        {
+          "pregunta": "Si no disfruto de todos mis días de asuntos propios, ¿los pierdo?",
+          "respuesta": "Sí. Por norma general, los días de asuntos propios, al igual que las vacaciones, deben disfrutarse dentro del año natural (del 1 de enero al 31 de diciembre). Si no los utilizas, los pierdes y no se acumulan para el año siguiente ni se pueden compensar económicamente, salvo que tu convenio diga lo contrario."
+        }
+      ],
+      "informacionLegal": "El derecho a disfrutar de días de permiso por asuntos propios (o días de libre disposición) no está recogido de forma general en el Estatuto de los Trabajadores para el sector privado, sino que depende de lo establecido en cada Convenio Colectivo o en el contrato de trabajo. Para el personal funcionario, este derecho está garantizado por el Art. 48 del EBEP. La solicitud debe realizarse por escrito y con la antelación pactada.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "280 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Menos de 10 minutos.",
+        "actualizaciones": "El contenido se revisa anualmente para reflejar la jurisprudencia sobre el disfrute de permisos y las prácticas habituales en la gestión de RRHH."
+      },
+      "comoUsar": [
+        "Consulta primero tu convenio colectivo para saber a cuántos días tienes derecho y cuál es el preaviso necesario.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos personales (nombre, DNI, puesto) y los de tu empresa o departamento.",
+        "Indica de forma clara y sin ambigüedades las fechas exactas de los días que quieres disfrutar.",
+        "Dirige la carta a tu superior directo o al departamento de Recursos Humanos, según la política de tu empresa.",
+        "Imprime dos copias, fírmalas y entrégalas en mano, pidiendo que te firmen tu copia como 'Recibí' para tener un justificante.",
+        "También puedes enviarla por email, guardando una copia del correo enviado como prueba de la solicitud."
+      ],
+      "consejos": [
+        "Aunque no tengas que justificar el motivo, sé considerado. Evita pedir días de asuntos propios en picos de trabajo si puedes evitarlo.",
+        "Si tienes un sistema o portal del empleado online, es posible que debas hacer la solicitud a través de esa plataforma además de la carta formal.",
+        "Coordínate con tus compañeros para no solicitar los mismos días y causar un problema organizativo en tu departamento.",
+        "No des por hecho que el permiso está concedido hasta que no recibas la confirmación por escrito o verbal de tu superior o de RRHH.",
+        "Lleva un control personal de los días de asuntos propios que vas disfrutando a lo largo del año para saber cuántos te quedan."
+      ]
+    },
+    {
+      "id": "carta-denuncia-ruidos-molestos-2025",
+      "titulo": "Modelo de Carta de Denuncia por Ruidos Molestos",
+      "slug": "carta-denuncia-ruidos-molestos",
+      "categoria": "Comunidades de Propietarios",
+      "descripcion": "Utiliza este modelo de carta para denunciar formalmente los ruidos molestos de un vecino ante el Presidente de tu Comunidad de Propietarios. Esta plantilla, editable en Word (DOCX) y basada en la Ley de Propiedad Horizontal, te permite detallar los incidentes y solicitar una acción formal para el cese de la actividad molesta, siendo el primer paso legal para resolver el conflicto.",
+      "imagenUrl": "https://images.pexels.com/photos/4569335/pexels-photo-4569335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 13570,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Basada en la Ley de Propiedad Horizontal: Fundamentada en el Artículo 7.2 de la LPH, que prohíbe las actividades molestas.",
+        "Dirigida al Presidente/Administrador: Sigue el cauce legal correcto para que la Comunidad de Propietarios actúe.",
+        "Estructura para el Registro de Hechos: Permite detallar objetivamente el tipo de ruido, las fechas, las horas y la frecuencia.",
+        "Solicitud Formal de Actuación: Requiere fehacientemente al Presidente que inste al vecino infractor al cese de los ruidos.",
+        "Plantilla DOCX Editable: Adapta el escrito con los datos de tu comunidad y la descripción precisa de los incidentes.",
+        "Válida como Prueba Documental: Es el primer paso necesario para poder, si persiste el problema, convocar una junta e iniciar una acción judicial.",
+        "Referencia a Normativa Municipal: Permite añadir una mención a la ordenanza sobre ruidos de tu ayuntamiento.",
+        "Tono Formal y Objetivo: Redactada para exponer los hechos de forma seria y respetuosa, pero firme."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.ocu.org/-/media/ocu/files/modelos/vivienda/cartas/ruidos-molestos-presidente-de-la-comunidad.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.comunidades.com/preguntas/wp-content/uploads/2019/07/molestias-ruidos.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Cuál es el primer paso que debo dar si un vecino hace ruido?",
+          "respuesta": "El primer paso es siempre intentar la vía amistosa: habla con tu vecino de forma educada y explícale la situación. Muchas veces, la persona no es consciente de las molestias que ocasiona. Si esto no funciona, el siguiente paso es la comunicación formal, para lo cual esta carta es el modelo ideal."
+        },
+        {
+          "pregunta": "¿A quién debo dirigir esta carta de queja formalmente?",
+          "respuesta": "La carta debe dirigirse al Presidente de la Comunidad de Propietarios. Es su obligación, según la Ley de Propiedad Horizontal, recibir estas quejas y actuar en nombre de la comunidad. Puedes entregarle una copia también al Administrador de Fincas, si lo hay, para que esté al tanto y gestione el requerimiento."
+        },
+        {
+          "pregunta": "¿Qué puedo hacer si el Presidente de la comunidad ignora mi carta?",
+          "respuesta": "Si el Presidente no actúa, puedes solicitar la inclusión de este problema en el orden del día de la próxima Junta de Propietarios. También puedes enviar la carta de nuevo mediante Burofax para que quede constancia legal de tu petición. Si la inacción persiste, podrías llegar a exigirle responsabilidades por no cumplir con sus obligaciones."
+        },
+        {
+          "pregunta": "¿Cuándo debo llamar a la Policía Local y qué debo solicitar?",
+          "respuesta": "Debes llamar a la Policía Local en el momento exacto en que se esté produciendo el ruido excesivo, especialmente fuera del horario permitido. Solicita que se personen en tu domicilio para ser testigos y, si es posible, que realicen una medición de decibelios. Pide siempre el número de atestado o del informe de intervención, ya que será una prueba fundamental."
+        },
+        {
+          "pregunta": "¿Cuáles son los límites de ruido permitidos en España?",
+          "respuesta": "No hay un único límite nacional; cada ayuntamiento establece los suyos en su 'Ordenanza Municipal contra Ruidos y Vibraciones'. Generalmente, se distingue entre horario diurno (ej. de 8:00 a 22:00) y nocturno, siendo los límites mucho más estrictos por la noche. Por ejemplo, en horario nocturno el límite en un dormitorio puede ser de 25-30 decibelios (dB)."
+        },
+        {
+          "pregunta": "Si la comunidad decide demandar al vecino ruidoso, ¿me costará dinero?",
+          "respuesta": "Los costes de la demanda judicial (abogado, procurador) se pagan con los fondos de la Comunidad de Propietarios, según se apruebe en la Junta. Por lo tanto, se cubre con las cuotas de la comunidad que todos los vecinos pagan. No tendrías que hacer un desembolso extraordinario a no ser que la comunidad no tenga fondos y se apruebe una derrama para este fin."
+        }
+      ],
+      "informacionLegal": "El Artículo 7.2 de la Ley de Propiedad Horizontal (LPH) prohíbe a los propietarios y ocupantes realizar en el inmueble actividades molestas. Dicho artículo faculta al Presidente para requerir el cese de la actividad. Si el infractor persiste, la Junta de Propietarios puede autorizar el inicio de un procedimiento judicial conocido como 'acción de cesación'. Estas acciones se complementan con las denuncias administrativas basadas en las ordenanzas municipales sobre el ruido.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "315 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Adobe Acrobat Reader"
+        ],
+        "tiempoEdicion": "20-30 minutos para detallar el historial de incidentes.",
+        "actualizaciones": "Plantilla revisada anualmente para ajustarse a la jurisprudencia más reciente sobre actividades molestas y la carga de la prueba en juicios."
+      },
+      "comoUsar": [
+        "Antes de nada, intenta la vía del diálogo directo con el vecino causante del ruido.",
+        "Si no hay solución, descarga la plantilla DOCX y rellena tus datos, los del vecino y los de la comunidad.",
+        "Crea un listado detallado y objetivo de los incidentes: describe el ruido, las fechas y las horas exactas.",
+        "Imprime y firma la carta.",
+        "Entrega el escrito en mano al Presidente o al Administrador, solicitando que te firmen una copia como 'recibí'.",
+        "Guarda tu copia firmada como prueba de que has notificado el problema formalmente."
+      ],
+      "consejos": [
+        "Mantén un diario detallado de cada episodio de ruido. La precisión (día, hora, duración, tipo de ruido) es tu mejor arma.",
+        "Habla con otros vecinos. Si las molestias afectan a más gente, presentad una queja conjunta; tendrá mucha más fuerza.",
+        "Si llamas a la policía y acuden, no dudes en solicitar una copia del parte de intervención para adjuntarlo a tus pruebas.",
+        "Considera enviar la comunicación al Presidente por un medio fehaciente como un Burofax si la situación es grave o no confías en que actúe.",
+        "La paciencia es clave. Estos procesos pueden ser lentos, pero ser metódico y documentar todo aumenta tus probabilidades de éxito."
+      ]
+    },
+    {
       "id": "carta-modelo-reclamacion-gastos-hipotecarios-2025",
       "titulo": "Carta de Reclamación de Gastos Hipotecarios [2025]",
       "slug": "carta-reclamacion-gastos-hipotecarios-modelo-2025",
@@ -168,6 +425,349 @@
         "Calcula los intereses legales que te corresponden sobre las cantidades reclamadas desde la fecha de cada pago.",
         "No aceptes acuerdos con el banco que impliquen renunciar a futuras acciones legales sin antes consultar con un experto.",
         "La vía extrajudicial es el primer paso; si el banco no responde favorablemente, la vía judicial tiene una probabilidad de éxito muy elevada."
+      ]
+    },
+    {
+      "id": "carta-jubilacion-agradecimiento-2025",
+      "titulo": "Modelo de Carta de Jubilación y Agradecimiento",
+      "slug": "carta-jubilacion-agradecimiento",
+      "categoria": "Recursos Humanos",
+      "descripcion": "Descarga nuestro emotivo modelo de carta para anunciar tu jubilación y expresar tu agradecimiento. Esta plantilla en Word (DOCX) te ayudará a redactar una despedida profesional y cercana para tus compañeros y la empresa. Es la herramienta perfecta para cerrar tu carrera laboral, compartiendo gratitud por los años vividos y dejando un recuerdo imborrable.",
+      "imagenUrl": "https://images.pexels.com/photos/3760069/pexels-photo-3760069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 11840,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Doble Enfoque: Estructura adaptable para una comunicación formal a la empresa o una carta más personal a los compañeros.",
+        "Tono Emotivo y Profesional: Redacción que equilibra el agradecimiento y la nostalgia con un mensaje positivo y de futuro.",
+        "Secciones Guiadas: Incluye apartados para anunciar la jubilación, agradecer, recordar buenos momentos y desear éxito.",
+        "Plantilla DOCX Editable: Personaliza la carta con tus propias anécdotas, nombres y la fecha efectiva de tu jubilación.",
+        "Lenguaje Respetuoso y Cordial: Diseñada para dejar una excelente impresión final tras una larga trayectoria profesional.",
+        "Incluye Frases Inspiradoras: Sugerencias de citas y frases sobre la jubilación para enriquecer tu mensaje de despedida.",
+        "Apta para Email o Impresión: Formato limpio y profesional, perfecto para la comunicación interna de la empresa.",
+        "Facilita un Cierre Positivo: Te ayuda a encontrar las palabras adecuadas para una despedida memorable y significativa."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/09/Modelo-de-carta-de-jubilacion-y-agradecimiento.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.cartas-ejemplo.com/wp-content/uploads/2013/02/Carta-de-agradecimiento-por-jubilaci%C3%B3n.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Con cuánta antelación debo comunicar mi jubilación a la empresa?",
+          "respuesta": "Legalmente, debes cumplir el preaviso que marque tu convenio colectivo, que suele ser de 15 días. Sin embargo, es una buena práctica profesional comunicarlo con mayor antelación (1-3 meses) a tu superior directo y a RRHH. Esto demuestra consideración y permite a la empresa planificar tu sucesión de manera ordenada."
+        },
+        {
+          "pregunta": "¿Es mejor enviar una carta formal o un email a los compañeros?",
+          "respuesta": "Para los compañeros, un correo electrónico es el medio más habitual y eficiente. Permite llegar a todos a la vez y compartir tus palabras de una forma cercana. La carta en papel queda reservada para la comunicación oficial a la dirección de la empresa o como un detalle personal para alguien muy especial."
+        },
+        {
+          "pregunta": "¿Qué información clave debe contener la notificación formal de jubilación a RRHH?",
+          "respuesta": "La comunicación formal a Recursos Humanos debe ser breve y directa. Debe incluir tu nombre completo, DNI, puesto de trabajo, y la fecha exacta en la que se hará efectiva tu jubilación. Aunque no es obligatorio, añadir una línea de agradecimiento por la oportunidad profesional siempre es un buen gesto."
+        },
+        {
+          "pregunta": "¿Cómo puedo hacer que mi carta de agradecimiento a los compañeros sea más personal?",
+          "respuesta": "Para hacerla más personal, evita las frases genéricas. Incluye una anécdota o un recuerdo positivo compartido con el equipo. Menciona algún aprendizaje importante que te lleves de tu tiempo con ellos y expresa tus deseos de éxito para el futuro de la empresa y de tus compañeros a nivel individual."
+        },
+        {
+          "pregunta": "¿Es apropiado mencionar mis planes de futuro en la carta de despedida?",
+          "respuesta": "Sí, es muy apropiado y ayuda a dar un toque personal y optimista a tu despedida. Mencionar brevemente tus planes, como dedicar tiempo a la familia, viajar o empezar un nuevo hobby, transmite una sensación de felicidad por la nueva etapa que comienzas y conecta con tus compañeros a un nivel más humano."
+        },
+        {
+          "pregunta": "¿Debo enviar la misma carta a mis jefes y a mis compañeros?",
+          "respuesta": "No es lo más recomendable. Es mejor adaptar el mensaje. A tus jefes y a la dirección, puedes enviar una versión que, aunque cordial, sea un poco más formal y se centre en el agradecimiento por la oportunidad y el desarrollo profesional. La carta a tus compañeros puede tener un tono más cercano y personal."
+        }
+      ],
+      "informacionLegal": "La comunicación de la decisión de jubilarse al empleador es un acto voluntario del trabajador que extingue la relación laboral. Es un requisito formal que debe realizarse por escrito, respetando el preaviso establecido en el convenio colectivo aplicable o, en su defecto, la costumbre del lugar (generalmente 15 días). Esta carta de agradecimiento es un documento de carácter profesional y personal, sin más implicaciones legales que las de una despedida cordial.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "290 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-45 minutos para una personalización sentida y cuidadosa.",
+        "actualizaciones": "La plantilla se actualiza periódicamente con nuevas frases y enfoques para que las despedidas profesionales sean siempre actuales y emotivas."
+      },
+      "comoUsar": [
+        "Primero, notifica formalmente tu jubilación a tu superior y a RRHH.",
+        "Descarga esta plantilla en DOCX para preparar la comunicación a tus compañeros.",
+        "Personaliza el saludo inicial. Puedes optar por un encabezado general ('Queridos compañeros') o varios más específicos por departamento.",
+        "En el cuerpo de la carta, anuncia tu jubilación y expresa tu gratitud. Adapta las frases sugeridas o añade las tuyas.",
+        "Incluye un recuerdo positivo o una anécdota que resuma tu experiencia en la empresa.",
+        "Cierra la carta con buenos deseos y, si quieres, ofrece una forma de mantener el contacto (email personal, LinkedIn).",
+        "Revisa el texto final y envíalo unos días antes de tu última jornada laboral."
+      ],
+      "consejos": [
+        "Habla con tu jefe directo y tu equipo más cercano en persona antes de enviar la comunicación general por email.",
+        "Céntrate en lo positivo. La carta de despedida es tu última impresión profesional, así que evita cualquier comentario negativo.",
+        "La sinceridad es clave. Escribe desde el corazón y tus palabras tendrán un mayor impacto.",
+        "Revisa la ortografía y gramática. Un mensaje de despedida bien escrito demuestra el mismo profesionalismo que has tenido durante tu carrera.",
+        "Si la empresa organiza un acto de despedida, puedes leer una versión resumida de tu carta como parte de tu discurso de agradecimiento."
+      ]
+    },
+    {
+      "id": "cambio-presidente-comunidad-vecinos",
+      "titulo": "Modelo de Acta de Cambio de Presidente de Comunidad LPH 2025",
+      "slug": "cambio-presidente-comunidad-vecinos",
+      "categoria": "Comunidades de Propietarios",
+      "descripcion": "Descarga la plantilla modelo para el Acta de la Junta de Propietarios donde se formaliza el cambio de presidente. Este documento, editable en Word (DOCX) y conforme a la Ley de Propiedad Horizontal (LPH), es esencial para registrar legalmente el nombramiento del nuevo presidente. Incluye un modelo de carta para comunicar el cambio a todos los vecinos y al administrador de fincas.",
+      "imagenUrl": "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 11520,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Cumple con la Ley de Propiedad Horizontal (LPH): Estructura y contenido acordes a los artículos 13 y 19 de la ley.",
+        "Formato de Acta Oficial: Incluye todos los apartados necesarios: datos de la junta, orden del día, asistentes, acuerdos y firmas.",
+        "Detalla el Sistema de Nombramiento: Preparada para registrar la elección por votación, turno rotatorio o sorteo.",
+        "Identificación Clara de Cargos: Espacios definidos para el presidente saliente y el entrante, con fecha de efecto del nombramiento.",
+        "Plantilla DOCX 100% Editable: Adapta fácilmente los datos de tu comunidad, propietarios y fecha de la reunión.",
+        "Documento Válido para Bancos: Es el justificante que exigen las entidades bancarias para actualizar las firmas autorizadas en la cuenta.",
+        "Incluye Modelo de Carta Circular: Adjunta una plantilla para notificar de forma sencilla a todos los vecinos el resultado.",
+        "Seguridad Jurídica: Un acta bien redactada es la prueba fehaciente de los acuerdos y previene impugnaciones."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.comunidades.com/descargas/modelo-nombramiento-presidente.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.cafguadalajara.com/images/legislacion/acta_de_la_junta.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Es obligatorio cambiar de presidente de la comunidad cada año?",
+          "respuesta": "Sí, el artículo 13.7 de la Ley de Propiedad Horizontal (LPH) establece que, salvo que los estatutos de la comunidad digan lo contrario, el nombramiento de los órganos de gobierno se hará por un plazo de un año. Por lo tanto, la norma general es celebrar una junta anual para la renovación de cargos, incluido el presidente."
+        },
+        {
+          "pregunta": "¿Puede un propietario negarse a ser presidente de la comunidad?",
+          "respuesta": "El cargo de presidente es, en principio, obligatorio. Un propietario solo puede solicitar su relevo al juez (procedimiento de equidad) dentro del mes siguiente a su nombramiento, exponiendo razones fundadas (ej. enfermedad, edad avanzada, vivir fuera). En la práctica, si un vecino expone un motivo justificado en la propia junta, se suele buscar una alternativa."
+        },
+        {
+          "pregunta": "¿Qué se necesita para que el nombramiento del nuevo presidente sea legalmente válido?",
+          "respuesta": "El nombramiento debe ser un punto del orden del día de una Junta de Propietarios, legalmente convocada. El acuerdo debe ser aprobado por la mayoría de los propietarios presentes y representados. Finalmente, este acuerdo debe quedar reflejado en el Acta de la reunión, que tiene que ser firmada por el presidente y el secretario salientes para tener validez."
+        },
+        {
+          "pregunta": "Una vez hay nuevo presidente, ¿qué hay que hacer en el banco?",
+          "respuesta": "El nuevo presidente, normalmente acompañado por el administrador, debe acudir a la sucursal bancaria donde la comunidad tiene su cuenta. Deberá presentar su DNI y una copia del Acta de la junta donde consta su nombramiento. El banco utilizará este documento para actualizar los datos del representante legal y cambiar las firmas autorizadas."
+        },
+        {
+          "pregunta": "¿Quién tiene que firmar el acta para que sea válida y cuándo?",
+          "respuesta": "Según el artículo 19 de la LPH, el acta de la junta debe cerrarse con las firmas del presidente y del secretario al terminar la reunión o dentro de los diez días naturales siguientes. Es importante destacar que quienes firman son los cargos salientes, que eran los que ostentaban dichos puestos durante la celebración de la junta."
+        },
+        {
+          "pregunta": "¿Qué pasa si el presidente saliente no quiere entregar la documentación al nuevo?",
+          "respuesta": "El presidente saliente tiene la obligación legal de entregar toda la documentación y bienes de la comunidad (libro de actas, contratos, llaves, etc.) al presidente entrante. Si se negara, el nuevo presidente, en representación de la comunidad, puede requerírselo formalmente mediante un burofax y, si persiste, iniciar acciones legales para reclamar dicha documentación."
+        }
+      ],
+      "informacionLegal": "El nombramiento y cambio de presidente se rige por la Ley 49/1960, de 21 de julio, sobre Propiedad Horizontal (LPH). El acuerdo debe ser adoptado en Junta de Propietarios y constar en el libro de actas (Art. 19 LPH). El acta es el documento legal que acredita el nombramiento frente a terceros (bancos, administraciones, juzgados). La aceptación del cargo es obligatoria, salvo dispensa judicial por causas justificadas (Art. 13.2 LPH).",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "360 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Adobe Acrobat Reader"
+        ],
+        "tiempoEdicion": "20-30 minutos para transcribir los acuerdos de la junta al acta.",
+        "actualizaciones": "Plantilla revisada anualmente para incorporar cualquier modificación o interpretación jurisprudencial relevante de la Ley de Propiedad Horizontal."
+      },
+      "comoUsar": [
+        "Descarga la plantilla del Acta en formato DOCX tras celebrar la Junta de Propietarios.",
+        "Rellena los datos identificativos de la Comunidad, la fecha, hora y lugar de la junta.",
+        "Completa la lista de propietarios asistentes y representados, con sus respectivos coeficientes.",
+        "En el apartado 'Acuerdos', transcribe el punto del orden del día relativo al nombramiento, detallando el sistema utilizado (votación, rotación) y el resultado.",
+        "Identifica con nombre completo y DNI al propietario que resulta elegido como nuevo Presidente.",
+        "Cierra el acta con la firma del Presidente y del Secretario salientes.",
+        "Utiliza la plantilla de carta adjunta para comunicar a todos los vecinos el nombramiento."
+      ],
+      "consejos": [
+        "Es fundamental que el nombramiento del presidente sea un punto explícito en el Orden del Día de la convocatoria de la junta.",
+        "Conserva el libro de actas de la comunidad en un lugar seguro; es la historia legal de la comunidad.",
+        "Realiza un traspaso de poderes formal entre el presidente saliente y el entrante, firmando un sencillo documento de entrega y recepción de documentación.",
+        "Informa al administrador de fincas inmediatamente después del cambio para que actualice sus registros y los datos de contacto.",
+        "El nuevo presidente debería revisar los contratos de mantenimiento y los seguros de la comunidad para conocer sus responsabilidades."
+      ]
+    },
+    {
+      "id": "modelo-carta-cambio-de-gestoria",
+      "titulo": "Modelo de Carta de Cambio de Gestoría",
+      "slug": "modelo-carta-cambio-gestoria",
+      "categoria": "Legal",
+      "descripcion": "Comunica el cambio de asesoría fiscal, contable y laboral de forma profesional con nuestra plantilla de carta. Este modelo editable en Word (DOCX) te permite notificar a tu gestoría actual el cese de sus servicios y solicitar la entrega de toda la documentación necesaria a tu nuevo asesor. Un paso fundamental para garantizar una transición fluida, segura y sin pérdida de información.",
+      "imagenUrl": "https://images.pexels.com/photos/8294508/pexels-photo-8294508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 10200,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Comunicación Formal de Cese: Notifica de manera fehaciente la finalización de la relación contractual.",
+        "Solicitud de Traspaso de Documentación: Incluye un listado detallado de los documentos a entregar (libros contables, impuestos, nóminas, etc.).",
+        "Coordinación entre Asesorías: Facilita la comunicación directa entre tu gestoría saliente y la entrante para un traspaso eficiente.",
+        "Revocación de Autorizaciones: Sirve como base para revocar los poderes de representación ante la Agencia Tributaria (AEAT) y la Seguridad Social.",
+        "Plantilla 100% Editable en DOCX: Adapta fácilmente el contenido con los datos de tu empresa y las fechas clave.",
+        "Tono Profesional y Cordial: Mantiene una comunicación respetuosa, agradeciendo los servicios prestados, para finalizar la relación en buenos términos.",
+        "Evita Conflictos y Retrasos: Una comunicación clara previene malentendidos sobre la fecha de fin de responsabilidades.",
+        "Válida para Autónomos y PYMES: Perfectamente adaptable tanto para profesionales por cuenta propia como para sociedades."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/03/modelo-de-carta-de-cambio-de-gestoria.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.sepe.es/contenidos/comunicacion/modelos_impresos/impreso-comunic-contratos-condiciones.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Con cuánta antelación debo comunicar a mi gestoría que voy a cambiar?",
+          "respuesta": "Lo ideal es revisar tu contrato de servicios, ya que puede especificar un plazo de preaviso (normalmente entre 15 y 30 días). Si no hay nada pactado, comunicar el cambio con un mes de antelación es una buena práctica. Esto permite que puedan cerrar el trimestre fiscal en curso y preparar toda la documentación para el traspaso sin prisas."
+        },
+        {
+          "pregunta": "¿Qué documentación estoy en mi derecho de reclamar a mi antigua gestoría?",
+          "respuesta": "Tienes derecho a toda la documentación de tu empresa. Esto incluye, como mínimo: libros contables, todas las declaraciones de impuestos presentadas (IVA, IRPF, Sociedades), nóminas y contratos de tus empleados, balances, facturas emitidas y recibidas del año en curso y, en general, cualquier documento que sea de tu propiedad y que ellos custodien."
+        },
+        {
+          "pregunta": "¿Puede mi antigua gestoría negarse a entregar la documentación si tengo alguna factura pendiente?",
+          "respuesta": "No. La gestoría no puede retener tu documentación como medida de presión para cobrar una deuda. La documentación es propiedad de tu empresa. Si se niegan, estarían incurriendo en una práctica ilegal. Debes liquidar los honorarios pendientes, pero ellos tienen la obligación de colaborar en el traspaso y entregar todos tus papeles."
+        },
+        {
+          "pregunta": "¿Cómo revoco las autorizaciones para que mi antigua gestoría no pueda presentar más impuestos en mi nombre?",
+          "respuesta": "Debes acceder a la Sede Electrónica de la Agencia Tributaria (AEAT) con tu certificado digital y entrar en la sección de 'Apoderamientos'. Desde allí, puedes revocar el poder que le diste a tu antigua asesoría para actuar en tu nombre. Es un paso crucial que debes dar para evitar problemas."
+        },
+        {
+          "pregunta": "Mi nueva gestoría se ofrece a gestionar el cambio, ¿es una buena idea?",
+          "respuesta": "Sí, es una práctica muy habitual y recomendable. Tu nueva gestoría coordinará con la saliente el traspaso de la información, asegurándose de que no falte nada y de que el proceso sea técnicamente correcto. Aún así, es fundamental que seas tú quien envíe esta carta formal de cese para que la comunicación sea directa y fehaciente."
+        },
+        {
+          "pregunta": "¿Es mejor enviar esta carta por email o por un medio más formal como el Burofax?",
+          "respuesta": "Para la mayoría de los casos, un correo electrónico con confirmación de lectura es suficiente y mantiene un tono cordial. Sin embargo, si prevés que puede haber algún conflicto con tu antigua gestoría o si la relación ha sido tensa, enviarla por Burofax con acuse de recibo te proporciona una prueba legal indiscutible de la comunicación y su fecha."
+        }
+      ],
+      "informacionLegal": "La comunicación de cese de servicios se enmarca en la resolución de un contrato de arrendamiento de servicios, regulado por el Código Civil. El cliente tiene derecho a recuperar toda la documentación de su propiedad. El asesor saliente tiene la obligación deontológica, según el código de su colegio profesional, de colaborar en el traspaso de información al nuevo asesor para no perjudicar al cliente.",
+      "detalles": {
+        "fechaActualizacion": "22/09/2025",
+        "tamanoArchivo": "290 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Aproximadamente 15 minutos.",
+        "actualizaciones": "El modelo se revisa anualmente para asegurar que el listado de documentación solicitada se ajusta a las normativas fiscales y contables vigentes."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena los datos de tu empresa y los de la gestoría a la que te diriges.",
+        "Indica claramente la fecha efectiva en la que cesarán sus servicios (ej. 'al finalizar el presente trimestre fiscal').",
+        "Completa los datos de contacto de tu nueva gestoría para que puedan coordinar el traspaso.",
+        "Revisa el listado de documentación solicitada y añade o elimina puntos según las necesidades de tu empresa.",
+        "Firma la carta y envíala por el canal que consideres más adecuado (email o Burofax).",
+        "Una vez enviada, no olvides revocar los apoderamientos en la Sede Electrónica de la AEAT."
+      ],
+      "consejos": [
+        "Elige una fecha de cambio que coincida con el final de un periodo fiscal (ej. 31 de marzo, 30 de junio) para facilitar la transición.",
+        "Antes de enviar la carta, asegúrate de tener saldadas todas las facturas pendientes para evitar tensiones innecesarias.",
+        "Agradece siempre los servicios prestados. Terminar la relación de forma cordial te puede ser de ayuda en el futuro.",
+        "Confirma por teléfono que han recibido la comunicación para asegurarte de que el proceso se ha iniciado.",
+        "Una vez recibida la documentación, revísala junto a tu nuevo asesor para confirmar que no falta nada importante."
+      ]
+    },
+    {
+      "id": "carta-cambio-domicilio-empresa-2025",
+      "titulo": "Modelo de Carta de Cambio de Domicilio de Empresa",
+      "slug": "carta-cambio-domicilio-empresa",
+      "categoria": "Legal",
+      "descripcion": "Descarga nuestra plantilla profesional para comunicar el cambio de domicilio de tu empresa. Este modelo en Word (DOCX) es perfecto para notificar a clientes, proveedores y otras entidades tu traslado de oficinas. Asegura una comunicación clara y formal, facilita la actualización de datos de contacto y facturación, y te recuerda los pasos legales a seguir ante la Agencia Tributaria.",
+      "imagenUrl": "https://images.pexels.com/photos/4393668/pexels-photo-4393668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 9860,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Comunicación Versátil: Adaptable para notificar el traslado a clientes, proveedores, bancos e instituciones.",
+        "Tono Profesional: Redacción clara, concisa y formal, adecuada para la imagen corporativa de tu empresa.",
+        "Formato DOCX Editable: Personaliza fácilmente con tu logo, la nueva dirección y la fecha efectiva del cambio.",
+        "Incluye Datos Clave: Espacios designados para la dirección antigua, la nueva, y la fecha de efectividad del traslado.",
+        "Previene Errores de Facturación: Ayuda a que tus proveedores y clientes actualicen tus datos fiscales para evitar problemas con las facturas.",
+        "Recordatorio de Trámites Oficiales: Incluye notas sobre la obligación de comunicar el cambio a la AEAT y la Seguridad Social.",
+        "Diseño Limpio y Corporativo: Formato profesional listo para imprimir o enviar por correo electrónico.",
+        "Facilita la Transición: Una comunicación proactiva asegura la continuidad del negocio y evita la pérdida de correspondencia."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/09/Modelo-de-carta-de-cambio-de-domicilio-de-una-empresa.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.agenciatributaria.es/static_files/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Modelos_y_formularios/Declaraciones/Modelos_01_al_99/036/mod036_es_es.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿A qué organismos públicos es obligatorio comunicar el cambio de domicilio en España?",
+          "respuesta": "Es obligatorio comunicarlo a tres organismos principales. Primero, a la Agencia Tributaria (AEAT) para actualizar el domicilio fiscal. Segundo, a la Tesorería General de la Seguridad Social (TGSS) para actualizar la dirección del centro de trabajo. Y tercero, si eres una sociedad, debes inscribir el cambio de domicilio social en el Registro Mercantil."
+        },
+        {
+          "pregunta": "¿Qué formulario debo usar para notificar el cambio a Hacienda (AEAT)?",
+          "respuesta": "Debes presentar una modificación de la declaración censal, utilizando el Modelo 036 (para sociedades y la mayoría de autónomos) o el Modelo 037 (régimen simplificado de autónomos). Este trámite se puede realizar telemáticamente a través de la Sede Electrónica de la AEAT y es fundamental para recibir correctamente las notificaciones fiscales."
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre el domicilio social y el fiscal?",
+          "respuesta": "El domicilio social es la dirección pública de la empresa, donde se encuentra su centro de administración o dirección. Es el que figura en el Registro Mercantil y define su nacionalidad. El domicilio fiscal es la dirección válida para las notificaciones de la Agencia Tributaria. Aunque suelen coincidir, pueden ser diferentes."
+        },
+        {
+          "pregunta": "Para cambiar el domicilio social de mi SL, ¿necesito acudir al notario?",
+          "respuesta": "Sí. El cambio de domicilio social requiere un acuerdo de la Junta de Socios (o del órgano de administración, si los estatutos lo permiten), que debe elevarse a escritura pública ante notario y, posteriormente, inscribirse en el Registro Mercantil para que tenga plena validez legal frente a terceros."
+        },
+        {
+          "pregunta": "¿Con cuánta antelación debo comunicar el traslado a mis clientes y proveedores?",
+          "respuesta": "Es recomendable comunicar el cambio con al menos 15-30 días de antelación. Esto les da tiempo suficiente para actualizar tus datos en sus sistemas, evitando así problemas como el envío de facturas, productos o correspondencia a la dirección equivocada. Una comunicación a tiempo es un signo de buena gestión y profesionalidad."
+        },
+        {
+          "pregunta": "¿Es necesario notificar formalmente a los trabajadores el cambio del centro de trabajo?",
+          "respuesta": "Sí. Si el cambio de domicilio implica un traslado del centro de trabajo para los empleados, la empresa debe notificarlo formalmente por escrito, respetando los plazos y condiciones que establezca el Estatuto de los Trabajadores o el convenio colectivo aplicable, ya que podría considerarse una modificación sustancial de las condiciones de trabajo."
+        }
+      ],
+      "informacionLegal": "El cambio de domicilio fiscal de una empresa es una obligación legal que debe notificarse a la Agencia Tributaria (AEAT) a través del Modelo 036/037. Para sociedades mercantiles, el cambio del domicilio social es una modificación estatutaria que requiere acuerdo social, escritura pública e inscripción en el Registro Mercantil. La falta de comunicación a los organismos pertinentes puede derivar en sanciones y en que las notificaciones enviadas a la antigua dirección se consideren válidamente practicadas.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "325 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "10-15 minutos para adaptar la comunicación.",
+        "actualizaciones": "La información legal se revisa anualmente para reflejar cualquier cambio en los procedimientos de la AEAT, Seguridad Social o Registro Mercantil."
+      },
+      "comoUsar": [
+        "Descarga la plantilla DOCX y personalízala con el logo y los datos de tu empresa.",
+        "Rellena claramente los campos de la dirección antigua y la nueva dirección completa.",
+        "Especifica la fecha a partir de la cual la nueva dirección será la única válida para toda comunicación.",
+        "Adapta el texto según el destinatario (cliente, proveedor, banco).",
+        "Envía la comunicación con antelación suficiente a través de tu canal habitual (email o correo postal).",
+        "No olvides realizar en paralelo los trámites obligatorios en la Agencia Tributaria y la Seguridad Social."
+      ],
+      "consejos": [
+        "Actualiza tu nueva dirección en Google My Business inmediatamente para no perder clientes locales.",
+        "Modifica la dirección en tu página web, en la firma de tus correos electrónicos y en toda tu papelería corporativa.",
+        "Contrata un servicio de reenvío postal en Correos durante los primeros meses para asegurar la recepción de cualquier carta enviada a la antigua dirección.",
+        "Informa a tu banco y a las compañías de seguros para que actualicen tus datos y la localización del riesgo, si aplica.",
+        "Crea un checklist con todos los actores a notificar (Hacienda, SS, Registro, bancos, proveedores, clientes, etc.) para no olvidar a nadie."
       ]
     },
     {
@@ -754,6 +1354,92 @@
       ]
     },
     {
+      "id": "carta-cese-actividad-empresa-2025",
+      "titulo": "Modelo de Carta de Cese de Actividad de Empresa",
+      "slug": "carta-cese-actividad-empresa",
+      "categoria": "Legal",
+      "descripcion": "Descarga nuestra plantilla para comunicar el cese de actividad de tu empresa. Este recurso incluye modelos de carta editables en Word (DOCX) para notificar el cierre a clientes y proveedores de manera profesional. Es una herramienta esencial para gestionar la fase final de tu negocio, asegurando una comunicación clara sobre pedidos, facturas pendientes y el proceso de liquidación.",
+      "imagenUrl": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 7240,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Doble Plantilla: Incluye un modelo de carta específico para comunicar el cese a clientes y otro adaptado para proveedores.",
+        "Enfoque Profesional: Redactada con un tono formal y transparente para gestionar esta comunicación delicada y proteger la reputación.",
+        "Guía para la Transición: Establece claramente los pasos a seguir para los pedidos en curso, servicios contratados y facturas pendientes.",
+        "Formato DOCX Editable: Personaliza fácilmente la fecha efectiva del cese y los detalles específicos de tu situación.",
+        "Base para el Proceso Legal: Sirve como la comunicación mercantil inicial del proceso de disolución y liquidación de la sociedad.",
+        "Apta para Autónomos y Sociedades: El modelo es adaptable tanto para un profesional que cesa su actividad como para una SL que inicia su liquidación.",
+        "Previene Conflictos: Una notificación clara y anticipada a proveedores y clientes evita malentendidos y posibles reclamaciones.",
+        "Cumple con las Buenas Prácticas: Sigue las recomendaciones de asesores mercantiles para un cierre de negocio ordenado."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/09/Modelo-de-carta-de-cese-de-negocio.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G322.shtml"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Cuál es el primer paso legal para cesar la actividad de mi empresa en España?",
+          "respuesta": "El primer paso formal es presentar la declaración censal (Modelo 036 para sociedades o 037 para la mayoría de autónomos) ante la Agencia Tributaria (AEAT), marcando la casilla de 'Cese de actividad'. Esto debe hacerse en el plazo de un mes desde la fecha efectiva del cese. Simultáneamente, debes comunicar la baja en la Seguridad Social."
+        },
+        {
+          "pregunta": "¿Cómo debo comunicar el cese a mis trabajadores?",
+          "respuesta": "Debes entregarles una 'carta de despido por causas objetivas', concretamente por 'extinción de la personalidad jurídica del contratante'. Esta comunicación debe hacerse por escrito con un preaviso mínimo de 15 días a la fecha de efecto. El trabajador tiene derecho a una indemnización de 20 días de salario por año trabajado, con un máximo de 12 mensualidades."
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre comunicar el cese a un cliente y a un proveedor?",
+          "respuesta": "A los clientes les comunicarás la fecha límite para nuevos pedidos y cómo se gestionarán las garantías o servicios pendientes. A los proveedores, les notificarás la fecha de cese para no generar más pedidos y establecerás un plan para liquidar las facturas pendientes. La plantilla incluye ambas versiones."
+        },
+        {
+          "pregunta": "Tengo facturas pendientes de cobrar y pagar, ¿cómo se gestionan durante el cese?",
+          "respuesta": "El cese de actividad no extingue las deudas. Durante el proceso de liquidación, la empresa (a través de su liquidador) debe realizar todas las acciones necesarias para cobrar los créditos pendientes de sus clientes y pagar las deudas con sus proveedores y acreedores, siguiendo el orden de prelación que marca la ley."
+        },
+        {
+          "pregunta": "¿Qué responsabilidades tiene el administrador de una SL después del cese?",
+          "respuesta": "El administrador es responsable de llevar a cabo el proceso de disolución y liquidación ordenadamente. Esto incluye realizar el balance final, pagar a los acreedores y repartir el haber social sobrante entre los socios. Si no actúa con la debida diligencia, podría llegar a responder con su patrimonio personal por las deudas de la sociedad."
+        },
+        {
+          "pregunta": "¿Es necesario acudir a un notario para cerrar una empresa?",
+          "respuesta": "Sí. Para una sociedad (SL, SA), el proceso de disolución y extinción requiere de escritura pública ante notario, que posteriormente deberá inscribirse en el Registro Mercantil. Un autónomo no necesita este paso, ya que le basta con presentar las bajas en Hacienda y Seguridad Social."
+        }
+      ],
+      "informacionLegal": "El cese de actividad es un proceso regulado que varía para autónomos y sociedades. Para una sociedad, implica la disolución y liquidación según la Ley de Sociedades de Capital. La comunicación a los trabajadores se rige por el Estatuto de los Trabajadores (Arts. 49, 51 y 53). Fiscalmente, es imperativo presentar el Modelo 036/037 en la AEAT y tramitar la baja en la Seguridad Social para extinguir las obligaciones legales y evitar sanciones.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "415 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Adobe Acrobat Reader (para formularios oficiales de la AEAT)"
+        ],
+        "tiempoEdicion": "20-30 minutos para adaptar las cartas de comunicación.",
+        "actualizaciones": "El contenido se revisa anualmente para reflejar cambios en la legislación mercantil, laboral y fiscal española."
+      },
+      "comoUsar": [
+        "Consulta con un asesor legal o fiscal para planificar correctamente todo el proceso de cese.",
+        "Descarga nuestra plantilla DOCX y selecciona el modelo (cliente o proveedor) que necesitas.",
+        "Personaliza la carta con los datos de tu empresa y los del destinatario.",
+        "Establece una fecha clara y definitiva para el cese de la actividad comercial.",
+        "Detalla las instrucciones sobre cómo se procederá con los asuntos pendientes (pedidos, facturas, etc.).",
+        "Envía la comunicación con suficiente antelación por un medio fehaciente (email certificado o Burofax).",
+        "Paralelamente, realiza los trámites obligatorios de baja en la Agencia Tributaria y la Seguridad Social."
+      ],
+      "consejos": [
+        "La planificación es clave. Inicia el proceso con varios meses de antelación para poder realizar una liquidación ordenada.",
+        "La comunicación con los empleados debe ser tratada con la máxima sensibilidad y respeto, cumpliendo escrupulosamente con la ley.",
+        "Prioriza el pago a la Administración Pública (Hacienda, Seguridad Social) y a los trabajadores, ya que son créditos preferentes.",
+        "No olvides dar de baja todos los suministros, seguros, dominios de internet y otros servicios asociados a la empresa.",
+        "Conserva toda la documentación contable, fiscal y legal de la empresa durante un mínimo de 6 años tras la extinción, como exige el Código de Comercio."
+      ]
+    },
+    {
       "id": "baja-voluntario-modelo-2025",
       "titulo": "Modelo de Baja Voluntaria 2025",
       "slug": "baja-voluntario-modelo-2025",
@@ -832,6 +1518,92 @@
         "Guarda una copia de la carta firmada por la empresa.",
         "Asegúrate de recibir tu finiquito correctamente.",
         "Consulta con recursos humanos si tienes dudas sobre el proceso."
+      ]
+    },
+    {
+      "id": "carta-despido-incapacidad-empresario-2025",
+      "titulo": "Modelo de Carta de Despido por Incapacidad del Empresario",
+      "slug": "carta-despido-incapacidad-empresario",
+      "categoria": "Laboral",
+      "descripcion": "Descarga la plantilla para comunicar el despido por incapacidad permanente del empresario individual. Este modelo de carta, editable en Word (DOCX), está redactado conforme al Estatuto de los Trabajadores para que el representante legal del empleador notifique la extinción del contrato de trabajo de forma legal y segura, incluyendo el derecho a la indemnización correspondiente.",
+      "imagenUrl": "https://images.pexels.com/photos/5676744/pexels-photo-5676744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 6930,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Basada en el Art. 49.1.g del Estatuto de los Trabajadores: Se fundamenta en la extinción del contrato por incapacidad del empresario.",
+        "Para Representantes Legales: Diseñada para ser utilizada por los herederos o el tutor legal del empresario incapacitado.",
+        "Comunicación Fehaciente: Sirve como notificación formal para extinguir la relación laboral con plenas garantías legales.",
+        "Menciona la Indemnización Obligatoria: Refleja el derecho del trabajador a percibir una indemnización equivalente a un mes de salario.",
+        "Formato DOCX Editable: Permite personalizar los datos del empleador, del representante legal y del trabajador fácilmente.",
+        "Reduce el Riesgo de Impugnación: Una comunicación clara y legalmente fundamentada minimiza el riesgo de que el despido sea declarado improcedente.",
+        "Lista para Entregar junto al Finiquito: Es el documento que acompaña a la liquidación final de salarios y a la indemnización.",
+        "Tono Formal y Respetuoso: Redactada para comunicar una situación delicada con la seriedad y el respeto que requiere."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.wonder.legal/es/modele/carta-despido-muerte-jubilacion-incapacidad-empresario.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.sepe.es/contenidos/empresas/contratos_trabajo/asistente/pdf/es/COMUNICACION_EXTINCION_RELACION_LABORAL.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué ocurre con los contratos de los trabajadores si el empresario individual es declarado incapaz permanente?",
+          "respuesta": "La incapacidad permanente del empresario individual (persona física, no una sociedad) es una causa legal de extinción de los contratos de trabajo. Esto significa que la relación laboral finaliza legalmente, siempre que se sigan los pasos formales para comunicarlo."
+        },
+        {
+          "pregunta": "¿Quién debe comunicar el despido al trabajador en este caso?",
+          "respuesta": "La comunicación debe ser realizada por el representante legal del empresario incapacitado. Esto puede ser un tutor legal designado por un juez, o en caso de fallecimiento posterior, sus herederos. Esta persona actúa en nombre del empleador para formalizar la extinción de los contratos."
+        },
+        {
+          "pregunta": "¿A qué indemnización tiene derecho el trabajador despedido por esta causa?",
+          "respuesta": "El trabajador tiene derecho a una indemnización específica establecida en el Estatuto de los Trabajadores, que consiste en una cantidad equivalente a un mes de su salario. Esta indemnización es independiente del finiquito, que incluye las partes proporcionales de pagas extra y vacaciones no disfrutadas."
+        },
+        {
+          "pregunta": "En este tipo de despido, ¿hay que dar un preaviso al trabajador?",
+          "respuesta": "El Estatuto de los Trabajadores no establece un plazo de preaviso para esta causa específica de extinción. Sin embargo, es una buena práctica comunicar la situación al trabajador tan pronto como sea legalmente posible, para que pueda gestionar su situación y solicitar las prestaciones correspondientes."
+        },
+        {
+          "pregunta": "¿Qué pasa si un familiar continúa con el negocio?",
+          "respuesta": "Si un familiar o un tercero se hace cargo del negocio y continúa con la actividad, se produce una 'sucesión de empresa' (subrogación). En ese caso, el nuevo titular está obligado a mantener los contratos de los trabajadores con sus mismas condiciones, antigüedad y derechos. No se extinguirían los contratos."
+        },
+        {
+          "pregunta": "¿Esta causa de despido aplica también si el empresario es una Sociedad Limitada (SL)?",
+          "respuesta": "No. Esta causa de extinción solo aplica cuando el empleador es una persona física (empresario individual o autónomo). Si el empresario es administrador de una SL, su incapacidad no extingue los contratos, ya que la personalidad jurídica de la empresa continúa y la sociedad debe nombrar un nuevo administrador."
+        }
+      ],
+      "informacionLegal": "La extinción del contrato por incapacidad del empresario está regulada en el Artículo 49.1.g) del Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores. Dicha extinción da derecho al trabajador a una indemnización de un mes de salario y a solicitar la prestación por desempleo si cumple los requisitos. La comunicación debe ser por escrito, exponiendo la causa y la fecha de efectos.",
+      "detalles": {
+        "fechaActualizacion": "25/09/2025",
+        "tamanoArchivo": "305 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "15-20 minutos.",
+        "actualizaciones": "El contenido legal se revisa anualmente para reflejar cualquier cambio jurisprudencial o legislativo en el ámbito del derecho laboral español."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena los datos del empresario incapacitado, de su representante legal (quien firma la carta) y del trabajador.",
+        "Especifica la fecha de la resolución judicial o del documento que acredita la incapacidad permanente del empresario.",
+        "Indica la fecha de efecto de la extinción del contrato.",
+        "Prepara simultáneamente el documento de Saldo y Finiquito, que incluirá el salario del último mes, la indemnización de un mes y las partes proporcionales.",
+        "Imprime dos copias de la carta y del finiquito.",
+        "Entrega la carta al trabajador en mano, solicitando que firme ambas copias (una para cada parte) con 'Recibí' y la fecha."
+      ],
+      "consejos": [
+        "Consulta siempre a un abogado laboralista o a un graduado social antes de iniciar el proceso para asegurar que todos los pasos son correctos.",
+        "Para una mayor seguridad jurídica, envía la carta mediante Burofax con acuse de recibo y certificación de texto. Esto constituye una prueba fehaciente de la notificación.",
+        "Junto con la carta, entrega al trabajador el 'Certificado de Empresa' para que pueda tramitar su prestación por desempleo en el SEPE.",
+        "Asegúrate de que la causa de la extinción (la incapacidad permanente) esté debidamente acreditada por un organismo oficial (resolución del INSS, sentencia judicial).",
+        "Liquida todas las cantidades adeudadas (finiquito e indemnización) en la fecha de efecto del despido para evitar reclamaciones de cantidad."
       ]
     },
     {
