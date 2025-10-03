@@ -1,0 +1,86 @@
+{
+  "id": "carta-subida-ipc-alquiler-2025",
+  "titulo": "Modelo de Carta de Subida de Alquiler [LAU 2025]",
+  "slug": "carta-subida-alquiler-ipc-lau",
+  "categoria": "Legal",
+  "descripcion": "Descarga el modelo de carta para comunicar la subida anual del alquiler a tu inquilino, actualizada a la legislación de 2025. Esta plantilla editable en Word (DOCX) aplica el índice legalmente permitido (límite del 3% o IGC, no el IPC) y cumple con los requisitos de preaviso de la Ley de Arrendamientos Urbanos (LAU). Notifica la actualización de la renta de forma segura y legal.",
+  "imagenUrl": "https://images.pexels.com/photos/534220/pexels-photo-534220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "descargas": 16100,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Conforme a la Ley de Arrendamientos Urbanos (LAU): Redactada según el Artículo 18 de la LAU sobre actualización de la renta.",
+    "Actualizada a la Legislación de 2025: Aplica el límite máximo legal del 3% (o el que esté vigente), en cumplimiento de los RDL de control de precios.",
+    "Cumple el Preaviso Obligatorio: Diseñada para ser enviada con la antelación mínima de un mes a la fecha de aplicación.",
+    "Cálculo Claro y Desglosado: Especifica la renta actual, el índice y porcentaje aplicado, y el importe exacto de la nueva renta mensual.",
+    "Formato DOCX Editable: Personaliza fácilmente con los datos del arrendador, inquilino, contrato e importes.",
+    "Apta para Envío por Burofax: Estructura ideal para una comunicación fehaciente que sirva como prueba legal irrefutable.",
+    "Lenguaje Jurídico Preciso: Evita ambigüedades y utiliza la terminología correcta para asegurar la validez de la notificación.",
+    "Protege al Arrendador: Una notificación correcta es el único medio legal para poder exigir el pago de la renta actualizada."
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.idealista.com/news/inmobiliario/vivienda/2023/11/08/808643-plantilla-para-comunicar-la-subida-del-alquiler-en-2023-segun-la-lau.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.ocu.org/-/media/ocu/files/modelos/vivienda/cartas/actualizacion-de-la-renta-segun-ipc.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto puedo subir legalmente el alquiler a mi inquilino en 2025?",
+      "respuesta": "En 2025, la subida de la renta de los contratos de alquiler de vivienda habitual sigue limitada por el Gobierno. No puedes aplicar el IPC general. Para grandes tenedores, el límite es el que resulte del índice de referencia aplicable. Para pequeños propietarios, el incremento será el pactado entre las partes, con un límite máximo del 3% anual. Esta carta aplica dicho límite."
+    },
+    {
+      "pregunta": "¿Puedo actualizar la renta si en el contrato no dice nada de subidas?",
+      "respuesta": "No. La Ley de Arrendamientos Urbanos (LAU) es clara: la renta solo puede ser actualizada si existe un pacto expreso sobre ello en el contrato de alquiler. Si el contrato no menciona explícitamente la posibilidad de actualizar la renta anualmente, esta permanecerá fija durante toda la vigencia del mismo."
+    },
+    {
+      "pregunta": "¿Con cuánta antelación debo notificar la subida del alquiler?",
+      "respuesta": "Debes notificar la subida por escrito con una antelación mínima de un mes a la fecha en la que se cumpla la anualidad del contrato y deba aplicarse la nueva renta. Por ejemplo, si el contrato se firmó un 1 de diciembre, deberás enviar la carta antes del 1 de noviembre para que la nueva renta entre en vigor en la mensualidad de diciembre."
+    },
+    {
+      "pregunta": "¿Desde qué mes se empieza a pagar la nueva renta actualizada?",
+      "respuesta": "La nueva renta se empieza a pagar en la mensualidad siguiente a la recepción de la notificación. Por ejemplo, si envías un burofax el 15 de octubre y el inquilino lo recibe el 17 de octubre, la nueva renta será exigible a partir de la mensualidad de noviembre, siempre y cuando ya se haya cumplido la anualidad del contrato."
+    },
+    {
+      "pregunta": "¿Qué índice debo usar para el cálculo: el del mes actual o uno anterior?",
+      "respuesta": "Para calcular el porcentaje de subida, debes usar la última tasa de variación del índice de referencia que estuviera publicada por el INE (Instituto Nacional de Estadística) en la fecha de actualización del contrato. Normalmente, esto corresponde al dato de hace dos meses (ej. para actualizar en octubre, se usa el índice publicado de agosto)."
+    },
+    {
+      "pregunta": "¿Qué pasa si mi inquilino se niega a pagar la subida notificada correctamente?",
+      "respuesta": "Si has notificado la subida cumpliendo todos los requisitos legales (plazo, forma, índice correcto), el pago de la nueva renta es una obligación contractual del inquilino. Si se niega a pagar la diferencia, estará incurriendo en un impago parcial de la renta, lo que te facultaría para iniciar un procedimiento de desahucio por falta de pago."
+    }
+  ],
+  "informacionLegal": "La actualización de la renta se rige por el Artículo 18 de la Ley de Arrendamientos Urbanos (LAU) y, de forma excepcional, por los Reales Decretos-ley de medidas urgentes (como el RDL 6/2022 y sus prórrogas). En 2025, la subida para contratos de vivienda habitual está topada y no puede exceder el 3% (o el índice de referencia si es inferior). La notificación debe ser por escrito, con un mes de antelación a la anualidad del contrato, y especificando el porcentaje y la nueva renta.",
+  "detalles": {
+    "fechaActualizacion": "03/10/2025",
+    "tamanoArchivo": "300 KB",
+    "idiomas": [
+      "Español (España)"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word 2016 o superior",
+      "Google Docs"
+    ],
+    "tiempoEdicion": "15-20 minutos para rellenar con los datos del contrato.",
+    "actualizaciones": "El contenido se revisa de forma continua para reflejar los cambios en los Reales Decretos-ley que limitan la actualización de rentas."
+  },
+  "comoUsar": [
+    "Verifica la fecha de cumplimiento de cada anualidad de tu contrato de alquiler.",
+    "Consulta en la web del INE (Instituto Nacional de Estadística) el último valor publicado del índice aplicable.",
+    "Descarga la plantilla en formato DOCX.",
+    "Rellena todos los datos: del arrendador, del inquilino, del inmueble y del contrato.",
+    "Indica la renta actual, el porcentaje de subida legal (máximo 3%) y el cálculo de la nueva renta final.",
+    "Firma la carta.",
+    "Envía la carta por un medio fehaciente (se recomienda Burofax con acuse de recibo y certificación de texto) con al menos un mes de antelación."
+  ],
+  "consejos": [
+    "El Burofax es la mejor opción de envío. Aunque cueste dinero, es una prueba legal irrefutable de que la notificación se ha realizado en tiempo y forma.",
+    "No apliques nunca una subida retroactiva. La actualización solo tiene efectos a partir del mes siguiente a la notificación.",
+    "Guarda una copia de la carta y el justificante del Burofax junto al contrato de alquiler original.",
+    "Si tienes varios inmuebles, crea un calendario de vencimientos de contrato para no olvidar notificar las actualizaciones a tiempo.",
+    "Sé transparente con el cálculo. Adjuntar una nota con el enlace del INE donde se puede consultar el índice puede ayudar a evitar disputas."
+  ]
+}

@@ -1,6 +1,436 @@
 {
   "plantillas": [
     {
+      "id": "carta-despido-disciplinario-ofensas-verbales-2025",
+      "titulo": "Modelo de Carta de Despido por Ofensas Verbales",
+      "slug": "carta-despido-disciplinario-ofensas-verbales",
+      "categoria": "Laboral",
+      "descripcion": "Descarga nuestro modelo de carta para ejecutar un despido disciplinario por ofensas verbales, una falta muy grave según el Estatuto de los Trabajadores. Esta plantilla (Word DOCX) está diseñada para cumplir con todos los requisitos legales, detallando los hechos de forma precisa y fundamentada para garantizar la máxima seguridad jurídica a la empresa y minimizar el riesgo de improcedencia.",
+      "imagenUrl": "https://images.pexels.com/photos/6694543/pexels-photo-6694543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 19500,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Basada en el Art. 54.2.c del Estatuto de los Trabajadores: Se fundamenta en 'las ofensas verbales o físicas al empresario o a las personas que trabajan en la empresa'.",
+        "Estructura Factual Detallada: Diseñada para una descripción cronológica y literal de los hechos, especificando fecha, hora, lugar, palabras exactas y testigos.",
+        "Calificación como Falta Muy Grave: Justifica la máxima sanción (el despido) basándose en la gravedad de la conducta y la transgresión de la buena fe contractual.",
+        "Sin Derecho a Indemnización: La carta deja claro que, al tratarse de un despido disciplinario procedente, no corresponde indemnización (sí el finiquito).",
+        "Formato DOCX 100% Editable: Adapta el contenido a la situación concreta, un requisito indispensable para la validez del despido.",
+        "Máxima Seguridad Jurídica: Redactada para superar el control judicial, poniendo el foco en la carga de la prueba que recae sobre la empresa.",
+        "Lista para Entrega Fehaciente: Formato adecuado para ser entregada en mano (con firma de 'recibí') o, preferiblemente, por Burofax.",
+        "Revisada por Abogados Laboralistas: Contenido validado para cumplir con los estrictos requisitos formales que exige la ley."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.wonder.legal/es/modele/carta-despido-disciplinario.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.sepe.es/contenidos/empresas/contratos_trabajo/asistente/pdf/es/COMUNICACION_DESPIDO_DISCIPLINARIO.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué se considera exactamente una 'ofensa verbal' para justificar un despido?",
+          "respuesta": "La jurisprudencia exige que sea una conducta grave, culpable y que suponga una transgresión de la buena fe contractual. No basta con una palabra malsonante en una discusión. Debe tratarse de insultos graves, vejaciones, calumnias o amenazas proferidas contra el empresario, compañeros o superiores, que hagan insostenible la continuidad de la relación laboral."
+        },
+        {
+          "pregunta": "Si el trabajador niega los hechos, ¿cómo puede la empresa probar las ofensas verbales?",
+          "respuesta": "La carga de la prueba recae totalmente sobre la empresa. Es fundamental contar con pruebas sólidas. Las más efectivas son los testigos (otros empleados, clientes) que estén dispuestos a declarar en un juicio. También pueden servir grabaciones de audio o vídeo (siempre que se hayan obtenido legalmente) o comunicaciones por escrito (emails, mensajes) que contengan los insultos."
+        },
+        {
+          "pregunta": "¿Es obligatorio un preaviso en este tipo de despido?",
+          "respuesta": "No. A diferencia de otros tipos de despido, el despido disciplinario no requiere de preaviso. La carta de despido comunica la extinción del contrato con efecto inmediato desde la fecha de su notificación."
+        },
+        {
+          "pregunta": "¿El trabajador despedido tiene derecho a finiquito?",
+          "respuesta": "Sí, siempre. El finiquito no es una indemnización. Es la liquidación de las cantidades que se le deben al trabajador a la fecha del despido, como el salario de los días trabajados en el último mes, la parte proporcional de las pagas extraordinarias y las vacaciones devengadas y no disfrutadas. Esto debe abonarse siempre."
+        },
+        {
+          "pregunta": "¿Qué pasa si un juez declara el despido como 'improcedente'?",
+          "respuesta": "Si el juez considera que los hechos no han sido probados, no son lo suficientemente graves o la carta tiene defectos de forma, declarará el despido improcedente. En ese caso, la empresa tiene la opción de readmitir al trabajador en su puesto o abonarle la indemnización máxima por despido improcedente."
+        },
+        {
+          "pregunta": "¿Cuánto tiempo tiene la empresa para despedir a un trabajador tras la ofensa?",
+          "respuesta": "Las faltas muy graves, como esta, prescriben a los 60 días desde que la empresa tuvo conocimiento de su comisión y, en todo caso, a los 6 meses de haberse cometido. Es crucial actuar dentro de este plazo para que la sanción sea válida."
+        }
+      ],
+      "informacionLegal": "Este despido se fundamenta en el Artículo 54.2.c) del Estatuto de los Trabajadores. El procedimiento se rige por el Artículo 55, que exige que el despido sea notificado por escrito al trabajador, figurando en la carta los hechos que lo motivan y la fecha en que tendrá efectos ('carta de despido'). El incumplimiento de estos requisitos formales puede llevar a la declaración de improcedencia del despido.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "350 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-45 minutos para una redacción precisa y detallada de los hechos.",
+        "actualizaciones": "Plantilla revisada anualmente para incorporar la jurisprudencia más reciente del Tribunal Supremo sobre la gravedad y prueba de las ofensas verbales."
+      },
+      "comoUsar": [
+        "Antes de nada, asegúrate de tener pruebas sólidas (testigos, grabaciones lícitas) que sustenten el despido.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena los datos de la empresa y del trabajador de forma precisa.",
+        "En la sección de 'HECHOS', sé extremadamente detallado: transcribe las ofensas literales, indica la fecha, la hora, el lugar exacto y quiénes estaban presentes.",
+        "Cita el artículo del Estatuto de los Trabajadores y/o del convenio colectivo que se ha vulnerado.",
+        "Indica la fecha de efecto del despido (normalmente, la misma fecha de la comunicación).",
+        "Entrega la carta por un medio fehaciente, preferiblemente Burofax, o en mano con un testigo y solicitando la firma del 'recibí'."
+      ],
+      "consejos": [
+        "Nunca despidas 'en caliente'. Tómate tiempo para recabar pruebas y redactar la carta de forma meditada y con asesoramiento legal.",
+        "La precisión en la carta es tu mejor defensa. La ambigüedad o la falta de concreción son los motivos más comunes para que un juez anule el despido.",
+        "No te limites a decir 'insultó a su superior'. Debes escribir: 'El día X a las Y horas, en la oficina Z, usted se dirigió a D. [Nombre] y le gritó las siguientes palabras literales: \"...\"'.",
+        "Junto con la carta de despido, ten preparado el documento de finiquito para entregarlo al trabajador y ponerlo a su disposición.",
+        "Si el trabajador es representante legal de los trabajadores, se debe abrir un expediente contradictorio antes del despido, un trámite legal obligatorio."
+      ]
+    },
+    {
+      "id": "carta-amonestacion-falta-grave-2025",
+      "titulo": "Modelo de Carta de Amonestación por Falta Grave",
+      "slug": "carta-amonestacion-falta-grave",
+      "categoria": "Laboral",
+      "descripcion": "Descarga nuestra plantilla de carta para amonestar a un trabajador por la comisión de una falta grave. Este modelo, editable en Word (DOCX) y redactado por expertos, cumple con los requisitos del Estatuto de los Trabajadores. Te permite describir los hechos de forma fehaciente, especificar la normativa infringida y advertir de futuras sanciones, protegiendo jurídicamente a la empresa.",
+      "imagenUrl": "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 18400,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Conforme al Estatuto de los Trabajadores: Redactada en base al Artículo 58 del ET sobre el poder disciplinario del empresario.",
+        "Descripción Factual de los Hechos: Estructura clara para detallar la conducta infractora de forma objetiva, con fecha, lugar y descripción precisa.",
+        "Calificación de la Falta: Permite especificar la calificación de la falta (grave) según el convenio colectivo aplicable o la normativa laboral.",
+        "Advertencia de Sanciones Futuras: Incluye la cláusula de advertencia necesaria, indicando que la reincidencia podrá ser sancionada con mayor dureza.",
+        "Formato DOCX 100% Editable: Adapta el contenido a la situación específica, detallando la infracción cometida.",
+        "Seguridad Jurídica para la Empresa: Constituye la prueba documental indispensable para justificar una sanción posterior, incluido el despido disciplinario.",
+        "Lista para Entrega Formal: Diseñada para ser entregada en mano con firma de 'recibí' o enviada por Burofax para máxima seguridad.",
+        "Revisada por Expertos Laborales: Contenido validado para minimizar el riesgo de impugnación por defectos de forma."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.wonder.legal/es/modele/carta-amonestacion-escrita-trabajador.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.sepe.es/contenidos/empresas/contratos_trabajo/asistente/pdf/es/COMUNICACION_SANCION_FALTA_GRAVE_MUY_GRAVE.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué es exactamente una carta de amonestación?",
+          "respuesta": "Es una comunicación formal y por escrito mediante la cual la empresa pone en conocimiento de un trabajador la comisión de una falta, le advierte de su incorrección y le avisa de que, en caso de reincidencia, se podrán tomar medidas disciplinarias más severas. Es el primer paso del poder disciplinario del empresario."
+        },
+        {
+          "pregunta": "¿Cuándo se considera que una falta es 'grave'?",
+          "respuesta": "La calificación de una falta como leve, grave o muy grave viene determinada por el convenio colectivo aplicable a la empresa. Cada convenio tipifica las conductas sancionables. Ejemplos comunes de faltas graves son la indisciplina, la reincidencia en faltas leves o las faltas de asistencia injustificadas."
+        },
+        {
+          "pregunta": "¿Es obligatorio entregar una carta de amonestación antes de despedir a un trabajador?",
+          "respuesta": "No siempre es obligatorio amonestar antes de un despido, especialmente si la primera falta es ya 'muy grave' y sancionable con el despido directo. Sin embargo, en un historial de incumplimientos, haber enviado cartas de amonestación previas refuerza enormemente la justificación de un despido disciplinario posterior por reincidencia."
+        },
+        {
+          "pregunta": "¿Cómo debo entregar esta carta al trabajador para que sea válida?",
+          "respuesta": "La forma más segura es entregarla en mano, imprimiendo dos copias y solicitando al trabajador que firme una de ellas con la fecha y la palabra 'Recibí' (o 'No conforme', si se niega a aceptarla). Si el trabajador se niega a firmar, deberías entregarla delante de dos testigos. La alternativa más garantista es enviarla por Burofax con acuse de recibo."
+        },
+        {
+          "pregunta": "¿Puede el trabajador impugnar o responder a una carta de amonestación?",
+          "respuesta": "Sí. El trabajador puede impugnar la amonestación ante la jurisdicción social en un plazo de 20 días hábiles si considera que los hechos son falsos o la calificación es incorrecta. También puede redactar un escrito de alegaciones dirigido a la empresa para dejar constancia de su versión de los hechos."
+        },
+        {
+          "pregunta": "¿Cuánto tiempo tiene la empresa para amonestar a un trabajador?",
+          "respuesta": "La empresa debe actuar dentro de los plazos de prescripción de las faltas. Según el Estatuto de los Trabajadores, las faltas graves prescriben a los 20 días desde que la empresa tuvo conocimiento de su comisión y, en todo caso, a los 6 meses de haberse cometido. Una amonestación enviada fuera de plazo no sería válida."
+        }
+      ],
+      "informacionLegal": "El poder disciplinario del empresario se regula en el Artículo 58 del Estatuto de los Trabajadores, que establece que las faltas y sanciones deben estar tipificadas en las disposiciones legales o en el convenio colectivo aplicable. Las sanciones por faltas graves y muy graves requieren comunicación escrita al trabajador, haciendo constar la fecha y los hechos que la motivan. La carta de amonestación es la base para el ejercicio graduado de este poder sancionador.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "330 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "20-30 minutos para detallar los hechos con precisión.",
+        "actualizaciones": "El contenido se revisa anualmente para reflejar la jurisprudencia más reciente sobre derecho disciplinario laboral."
+      },
+      "comoUsar": [
+        "Consulta el convenio colectivo aplicable para verificar la tipificación exacta de la falta cometida.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena los datos de la empresa y del trabajador de forma completa y sin errores.",
+        "En la sección 'HECHOS', describe de forma cronológica, detallada y objetiva la conducta del trabajador, evitando juicios de valor.",
+        "Indica el artículo del convenio colectivo o del Estatuto de los Trabajadores que se ha infringido.",
+        "Imprime dos copias de la carta.",
+        "Procede a la entrega en mano solicitando la firma del 'recibí', o prepara el envío por Burofax."
+      ],
+      "consejos": [
+        "La objetividad es tu mayor aliada. Céntrate en datos concretos: 'El día X a la hora Y, usted realizó Z, incumpliendo la norma W'.",
+        "No incluyas la sanción en una carta de amonestación. Esta carta es una advertencia; la sanción (si la hubiera) se comunica en un escrito posterior.",
+        "Actúa con celeridad. No dejes pasar los hechos y arriesgarte a que la falta prescriba.",
+        "Guarda una copia de la carta firmada (o del Burofax) en el expediente personal del trabajador. Es una prueba crucial.",
+        "Asegúrate de que la medida es proporcional. No amonestes por una falta leve como si fuera grave; esto podría volverse en tu contra."
+      ]
+    },
+    {
+      "id": "carta-comercial-captar-clientes-2025",
+      "titulo": "Modelo de Carta Comercial para Captar Clientes",
+      "slug": "carta-comercial-captar-clientes",
+      "categoria": "Consumo",
+      "descripcion": "Descarga nuestra plantilla de carta comercial, diseñada para captar la atención de nuevos clientes en España. Este modelo editable en Word (DOCX) sigue una estructura persuasiva para presentar tus servicios o productos, destacar sus beneficios y proponer un siguiente paso. Ideal para equipos de ventas y marketing que buscan una herramienta efectiva para la prospección comercial.",
+      "imagenUrl": "https://images.pexels.com/photos/4144144/pexels-photo-4144144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 17250,
+      "valoracion": 4.7,
+      "caracteristicas": [
+        "Estructura Persuasiva AIDA: Diseñada para generar Atención, Interés, Deseo y una clara llamada a la Acción (CTA).",
+        "Enfoque en el Beneficio del Cliente: La redacción se centra en cómo solucionar los problemas del cliente, no en listar características.",
+        "Tono Adaptable (B2B/B2C): Incluye sugerencias para ajustar el lenguaje si te diriges a una empresa o a un consumidor final.",
+        "Plantilla DOCX 100% Editable: Personaliza cada sección para que la carta refleje la voz y la propuesta de valor únicas de tu marca.",
+        "Ejemplos de Llamadas a la Acción: Ofrece varias opciones de CTA de bajo compromiso, como 'agendar una llamada de 15 min' o 'solicitar una demo'.",
+        "Consideraciones sobre RGPD: Incluye notas sobre las buenas prácticas en la prospección comercial para respetar la ley de protección de datos.",
+        "Formato Versátil: Diseño limpio y profesional que funciona tanto para enviar por email como por correo postal tradicional.",
+        "Guía de Personalización: Aporta consejos clave para investigar a tu cliente potencial y hacer que tu mensaje sea relevante y efectivo."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.ionos.es/startupguide/fileadmin/StartupGuide/Document-Templates/ES/Letter-of-acquisition-ES.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.cartas-ejemplo.com/wp-content/uploads/2013/02/carta-de-presentacion-de-una-empresa.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Sigue siendo efectivo enviar cartas comerciales en 2025?",
+          "respuesta": "Sí, pero solo si están muy personalizadas. Mientras que el email es el canal principal, una carta física bien diseñada puede destacar y generar un gran impacto en la prospección B2B de alto valor. En B2C, el email sigue siendo el rey. La clave del éxito no es el canal, sino la relevancia y personalización del mensaje."
+        },
+        {
+          "pregunta": "¿A quién debo dirigir la carta dentro de una empresa?",
+          "respuesta": "Debes dirigirla al responsable del área que se beneficiaría de tu solución. Investiga en LinkedIn o en la web de la empresa para encontrar el nombre y cargo del Director de Compras, de Marketing, de RRHH, etc. Una carta dirigida a un cargo específico tiene muchas más probabilidades de ser leída que una enviada a 'Atención al Cliente'."
+        },
+        {
+          "pregunta": "¿Cómo puedo conseguir los datos de contacto de clientes potenciales de forma legal?",
+          "respuesta": "Puedes usar fuentes públicas como directorios de empresas, perfiles profesionales en LinkedIn o asistentes a ferias del sector. Según el RGPD, puedes contactar a un profesional si tienes un 'interés legítimo' y tu oferta es relevante para su cargo. Siempre debes identificarte y ofrecer una forma fácil de oponerse a futuras comunicaciones."
+        },
+        {
+          "pregunta": "¿Cuál es el error más común al escribir una carta para captar clientes?",
+          "respuesta": "El error más común es hablar constantemente sobre 'nosotros' y 'nuestro producto'. Al cliente no le importas tú, le importan sus propios problemas. La carta debe centrarse en el cliente, sus desafíos y cómo tu solución puede ayudarle a alcanzar sus objetivos. Habla de ellos, no de ti."
+        },
+        {
+          "pregunta": "Si envío la carta y no me responden, ¿debo hacer seguimiento?",
+          "respuesta": "Sí, absolutamente. La mayoría de las respuestas se consiguen tras el seguimiento. Si no has recibido respuesta en una semana, es una práctica estándar y profesional enviar un breve y amable correo electrónico de seguimiento o realizar una llamada para asegurarse de que recibieron la información y preguntar si tienen alguna duda."
+        },
+        {
+          "pregunta": "¿Qué longitud debe tener una buena carta comercial?",
+          "respuesta": "Lo más concisa posible. La gente no tiene tiempo para leer textos largos. Intenta que no ocupe más de una cara de un A4. Usa párrafos cortos, frases directas y viñetas o negritas para destacar los beneficios clave. El objetivo es que el lector pueda entender tu propuesta de valor en menos de un minuto."
+        }
+      ],
+      "informacionLegal": "El envío de comunicaciones comerciales no solicitadas está regulado por el Reglamento General de Protección de Datos (RGPD) y la LOPDGDD. Al contactar con profesionales, se puede amparar en el 'interés legítimo', siempre que la comunicación esté relacionada con su actividad profesional. Es obligatorio informar de la identidad del remitente, el origen de los datos y ofrecer un medio sencillo y gratuito para darse de baja o ejercer sus derechos.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "315 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-60 minutos, incluyendo la investigación previa del cliente.",
+        "actualizaciones": "La plantilla se revisa semestralmente para incorporar nuevas técnicas de copywriting y tendencias de marketing directo."
+      },
+      "comoUsar": [
+        "Primero, investiga a fondo a tu cliente potencial: ¿qué hace su empresa? ¿qué retos podría tener? ¿quién toma las decisiones?",
+        "Descarga la plantilla en formato DOCX.",
+        "Personaliza el saludo con el nombre completo y el cargo del destinatario. Es el paso más importante.",
+        "Adapta el primer párrafo para demostrar que has hecho tu investigación y entiendes su sector.",
+        "Sustituye los textos genéricos por tu propuesta de valor, enfocándote en 2-3 beneficios clave para ese cliente.",
+        "Elige una llamada a la acción (CTA) clara y de bajo compromiso.",
+        "Revisa la redacción y la ortografía, y envía la carta. Planifica el seguimiento para una semana después."
+      ],
+      "consejos": [
+        "La personalización es la clave del éxito. Nunca envíes una carta genérica. Menciona un proyecto reciente de su empresa o una noticia de su sector.",
+        "Enfócate en despertar la curiosidad, no en cerrar la venta. El objetivo de la carta es conseguir una conversación, no una compra inmediata.",
+        "Usa un lenguaje que tu cliente entienda. Evita la jerga interna de tu empresa.",
+        "Aporta valor. Puedes incluir un dato interesante, un enlace a un informe de su sector o una pequeña auditoría gratuita.",
+        "Si envías una carta física, invierte en un sobre y papel de buena calidad y firma la carta a mano. Los detalles marcan la diferencia."
+      ]
+    },
+    {
+      "id": "carta-subida-ipc-alquiler-2025",
+      "titulo": "Modelo de Carta de Subida de Alquiler [LAU 2025]",
+      "slug": "carta-subida-alquiler-ipc-lau",
+      "categoria": "Legal",
+      "descripcion": "Descarga el modelo de carta para comunicar la subida anual del alquiler a tu inquilino, actualizada a la legislación de 2025. Esta plantilla editable en Word (DOCX) aplica el índice legalmente permitido (límite del 3% o IGC, no el IPC) y cumple con los requisitos de preaviso de la Ley de Arrendamientos Urbanos (LAU). Notifica la actualización de la renta de forma segura y legal.",
+      "imagenUrl": "https://images.pexels.com/photos/534220/pexels-photo-534220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 16100,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Conforme a la Ley de Arrendamientos Urbanos (LAU): Redactada según el Artículo 18 de la LAU sobre actualización de la renta.",
+        "Actualizada a la Legislación de 2025: Aplica el límite máximo legal del 3% (o el que esté vigente), en cumplimiento de los RDL de control de precios.",
+        "Cumple el Preaviso Obligatorio: Diseñada para ser enviada con la antelación mínima de un mes a la fecha de aplicación.",
+        "Cálculo Claro y Desglosado: Especifica la renta actual, el índice y porcentaje aplicado, y el importe exacto de la nueva renta mensual.",
+        "Formato DOCX Editable: Personaliza fácilmente con los datos del arrendador, inquilino, contrato e importes.",
+        "Apta para Envío por Burofax: Estructura ideal para una comunicación fehaciente que sirva como prueba legal irrefutable.",
+        "Lenguaje Jurídico Preciso: Evita ambigüedades y utiliza la terminología correcta para asegurar la validez de la notificación.",
+        "Protege al Arrendador: Una notificación correcta es el único medio legal para poder exigir el pago de la renta actualizada."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2023/11/08/808643-plantilla-para-comunicar-la-subida-del-alquiler-en-2023-segun-la-lau.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.ocu.org/-/media/ocu/files/modelos/vivienda/cartas/actualizacion-de-la-renta-segun-ipc.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Cuánto puedo subir legalmente el alquiler a mi inquilino en 2025?",
+          "respuesta": "En 2025, la subida de la renta de los contratos de alquiler de vivienda habitual sigue limitada por el Gobierno. No puedes aplicar el IPC general. Para grandes tenedores, el límite es el que resulte del índice de referencia aplicable. Para pequeños propietarios, el incremento será el pactado entre las partes, con un límite máximo del 3% anual. Esta carta aplica dicho límite."
+        },
+        {
+          "pregunta": "¿Puedo actualizar la renta si en el contrato no dice nada de subidas?",
+          "respuesta": "No. La Ley de Arrendamientos Urbanos (LAU) es clara: la renta solo puede ser actualizada si existe un pacto expreso sobre ello en el contrato de alquiler. Si el contrato no menciona explícitamente la posibilidad de actualizar la renta anualmente, esta permanecerá fija durante toda la vigencia del mismo."
+        },
+        {
+          "pregunta": "¿Con cuánta antelación debo notificar la subida del alquiler?",
+          "respuesta": "Debes notificar la subida por escrito con una antelación mínima de un mes a la fecha en la que se cumpla la anualidad del contrato y deba aplicarse la nueva renta. Por ejemplo, si el contrato se firmó un 1 de diciembre, deberás enviar la carta antes del 1 de noviembre para que la nueva renta entre en vigor en la mensualidad de diciembre."
+        },
+        {
+          "pregunta": "¿Desde qué mes se empieza a pagar la nueva renta actualizada?",
+          "respuesta": "La nueva renta se empieza a pagar en la mensualidad siguiente a la recepción de la notificación. Por ejemplo, si envías un burofax el 15 de octubre y el inquilino lo recibe el 17 de octubre, la nueva renta será exigible a partir de la mensualidad de noviembre, siempre y cuando ya se haya cumplido la anualidad del contrato."
+        },
+        {
+          "pregunta": "¿Qué índice debo usar para el cálculo: el del mes actual o uno anterior?",
+          "respuesta": "Para calcular el porcentaje de subida, debes usar la última tasa de variación del índice de referencia que estuviera publicada por el INE (Instituto Nacional de Estadística) en la fecha de actualización del contrato. Normalmente, esto corresponde al dato de hace dos meses (ej. para actualizar en octubre, se usa el índice publicado de agosto)."
+        },
+        {
+          "pregunta": "¿Qué pasa si mi inquilino se niega a pagar la subida notificada correctamente?",
+          "respuesta": "Si has notificado la subida cumpliendo todos los requisitos legales (plazo, forma, índice correcto), el pago de la nueva renta es una obligación contractual del inquilino. Si se niega a pagar la diferencia, estará incurriendo en un impago parcial de la renta, lo que te facultaría para iniciar un procedimiento de desahucio por falta de pago."
+        }
+      ],
+      "informacionLegal": "La actualización de la renta se rige por el Artículo 18 de la Ley de Arrendamientos Urbanos (LAU) y, de forma excepcional, por los Reales Decretos-ley de medidas urgentes (como el RDL 6/2022 y sus prórrogas). En 2025, la subida para contratos de vivienda habitual está topada y no puede exceder el 3% (o el índice de referencia si es inferior). La notificación debe ser por escrito, con un mes de antelación a la anualidad del contrato, y especificando el porcentaje y la nueva renta.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "300 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "15-20 minutos para rellenar con los datos del contrato.",
+        "actualizaciones": "El contenido se revisa de forma continua para reflejar los cambios en los Reales Decretos-ley que limitan la actualización de rentas."
+      },
+      "comoUsar": [
+        "Verifica la fecha de cumplimiento de cada anualidad de tu contrato de alquiler.",
+        "Consulta en la web del INE (Instituto Nacional de Estadística) el último valor publicado del índice aplicable.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena todos los datos: del arrendador, del inquilino, del inmueble y del contrato.",
+        "Indica la renta actual, el porcentaje de subida legal (máximo 3%) y el cálculo de la nueva renta final.",
+        "Firma la carta.",
+        "Envía la carta por un medio fehaciente (se recomienda Burofax con acuse de recibo y certificación de texto) con al menos un mes de antelación."
+      ],
+      "consejos": [
+        "El Burofax es la mejor opción de envío. Aunque cueste dinero, es una prueba legal irrefutable de que la notificación se ha realizado en tiempo y forma.",
+        "No apliques nunca una subida retroactiva. La actualización solo tiene efectos a partir del mes siguiente a la notificación.",
+        "Guarda una copia de la carta y el justificante del Burofax junto al contrato de alquiler original.",
+        "Si tienes varios inmuebles, crea un calendario de vencimientos de contrato para no olvidar notificar las actualizaciones a tiempo.",
+        "Sé transparente con el cálculo. Adjuntar una nota con el enlace del INE donde se puede consultar el índice puede ayudar a evitar disputas."
+      ]
+    },
+    {
+      "id": "carta-aumento-precios-servicios-2025",
+      "titulo": "Modelo de Carta de Aumento de Precios de Servicios",
+      "slug": "carta-aumento-precios-servicios",
+      "categoria": "Consumo",
+      "descripcion": "Descarga nuestra plantilla profesional para comunicar un aumento de precios en tus servicios. Este modelo, editable en Word (DOCX), está diseñado para notificar la subida de tarifas de forma clara y empática, justificando la decisión y reforzando el valor que ofreces. Es una herramienta esencial para mantener la confianza y fidelidad de tus clientes durante una transición de precios.",
+      "imagenUrl": "https://images.pexels.com/photos/7433827/pexels-photo-7433827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 15560,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Estructura Diplomática y Persuasiva: Diseñada para justificar el aumento y retener al cliente, no solo para informar.",
+        "Enfoque en el Valor Añadido: Secciones específicas para recordar al cliente los beneficios, la calidad y las mejoras del servicio.",
+        "Tono Profesional y Transparente: Comunica una decisión empresarial difícil de forma honesta, agradecida y cercana.",
+        "Plantilla DOCX 100% Editable: Adapta fácilmente la justificación (aumento de costes, nuevas funcionalidades, etc.) y las nuevas tarifas.",
+        "Cumple con las Buenas Prácticas: Respeta la importancia de notificar con antelación y con total claridad.",
+        "Incluye Párrafos de Ejemplo: Ofrece diferentes opciones para argumentar la subida de precios según tu situación particular.",
+        "Ideal para Autónomos y PYMES: Perfecta para cualquier proveedor de servicios que necesite actualizar sus tarifas de forma profesional.",
+        "Minimiza la Fuga de Clientes: Una carta bien redactada puede fortalecer la relación con el cliente en lugar de dañarla."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.ionos.es/startupguide/fileadmin/StartupGuide/Document-Templates/ES/Price-increase-letter-ES.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.reclamio.com/hubfs/Modelos%20de%20cartas%20y%20reclamaciones/Actualizaci%C3%B3n-renta-alquiler.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Con cuánta antelación debo comunicar a mis clientes una subida de precios?",
+          "respuesta": "Si tu contrato de servicios especifica un plazo de preaviso, debes cumplirlo. Si no lo hace, una buena práctica comercial es notificar el cambio con al menos 30 días de antelación. Para clientes importantes o con contratos anuales, un preaviso de 60 a 90 días es aún más profesional y apreciado."
+        },
+        {
+          "pregunta": "¿Cuál es la mejor forma de justificar un aumento de tarifas?",
+          "respuesta": "La honestidad y el enfoque en el valor son la mejor estrategia. Puedes justificarlo por el aumento de costes de tus proveedores, la inflación, o (la mejor opción) por las inversiones que has realizado para mejorar la calidad, la tecnología o las funcionalidades del servicio que recibe el cliente. Demuestra que el precio sube porque el valor también lo ha hecho."
+        },
+        {
+          "pregunta": "¿Debo ofrecer alguna ventaja a mis clientes más fieles al subir los precios?",
+          "respuesta": "Es una excelente estrategia de fidelización. Puedes ofrecer a tus clientes más antiguos o importantes la posibilidad de mantener el precio actual durante un periodo extra (ej. 3-6 meses) o aplicarles un descuento sobre la nueva tarifa durante el primer año. Esto les hace sentir valorados y reduce el impacto de la subida."
+        },
+        {
+          "pregunta": "¿Qué es más efectivo: un email, una carta física o una llamada?",
+          "respuesta": "Depende del cliente. Para la mayoría de clientes, un email bien redactado y personalizado es suficiente. Para tus cuentas clave (B2B), el mejor protocolo es una llamada personal del gestor de la cuenta para explicar la situación, seguida del envío de la carta formal por email como confirmación."
+        },
+        {
+          "pregunta": "¿Qué hago si un cliente se queja o amenaza con darse de baja?",
+          "respuesta": "Escucha activamente sus preocupaciones. Ten preparado un argumentario que refuerce el valor y los beneficios que obtiene. En algunos casos, puedes tener un pequeño margen de negociación o un plan B para clientes estratégicos. Sin embargo, también debes estar preparado para perder a aquellos clientes que solo te valoran por el precio."
+        },
+        {
+          "pregunta": "Si no tengo un contrato firmado, ¿puedo subir el precio igualmente?",
+          "respuesta": "Sí, pero la comunicación es aún más crucial. Si tienes una relación de servicio continuada, debes notificar el cambio de tarifas por escrito con una antelación razonable. Si el cliente continúa utilizando y pagando tu servicio tras la notificación, se entiende que acepta tácitamente las nuevas condiciones."
+        }
+      ],
+      "informacionLegal": "La modificación del precio de un servicio debe respetar las condiciones pactadas en el contrato. Si existe una cláusula de modificación de tarifas, esta debe seguirse. Para servicios con consumidores, cualquier cambio unilateral debe ser notificado con antelación y el consumidor tiene derecho a resolver el contrato sin penalización si no está de acuerdo. La comunicación debe ser clara y transparente para cumplir con la buena fe contractual exigida por el Código Civil.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "325 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-45 minutos para personalizar el mensaje y adaptarlo a cada segmento de cliente.",
+        "actualizaciones": "Plantilla revisada semestralmente para incorporar nuevas estrategias de comunicación de precios y retención de clientes."
+      },
+      "comoUsar": [
+        "Primero, define tu nueva estructura de precios y el argumentario sólido que la justifica.",
+        "Descarga la plantilla DOCX y adáptala a la identidad visual de tu empresa.",
+        "Comienza el escrito agradeciendo al cliente su confianza y lealtad. Es el paso más importante.",
+        "Personaliza la sección de justificación, explicando de forma transparente por qué es necesario el ajuste.",
+        "Indica de forma clara y visible la tarifa actual, la nueva tarifa y la fecha exacta en que entrará en vigor.",
+        "Refuerza el valor que el cliente seguirá recibiendo y termina con una nota positiva, mirando al futuro de la relación.",
+        "Envía la comunicación con la antelación adecuada y prepara a tu equipo para responder a las dudas."
+      ],
+      "consejos": [
+        "No te disculpes por la subida. Comunícala con confianza como una consecuencia natural del valor que ofreces y de la evolución del mercado.",
+        "Segmenta a tus clientes. Quizás no necesites enviar la carta a todos a la vez o puedas ofrecer distintas condiciones a diferentes grupos.",
+        "Elige un buen momento para enviarla. Evita periodos vacacionales o momentos de alta carga de trabajo para tus clientes.",
+        "Asegúrate de que la subida se corresponde con una calidad de servicio impecable. Es el mejor argumento que tendrás.",
+        "Monitoriza las reacciones. Las respuestas de tus clientes te darán información muy valiosa sobre cómo perciben el valor de tu servicio."
+      ]
+    },
+    {
       "id": "solicitud-carta-vacaciones-empleados-2025",
       "titulo": "Modelo de Carta de Aprobación de Vacaciones",
       "slug": "carta-aprobacion-vacaciones-empleados",
@@ -853,6 +1283,177 @@
         "Guarda como oro tu copia sellada por el Registro de Entrada. Es la prueba legal de tu solicitud.",
         "Si el trámite es complejo, puedes citar la normativa o ley en la que basas tu petición para darle más fuerza.",
         "Para trámites importantes, valora usar la Sede Electrónica, ya que todo el proceso queda registrado digitalmente."
+      ]
+    },
+    {
+      "id": "carta-subrogacion-trabajador-2025",
+      "titulo": "Modelo de Carta de Subrogación de Trabajador",
+      "slug": "carta-subrogacion-trabajador",
+      "categoria": "Laboral",
+      "descripcion": "Descarga nuestra plantilla de carta para comunicar la subrogación de un trabajador a una nueva empresa. Este modelo, editable en Word (DOCX), cumple con el Artículo 44 del Estatuto de los Trabajadores, asegurando que se notifican correctamente la sucesión empresarial y el mantenimiento de todos los derechos del empleado (antigüedad, salario, etc.).",
+      "imagenUrl": "https://images.pexels.com/photos/7551675/pexels-photo-7551675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 9250,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Conforme al Art. 44 del Estatuto de los Trabajadores (ET): Redactada para cumplir con la normativa española sobre sucesión de empresa.",
+        "Garantiza la Continuidad del Contrato: Comunica formalmente al trabajador que su relación laboral no se extingue, sino que se transfiere.",
+        "Identificación Clara de las Empresas: Espacios definidos para los datos de la empresa cedente (antigua) y la cesionaria (nueva).",
+        "Mantiene Intactos los Derechos: Confirma explícitamente que se conservan la antigüedad, salario, categoría, jornada y demás condiciones.",
+        "Formato DOCX 100% Editable: Personaliza la carta con los datos de las empresas implicadas y la fecha de efecto de la subrogación.",
+        "Apta para Múltiples Escenarios: Válida para fusiones, adquisiciones de empresas, venta de unidades de negocio o cambios de contrata.",
+        "Seguridad Jurídica para las Partes: Una comunicación correcta es obligatoria y fundamental para evitar futuras reclamaciones.",
+        "Tono Profesional y Transparente: Diseñada para comunicar un cambio importante de forma clara y tranquilizadora para el empleado."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://letradoonline.es/wp-content/uploads/2016/10/Modelo-de-carta-de-subrogaci%C3%B3n-de-empresa.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.conceptosjuridicos.com/wp-content/uploads/2020/01/modelo-clausula-subrogacion.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué es exactamente una subrogación laboral?",
+          "respuesta": "Es un cambio en la titularidad de la empresa o de una parte de ella que tiene actividad propia. Según el Artículo 44 del Estatuto de los Trabajadores, esto no extingue la relación laboral. La nueva empresa ('cesionaria') asume ('se subroga en') la posición de la antigua ('cedente'), convirtiéndose en el nuevo empleador y manteniendo todos los derechos y obligaciones del trabajador."
+        },
+        {
+          "pregunta": "¿Pueden despedirme o cambiarme las condiciones laborales durante una subrogación?",
+          "respuesta": "No. La finalidad de la subrogación es precisamente proteger al trabajador. La nueva empresa está legalmente obligada a mantener todas las condiciones laborales que tenías con la anterior: mismo salario, misma categoría profesional, misma jornada, mismo tipo de contrato y, muy importante, la misma antigüedad."
+        },
+        {
+          "pregunta": "¿Pierdo mi antigüedad al cambiar de empresa?",
+          "respuesta": "No, en absoluto. La antigüedad se respeta íntegramente. A efectos de futuras indemnizaciones, trienios o cualquier otro derecho basado en la antigüedad, se contará desde tu fecha de inicio en la empresa original (cedente), no desde la fecha de la subrogación."
+        },
+        {
+          "pregunta": "¿Quién tiene la obligación de informarme del cambio, la empresa antigua o la nueva?",
+          "respuesta": "Ambas empresas tienen la obligación legal de informar a los representantes legales de los trabajadores (comité de empresa, delegados de personal) sobre la subrogación. A nivel individual, es una buena práctica que ambas o una de ellas entregue esta carta al trabajador para que tenga constancia por escrito."
+        },
+        {
+          "pregunta": "¿Puedo negarme a ser subrogado y pedir el finiquito?",
+          "respuesta": "Generalmente, no. La subrogación no es opcional, sino una imposición legal para garantizar la continuidad del empleo. Si un trabajador se niega a continuar con el nuevo empleador, se consideraría una baja voluntaria o dimisión, por lo que no tendría derecho a indemnización ni a la prestación por desempleo."
+        },
+        {
+          "pregunta": "¿Qué pasa con las vacaciones que tenía pendientes de disfrutar con mi antigua empresa?",
+          "respuesta": "La nueva empresa asume todas las obligaciones laborales pendientes, incluidas las vacaciones devengadas y no disfrutadas. Deberás acordar con tu nuevo empleador el periodo para disfrutarlas, y este no puede negarse a concedértelas."
+        }
+      ],
+      "informacionLegal": "La subrogación de empresa se rige por el Artículo 44 del Estatuto de los Trabajadores. Obliga al nuevo empleador (cesionario) a mantener todos los derechos y obligaciones laborales y de Seguridad Social del anterior (cedente). El cedente y el cesionario responden solidariamente durante tres años de las obligaciones laborales nacidas antes de la transmisión. La falta de información a los representantes de los trabajadores puede constituir una infracción grave.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "315 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "15 minutos para rellenar los datos de las partes.",
+        "actualizaciones": "Plantilla revisada anualmente para incorporar cualquier nueva interpretación jurisprudencial del Tribunal Supremo sobre el Art. 44 del ET."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena los datos completos de la empresa cedente (la que transfiere el contrato) y la empresa cesionaria (la que lo recibe).",
+        "Completa los datos identificativos del trabajador afectado.",
+        "Indica la fecha exacta a partir de la cual la subrogación será efectiva.",
+        "Imprime dos copias del documento para que sean firmadas.",
+        "Entrega una copia al trabajador y quédate con la otra firmada por él con un 'Recibí' o 'Conforme', como prueba de la comunicación."
+      ],
+      "consejos": [
+        "La comunicación a los representantes legales de los trabajadores es un paso previo y legalmente obligatorio. ¡No lo olvides!",
+        "Organiza una reunión informativa con los trabajadores afectados para explicarles el proceso y presentar a la nueva empresa. Esto genera confianza.",
+        "Verifica que el traspaso de información entre las empresas es completo, incluyendo contratos, nóminas, y registros de jornada.",
+        "Comprueba tu convenio colectivo. Algunos convenios (como los de limpieza o seguridad) tienen cláusulas muy detalladas sobre cómo proceder en caso de subrogación.",
+        "Una vez efectiva la subrogación, la nueva empresa debe comunicar el cambio de cuenta de cotización a la Tesorería General de la Seguridad Social (TGSS)."
+      ]
+    },
+    {
+      "id": "carta-renuncia-cargo-presidente-2025",
+      "titulo": "Modelo de Carta de Renuncia al Cargo de Presidente",
+      "slug": "carta-renuncia-cargo-presidente",
+      "categoria": "Comunidades de Propietarios",
+      "descripcion": "Descarga nuestra plantilla para presentar la renuncia al cargo de presidente de tu comunidad de vecinos. Este modelo de carta, editable en Word (DOCX), está redactado conforme a la Ley de Propiedad Horizontal (LPH) para comunicar tu dimisión por motivos justificados y solicitar la convocatoria de una Junta Extraordinaria para elegir un sucesor. Formaliza tu renuncia de manera correcta y legal.",
+      "imagenUrl": "https://images.pexels.com/photos/1181292/pexels-photo-1181292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 8940,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Conforme a la Ley de Propiedad Horizontal (LPH): Redactada siguiendo el procedimiento y las obligaciones del Art. 13 de la LPH.",
+        "Enfoque Formal y Justificado: Permite exponer los motivos de la renuncia de forma respetuosa y clara (salud, trabajo, residencia, etc.).",
+        "Solicita Convocatoria de Junta: Incluye la petición formal de convocar una Junta General Extraordinaria para nombrar un sustituto.",
+        "Plantilla DOCX Editable: Adapta fácilmente la carta con los datos de tu comunidad y tus razones personales.",
+        "Delimita Responsabilidades: Es el primer paso para traspasar el cargo y las obligaciones asociadas de forma ordenada.",
+        "Dirigida al Administrador/Secretario: Formato para notificar a la persona adecuada para que inicie los trámites.",
+        "Menciona el Traspaso de Poderes: Expresa la voluntad de colaborar con el nuevo presidente para una transición fluida.",
+        "Seguridad Jurídica: Formaliza por escrito tu intención de cese, un paso crucial antes de un posible relevo judicial."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.administraciondefincasperez.es/wp-content/uploads/2016/11/MODELO-DE-ESCRITO-PARA-RENUNCIA-DEL-CARGO-DE-PRESIDENTE.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.administracionesruiz.com/wp-content/uploads/2017/02/CONVOCATORIA-JUNTA-GENERAL-EXTRAORDINARIA.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Puedo renunciar a ser presidente de mi comunidad de vecinos?",
+          "respuesta": "Sí, puedes presentar tu renuncia, pero esta no es efectiva de forma automática. El cargo de presidente es obligatorio según la Ley de Propiedad Horizontal. Por ello, debes presentar tu dimisión por escrito, alegando motivos justificados, y esta debe ser aceptada en una Junta de Propietarios en la que se nombre un sucesor."
+        },
+        {
+          "pregunta": "¿Qué motivos se consideran justificados para renunciar al cargo?",
+          "respuesta": "La ley no especifica una lista cerrada, pero se aceptan comúnmente motivos de peso como problemas graves de salud, una edad muy avanzada, una carga laboral incompatible, o no residir en la comunidad de forma habitual. Exponerlos de forma clara y respetuosa en la carta facilita que la Junta acepte la renuncia."
+        },
+        {
+          "pregunta": "¿Mi renuncia es efectiva en cuanto entrego la carta?",
+          "respuesta": "No. Legalmente, sigues siendo el presidente y manteniendo todas tus responsabilidades (firmar actas, representar a la comunidad, etc.) hasta el momento en que la Junta de Propietarios acepte tu renuncia y nombre a un nuevo presidente. Abandonar el cargo antes de tiempo podría acarrearte responsabilidades."
+        },
+        {
+          "pregunta": "¿A quién debo dirigir mi carta de renuncia?",
+          "respuesta": "Debes dirigirla formalmente a la Comunidad de Propietarios, a través de su Secretario o, más comúnmente, del Administrador de Fincas. Ellos son los encargados de recibir la comunicación y poner en marcha el procedimiento para convocar la Junta Extraordinaria que trate tu renuncia."
+        },
+        {
+          "pregunta": "¿Qué pasa si la Junta de Propietarios no acepta mi renuncia?",
+          "respuesta": "Si has expuesto motivos justificados y, aun así, la Junta se niega a nombrar un sustituto, tu siguiente paso sería iniciar un procedimiento judicial de equidad. Deberás presentar una demanda solicitando al juez que te releve del cargo. La carta de renuncia previa es una prueba fundamental en este proceso."
+        },
+        {
+          "pregunta": "Como presidente que dimite, ¿estoy obligado a convocar la junta para mi sustitución?",
+          "respuesta": "Sí, como presidente en funciones, una de tus obligaciones es convocar la Junta. En tu carta de renuncia, debes solicitar que se convoque una Junta General Extraordinaria cuyo orden del día incluya tu cese y el nombramiento de un nuevo presidente. Es la forma correcta de iniciar tu propio relevo."
+        }
+      ],
+      "informacionLegal": "El nombramiento como presidente es una obligación legal para el propietario, según el Art. 13 de la Ley de Propiedad Horizontal (LPH). La renuncia ('relevo') debe basarse en causas justificadas y ser solicitada a la Junta de Propietarios. Si la Junta no la acepta, el propietario puede acudir a un juez en un procedimiento de equidad. El presidente saliente mantiene sus funciones y responsabilidades hasta que se nombra y acepta un sucesor.",
+      "detalles": {
+        "fechaActualizacion": "03/10/2025",
+        "tamanoArchivo": "300 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "15-20 minutos para exponer los motivos y rellenar los datos.",
+        "actualizaciones": "Plantilla revisada anualmente para ajustarse a la jurisprudencia más reciente sobre las obligaciones y el relevo del cargo de presidente."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos como presidente y los datos de tu Comunidad de Propietarios.",
+        "Dirige la carta al Administrador de Fincas o al Secretario de la comunidad.",
+        "Expón de forma clara, breve y respetuosa los motivos de peso que justifican tu renuncia.",
+        "Incluye la solicitud explícita de convocar una Junta General Extraordinaria para aceptar tu cese y nombrar un sustituto.",
+        "Firma la carta e indica la fecha de la comunicación.",
+        "Entrega el escrito por un medio que deje constancia (email con acuse, entrega en mano con un 'recibí')."
+      ],
+      "consejos": [
+        "Antes de formalizar la renuncia, habla personalmente con el vicepresidente o el administrador para explicarles la situación.",
+        "No es necesario entrar en detalles excesivamente personales en la carta; con indicar 'motivos de salud' o 'motivos profesionales graves' es suficiente.",
+        "Prepara toda la documentación del cargo (libro de actas, facturas, contratos) para poder realizar un traspaso ordenado al nuevo presidente.",
+        "Nunca abandones tus funciones de repente tras entregar la carta. Debes seguir ejerciéndolas hasta que te sustituyan legalmente.",
+        "Ofrece tu ayuda al nuevo presidente durante las primeras semanas para facilitar la transición. Es un gesto de buena voluntad."
       ]
     },
     {
