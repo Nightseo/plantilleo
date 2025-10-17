@@ -1,0 +1,86 @@
+{
+  "id": "carta-presentacion-documentos-2025",
+  "titulo": "Modelo de Carta de Presentación de Documentos",
+  "slug": "carta-presentacion-documentos",
+  "categoria": "Legal",
+  "descripcion": "Descarga nuestra plantilla oficial para la presentación de documentos ante cualquier organismo o empresa en España. Este modelo de carta, editable en Word (DOCX), te permite crear un registro formal de la documentación que entregas, detallando cada anexo. Es una herramienta indispensable para garantizar la seguridad jurídica y la constancia fehaciente de tus trámites.",
+  "imagenUrl": "https://images.pexels.com/photos/164790/pexels-photo-164790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "descargas": 25400,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Formato de Instancia Oficial: Sigue la estructura estándar requerida por las administraciones públicas en España.",
+    "Trazabilidad Documental: Permite listar y describir cada uno de los documentos que se adjuntan, evitando pérdidas o malentendidos.",
+    "Versatilidad Total: Válida para presentar documentación en un ayuntamiento, una consejería, Hacienda, un juzgado o una empresa privada.",
+    "Plantilla DOCX 100% Editable: Adapta fácilmente la carta con tus datos, los del destinatario y el listado de anexos.",
+    "Deja Constancia Fehaciente: Diseñada para ser sellada por el registro de entrada, convirtiéndose en tu prueba legal de la entrega.",
+    "Apta para Trámites Telemáticos: La estructura sirve como cuerpo de texto al presentar documentación en sedes electrónicas.",
+    "Lenguaje Formal y Preciso: Redacción clara y directa para un trámite administrativo sin ambigüedades.",
+    "Esencial para Cumplir Plazos: Es la prueba que demuestra que has presentado la documentación requerida dentro de un plazo legal."
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.asufin.com/wp-content/uploads/2021/02/Modelo-de-personacion-y-aportacion-de-documentos.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://www.sepe.es/contenidos/comunicacion/modelos_impresos/impreso-aportacion-documentacion.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Para qué sirve exactamente esta carta?",
+      "respuesta": "Sirve como un 'índice' o 'albarán' de la documentación que estás entregando. Su finalidad es crear una prueba oficial de qué documentos exactos has presentado, a quién y en qué fecha. Evita que un organismo pueda alegar en el futuro que no recibió un documento concreto que sí entregaste."
+    },
+    {
+      "pregunta": "¿Es obligatorio usar una carta como esta al presentar papeles?",
+      "respuesta": "No siempre es obligatorio, pero es una práctica administrativa y legal altamente recomendable, especialmente en trámites importantes o con plazos legales. Si un organismo tiene su propio formulario de 'aportación de documentación', deberías usar ese. Si no lo tiene, este modelo es la herramienta perfecta."
+    },
+    {
+      "pregunta": "¿Cómo debo presentarla para que tenga validez legal?",
+      "respuesta": "Debes llevar dos copias de la carta y toda la documentación original (y copias si es necesario). El funcionario del registro de entrada comprobará los documentos, sellará ambas copias de la carta y te devolverá una. Esa copia sellada es tu justificante oficial y fehaciente de la entrega."
+    },
+    {
+      "pregunta": "¿Puedo usar esta carta para responder a un requerimiento de Hacienda (AEAT)?",
+      "respuesta": "Sí, es el formato ideal. En la carta, harías referencia al número de expediente o de requerimiento al que estás respondiendo, y en el listado de anexos detallarías cada uno de los documentos que te han solicitado y que estás aportando. Esto asegura que queda constancia de que has cumplido con el requerimiento."
+    },
+    {
+      "pregunta": "Si presento los documentos en una sede electrónica, ¿necesito este escrito?",
+      "respuesta": "Sí. En la mayoría de trámites online, hay un campo de texto libre para 'Exponer' o 'Detallar'. Debes copiar la estructura de esta carta en ese campo, listando los documentos que vas a adjuntar digitalmente. El justificante que genera la propia sede electrónica al finalizar el trámite sería tu prueba, complementada por tu escrito."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre 'EXPONE' y 'SOLICITA'?",
+      "respuesta": "Aunque en una simple presentación de documentos a veces no se usa el 'SOLICITA', la estructura es clara: en 'EXPONE' indicas el motivo de tu escrito (ej. 'Que en respuesta al requerimiento nº X, se adjunta la siguiente documentación'). En 'SOLICITA' pedirías algo concreto (ej. 'Que se tenga por presentada la documentación en tiempo y forma y se continúe con el procedimiento')."
+    }
+  ],
+  "informacionLegal": "La presentación de escritos y documentos ante las Administraciones Públicas se rige por la Ley 39/2015 del Procedimiento Administrativo Común. Dicha ley reconoce el derecho del ciudadano a obtener un recibo que acredite la fecha y hora de presentación. Este modelo de carta sirve como la base para ejercer ese derecho y obtener dicho justificante a través del sello del registro de entrada.",
+  "detalles": {
+    "fechaActualizacion": "17/10/2025",
+    "tamanoArchivo": "280 KB",
+    "idiomas": [
+      "Español (España)"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word 2016 o superior",
+      "Google Docs"
+    ],
+    "tiempoEdicion": "15-20 minutos para listar y describir los documentos.",
+    "actualizaciones": "Plantilla revisada anualmente para asegurar su conformidad con la Ley de Procedimiento Administrativo y las prácticas de las sedes electrónicas."
+  },
+  "comoUsar": [
+    "Descarga la plantilla en formato DOCX.",
+    "Rellena tus datos como interesado (o los de tu empresa) y los del organismo al que te diriges.",
+    "En el cuerpo del texto, haz referencia al expediente o motivo por el que presentas la documentación.",
+    "En el apartado de 'DOCUMENTACIÓN QUE SE ADJUNTA', crea una lista numerada y descriptiva de cada documento.",
+    "Imprime dos copias de la carta.",
+    "Acude a una oficina de registro, entrega la documentación y solicita que te sellen tu copia de la carta como justificante.",
+    "Guarda tu copia sellada en un lugar seguro. Es tu principal prueba del trámite."
+  ],
+  "consejos": [
+    "Sé muy específico al listar los documentos. En lugar de 'Facturas', escribe 'Facturas de gastos del primer trimestre de 2025, números 1 a 15'.",
+    "Antes de ir al registro, organiza los documentos en el mismo orden en que los has listado en la carta. Facilitarás el trabajo al funcionario.",
+    "Si tienes que presentar muchos documentos, puedes paginar toda la entrega (ej. 'Página 1 de 25').",
+    "El registro de entrada es la puerta de la Administración. Tu carta sellada es la prueba de que tus documentos han entrado oficialmente.",
+    "Para trámites con plazos muy ajustados, no esperes al último día. Acude al registro con antelación para evitar imprevistos."
+  ]
+}

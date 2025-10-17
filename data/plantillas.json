@@ -1,6 +1,692 @@
 {
   "plantillas": [
     {
+      "id": "carta-renuncia-voluntaria-2025",
+      "titulo": "Modelo de Carta de Renuncia Voluntaria",
+      "slug": "carta-renuncia-voluntaria",
+      "categoria": "Laboral",
+      "descripcion": "Descarga nuestra plantilla de carta de renuncia voluntaria, diseñada para comunicar tu baja en la empresa de forma profesional y segura. Este modelo, editable en Word (DOCX), cumple con los requisitos del Estatuto de los Trabajadores, te ayuda a respetar el preaviso legal de 15 días (o el de tu convenio) y a formalizar tu salida para un correcto cálculo del finiquito.",
+      "imagenUrl": "https://images.pexels.com/photos/1181292/pexels-photo-1181292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 35780,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Conforme al Estatuto de los Trabajadores: Redactada para cumplir con el Art. 49.1.d) sobre la dimisión del trabajador.",
+        "Respeta el Preaviso Legal: Diseñada para comunicar la baja cumpliendo el preaviso de 15 días o el que marque tu convenio colectivo.",
+        "Tono Profesional y Agradecido: Permite finalizar la relación laboral de forma cordial, agradeciendo la oportunidad y dejando una buena imagen.",
+        "Formato Claro y Directo: Sin ambigüedades, comunica la decisión de renunciar y la fecha del último día de trabajo.",
+        "Plantilla DOCX 100% Editable: Personaliza fácilmente con tus datos, los de la empresa y la fecha de tu último día.",
+        "Válida como Prueba Fehaciente: Es el documento legal que acredita que has comunicado tu baja en tiempo y forma.",
+        "Incluye Oferta de Colaboración: Contiene un párrafo opcional para ofrecer tu ayuda en la transición y formación del sustituto.",
+        "Facilita el Cálculo del Finiquito: Una renuncia bien comunicada es el primer paso para una liquidación sin incidencias."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/03/Modelo-de-carta-de-renuncia-voluntaria.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://factorialhr.es/wp-content/uploads/2021/04/modelo-carta-de-baja-voluntaria.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Con cuánta antelación debo presentar mi carta de renuncia en España?",
+          "respuesta": "La norma general, según el Estatuto de los Trabajadores, es un preaviso de 15 días naturales. Sin embargo, debes revisar tu convenio colectivo, ya que podría establecer un plazo diferente (mayor o menor). Cumplir este plazo es fundamental."
+        },
+        {
+          "pregunta": "¿Qué pasa si no cumplo con el preaviso de 15 días?",
+          "respuesta": "Si no cumples con el preaviso establecido, la empresa tiene derecho a descontar de tu finiquito un día de salario por cada día de preaviso que no hayas dado. Por eso es tan importante presentar la carta con la antelación correcta."
+        },
+        {
+          "pregunta": "¿Tengo que explicar el motivo de mi renuncia en la carta?",
+          "respuesta": "No, no estás legalmente obligado a exponer los motivos de tu dimisión. La carta puede ser meramente informativa. De hecho, lo más recomendable es mantener un tono neutro y profesional, sin entrar en detalles sobre tu nuevo empleo o posibles quejas sobre el actual."
+        },
+        {
+          "pregunta": "¿Cómo debo entregar la carta de renuncia?",
+          "respuesta": "La forma más segura es entregarla en mano a tu superior directo o al departamento de RRHH. Debes llevar dos copias impresas y firmadas, y solicitar que te firmen o sellen una de ellas con la fecha de entrega. Esa copia será tu prueba legal ('recibí')."
+        },
+        {
+          "pregunta": "Si renuncio voluntariamente, ¿tengo derecho a paro?",
+          "respuesta": "No. En España, la baja voluntaria no da derecho a solicitar la prestación por desempleo (el paro). Para acceder a ella, la extinción del contrato debe ser por causas no imputables a la voluntad del trabajador (fin de contrato, despido, etc.)."
+        },
+        {
+          "pregunta": "¿Qué es el finiquito y cuándo deben pagármelo?",
+          "respuesta": "El finiquito es la liquidación de las cantidades que la empresa te debe en el momento de tu baja. Incluye el salario de los días trabajados en el último mes, la parte proporcional de las pagas extra y los días de vacaciones no disfrutados. La empresa debe ponerlo a tu disposición, normalmente, en tu último día de trabajo."
+        }
+      ],
+      "informacionLegal": "La dimisión del trabajador está regulada por el Artículo 49.1.d del Estatuto de los Trabajadores. El trabajador debe mediar el preaviso que señalen los convenios colectivos o la costumbre del lugar (generalmente 15 días). El incumplimiento del plazo de preaviso por parte del trabajador dará derecho a la empresa a una indemnización equivalente al salario de los días de preaviso omitidos, que habitualmente se descuenta del finiquito.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "280 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Menos de 10 minutos.",
+        "actualizaciones": "Plantilla revisada anualmente para asegurar el cumplimiento con la legislación laboral y las mejores prácticas de RRHH."
+      },
+      "comoUsar": [
+        "Consulta tu convenio colectivo para confirmar el plazo de preaviso obligatorio.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos, los de la empresa y, muy importante, la fecha de tu último día de trabajo, contando los 15 días (o los que marque tu convenio).",
+        "Firma la carta.",
+        "Imprime dos copias y entrégalas en mano a RRHH o a tu superior, solicitando que te firmen una como 'recibí'.",
+        "Guarda tu copia firmada en un lugar seguro."
+      ],
+      "consejos": [
+        "Habla con tu jefe directo en persona antes de entregar la carta. Es un gesto de profesionalidad y respeto.",
+        "Mantén un tono positivo y de agradecimiento en la carta. El mundo profesional es pequeño y es bueno dejar una buena impresión.",
+        "Ofrece tu colaboración para facilitar la transición durante el periodo de preaviso. Esto demuestra tu compromiso hasta el último día.",
+        "No utilices la carta para expresar quejas o frustraciones. Esos temas deben tratarse en otros momentos y canales.",
+        "Antes de firmar el finiquito, revísalo detenidamente para asegurarte de que todos los conceptos son correctos."
+      ]
+    },
+    {
+      "id": "carta-reclamacion-empresa-2025",
+      "titulo": "Modelo de Carta de Reclamación a una Empresa",
+      "slug": "carta-reclamacion-empresa",
+      "categoria": "Consumo",
+      "descripcion": "Descarga nuestra plantilla de carta para reclamar a una empresa por un producto defectuoso o un servicio insatisfactorio. Este modelo, editable en Word (DOCX) y conforme a la ley española, te guía para presentar una reclamación formal, detallar los hechos y exigir una solución (reparación, sustitución, devolución). Es tu primera herramienta legal para defender tus derechos como consumidor.",
+      "imagenUrl": "https://images.pexels.com/photos/5650027/pexels-photo-5650027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 31200,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Basada en la Ley de Consumidores y Usuarios: Fundamenta tu queja en el Real Decreto Legislativo 1/2007, la base legal de tus derechos.",
+        "Estructura Legalmente Sólida: Incluye los apartados clave: identificación, exposición de hechos y solicitud de una solución concreta.",
+        "Apta para Múltiples Reclamaciones: Válida para productos defectuosos, servicios mal prestados, facturación incorrecta, incumplimiento de contrato, etc.",
+        "Exige una Solución Específica: Te guía para solicitar claramente lo que deseas: la reparación, la sustitución, la devolución del dinero o el cumplimiento del contrato.",
+        "Formato DOCX Editable: Adapta fácilmente la carta a tu caso particular, adjuntando pruebas como facturas, fotos o contratos.",
+        "Diseñada para Envío Fehaciente: Formato ideal para enviar por Burofax o email certificado, creando una prueba legal de tu reclamación.",
+        "Paso Previo a la Vía Oficial: Es el requisito que te pedirán en la Oficina de Consumo (OMIC) o en un juzgado si necesitas escalar la queja.",
+        "Lenguaje Formal y Directo: Redactada para comunicar tu reclamación de forma seria, clara y contundente."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.ocu.org/-/media/ocu/files/modelos/consumo/cartas/reclamacion-general.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://consumo.cordoba.es/images/stories/omic/pdfs/solicitud%20general.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Cuál es el primer paso que debo dar antes de enviar esta carta?",
+          "respuesta": "El primer paso es contactar con el servicio de atención al cliente de la empresa por teléfono o chat para intentar una solución amistosa. Anota el número de incidencia que te proporcionen. Si esta vía no funciona, el siguiente paso es enviar esta carta de reclamación formal para dejar constancia por escrito."
+        },
+        {
+          "pregunta": "¿Qué datos son imprescindibles para que la reclamación sea válida?",
+          "respuesta": "Debes identificarte con tu nombre y DNI, aportar un número de cliente, de póliza o de factura para que la empresa identifique la relación comercial, describir los hechos de forma cronológica y detallada, y especificar claramente qué solución exiges. Adjuntar una copia de la factura o contrato es fundamental."
+        },
+        {
+          "pregunta": "¿Cuál es la forma más segura de enviar esta carta?",
+          "respuesta": "La forma más segura y con mayor validez legal es un Burofax con acuse de recibo y certificación de texto. Un correo electrónico certificado también es una excelente opción. Estos métodos crean una prueba irrefutable de que la empresa ha recibido tu reclamación y en qué fecha, lo cual es crucial."
+        },
+        {
+          "pregunta": "¿Cuánto tiempo tiene la empresa para responderme?",
+          "respuesta": "Según la normativa de consumo, la empresa tiene un plazo máximo de un mes para darte una respuesta o una solución. Si en 30 días no has recibido contestación, o la que te dan no es satisfactoria, se entiende que la vía amistosa se ha agotado y puedes pasar al siguiente nivel."
+        },
+        {
+          "pregunta": "Si la empresa no me hace caso, ¿qué hago después de enviar la carta?",
+          "respuesta": "Si tras un mes no hay solución, puedes presentar una reclamación formal en la Oficina Municipal de Información al Consumidor (OMIC) de tu localidad, en la Dirección General de Consumo de tu comunidad autónoma, o ante las Juntas Arbitrales de Consumo. La carta que enviaste será la prueba de que intentaste la vía amistosa."
+        },
+        {
+          "pregunta": "¿Tengo que adjuntar pruebas a mi reclamación?",
+          "respuesta": "Sí, es crucial. Debes adjuntar una copia de todo lo que sustente tu queja: la factura, el contrato, fotografías del producto defectuoso, emails previos con la empresa, informes periciales si los tienes, etc. Cuantas más pruebas aportes, más sólida será tu reclamación."
+        }
+      ],
+      "informacionLegal": "El derecho a reclamar está amparado por el Real Decreto Legislativo 1/2007, que aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios. Las empresas están obligadas a disponer de un servicio de atención al cliente y a dar respuesta a las quejas en el plazo de un mes. Esta reclamación extrajudicial es el paso previo y necesario para poder acudir a la vía arbitral de consumo o a la vía judicial.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "340 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-45 minutos para recopilar datos y detallar los hechos.",
+        "actualizaciones": "Plantilla revisada anualmente para ajustarse a las últimas modificaciones en la normativa de protección al consumidor."
+      },
+      "comoUsar": [
+        "Recopila toda la documentación de tu caso: factura, contrato, emails, fotos, número de incidencia, etc.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos, los de la empresa y los datos que identifican el producto o servicio (nº de factura, póliza...).",
+        "En la sección 'EXPONGO', describe los hechos de forma clara, ordenada cronológicamente y objetiva.",
+        "En la sección 'SOLICITO', indica de forma precisa qué solución exiges (ej. 'la devolución del importe de 95€').",
+        "Adjunta una copia de todas las pruebas que has recopilado.",
+        "Envía la carta por un medio fehaciente (Burofax es la mejor opción) y guarda el resguardo."
+      ],
+      "consejos": [
+        "Sé conciso y ve al grano. Una reclamación efectiva es la que se entiende perfectamente en la primera lectura.",
+        "Céntrate en los hechos y evita las opiniones subjetivas o los comentarios ofensivos. La objetividad te da credibilidad.",
+        "Guarda siempre los originales de tus documentos. A la reclamación adjunta siempre copias.",
+        "Especifica un plazo razonable en tu escrito (ej. 'un plazo de 10 días') para que te den una solución antes de iniciar otras acciones.",
+        "Si tu reclamación implica una cantidad de dinero importante, considera consultar con una asociación de consumidores o un abogado."
+      ]
+    },
+    {
+      "id": "carta-renuncia-sin-preaviso-2025",
+      "titulo": "Modelo de Carta de Renuncia sin Preaviso",
+      "slug": "carta-renuncia-sin-preaviso",
+      "categoria": "Laboral",
+      "descripcion": "Descarga nuestra plantilla de carta de renuncia para comunicar tu baja voluntaria con efecto inmediato. Este modelo, editable en Word (DOCX), te permite formalizar tu dimisión sin cumplir el preaviso legal. Está redactado para notificar de forma clara tu decisión, asumiendo la penalización correspondiente en el finiquito, según el Estatuto de los Trabajadores.",
+      "imagenUrl": "https://images.pexels.com/photos/8867432/pexels-photo-8867432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 29500,
+      "valoracion": 4.7,
+      "caracteristicas": [
+        "Comunicación de Efecto Inmediato: Redactada para que la baja sea efectiva en la misma fecha de la entrega de la carta.",
+        "Cumple con el Acto Formal de Dimisión: Sigue los requisitos del Art. 49.1.d del Estatuto de los Trabajadores.",
+        "Reconoce la Falta de Preaviso: El texto es claro al comunicar la imposibilidad de cumplir con el preaviso pactado.",
+        "Apta para el Cálculo del Finiquito: Sirve como base para que la empresa calcule la liquidación final, incluyendo el descuento por el preaviso.",
+        "Tono Directo y Profesional: Sin rodeos, comunica la decisión de forma irrevocable, clara y respetuosa.",
+        "Plantilla DOCX 100% Editable: Adapta en segundos tus datos, los de la empresa y la fecha de la comunicación.",
+        "Prueba Fehaciente de la Notificación: Es el documento que necesitas para acreditar la fecha exacta de tu comunicación de baja.",
+        "Minimiza la Incertidumbre: Aporta seguridad jurídica en un proceso de salida abrupto."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://cuestioneslaborales.es/wp-content/uploads/2020/04/Modelo-carta-baja-voluntaria-sin-preaviso.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.cartas-ejemplo.com/wp-content/uploads/2013/02/Carta-de-renuncia-sin-preaviso.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué consecuencia económica tiene renunciar sin dar el preaviso de 15 días?",
+          "respuesta": "La consecuencia directa es que la empresa tiene el derecho legal de descontar de tu finiquito un día de salario por cada día de preaviso que no hayas cumplido. Si debías dar 15 días y no das ninguno, te descontarán 15 días de salario de tu liquidación final."
+        },
+        {
+          "pregunta": "¿Puede la empresa negarse a aceptar mi renuncia inmediata?",
+          "respuesta": "No. La renuncia es un acto de voluntad unilateral del trabajador. La empresa no puede obligarte a permanecer en tu puesto. Está obligada a aceptar tu dimisión, aunque aplicará la penalización económica por la falta de preaviso."
+        },
+        {
+          "pregunta": "Si renuncio de esta forma, ¿tengo derecho a cobrar el finiquito?",
+          "respuesta": "Sí, siempre tienes derecho al finiquito. Este incluirá el salario de los días que hayas trabajado en el mes en curso, la parte proporcional de las pagas extra y las vacaciones no disfrutadas. A esta cantidad total se le restará el importe de los días de preaviso no cumplidos."
+        },
+        {
+          "pregunta": "¿Pierdo el derecho a paro si presento esta renuncia?",
+          "respuesta": "Sí. Al igual que con una renuncia normal, la baja voluntaria (con o sin preaviso) no da derecho a solicitar la prestación por desempleo en España. El paro está reservado para extinciones de contrato no decididas por el trabajador."
+        },
+        {
+          "pregunta": "¿Tengo que dar explicaciones del motivo de mi renuncia inmediata en la carta?",
+          "respuesta": "No, no tienes ninguna obligación legal de justificar tu decisión. De hecho, lo más recomendable es que la carta sea lo más escueta y directa posible, limitándose a comunicar la decisión y la fecha de efecto, sin entrar en valoraciones personales ni motivos."
+        },
+        {
+          "pregunta": "¿Cómo entrego la carta para que sea 100% válida?",
+          "respuesta": "La mejor forma es entregar dos copias impresas y firmadas en mano a tu superior o a RRHH. Pide que te firmen una de las copias con la fecha y un 'recibí'. Esa copia es tu prueba legal. Si prevés problemas, enviarla por Burofax es una opción, pero la entrega en mano es más inmediata."
+        }
+      ],
+      "informacionLegal": "La dimisión del trabajador se regula en el Artículo 49.1.d del Estatuto de los Trabajadores. Aunque no se cumpla el preaviso (generalmente de 15 días según convenio o costumbre), la renuncia es válida. La empresa está facultada para descontar del finiquito la cantidad equivalente al salario de los días de preaviso omitidos, pero no puede imponer ninguna otra sanción.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "275 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Menos de 5 minutos.",
+        "actualizaciones": "Plantilla revisada anualmente para garantizar su validez legal y claridad."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos personales y los de la empresa.",
+        "Indica la fecha de la comunicación. Esta será, a su vez, tu último día de trabajo.",
+        "Firma la carta.",
+        "Imprime dos copias y entrégalas inmediatamente a tu responsable directo o a Recursos Humanos.",
+        "Solicita que te firmen tu copia como 'recibí' y guárdala."
+      ],
+      "consejos": [
+        "Sé consciente de la penalización económica. Calcula a cuánto asciende el descuento en tu finiquito para no llevarte sorpresas.",
+        "Aunque la situación sea abrupta, intenta comunicar tu decisión en persona a tu superior directo, además de entregar la carta. Es un gesto de respeto.",
+        "Prepárate para devolver cualquier material de la empresa (ordenador, teléfono, llaves) en tu último día.",
+        "Revisa con lupa el finiquito que te presenten para asegurarte de que el descuento aplicado es el correcto y no superior.",
+        "Entiende que una salida sin preaviso muy probablemente cierra las puertas a futuras colaboraciones o a obtener una buena referencia de esta empresa."
+      ]
+    },
+    {
+      "id": "carta-presentacion-practicas-2025",
+      "titulo": "Modelo de Carta de Presentación para Prácticas",
+      "slug": "carta-presentacion-practicas",
+      "categoria": "Recursos Humanos",
+      "descripcion": "Consigue tus prácticas soñadas con nuestra plantilla de carta de presentación. Este modelo, editable en Word (DOCX) y diseñado para estudiantes en España, te ayuda a destacar tu potencial y motivación. Aprende a conectar tus estudios con las necesidades de la empresa y a presentarte como el candidato ideal, incluso sin experiencia profesional previa.",
+      "imagenUrl": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 28910,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Enfoque en Potencial y Motivación: Redactada para suplir la falta de experiencia con entusiasmo y potencial académico.",
+        "Conecta Estudios con la Empresa: Estructura diseñada para demostrar cómo tu formación puede aportar valor real a la compañía.",
+        "Mención a Convenio de Prácticas: Incluye un apartado para indicar la posibilidad de firmar un convenio con tu universidad o centro de estudios.",
+        "Adaptable a Prácticas Curriculares y Extracurriculares: Válida tanto si las prácticas forman parte de tu plan de estudios como si son voluntarias.",
+        "Tono Proactivo y Profesional: Comunica tu interés de una manera formal pero enérgica, ideal para un perfil junior.",
+        "Plantilla DOCX 100% Editable: Personaliza cada sección para reflejar tus estudios, habilidades y la empresa a la que te diriges.",
+        "Llamada a la Acción para Entrevista: Finaliza con una invitación clara a una conversación para ampliar la información.",
+        "Guía para Candidatos sin Experiencia: Aporta consejos sobre cómo destacar proyectos universitarios, voluntariado o habilidades blandas."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.unirioja.es/empleo/ficheros/Carta_de_presentacion_sin_experiencia.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.upm.es/sfs/Rectorado/Gerencia/Gestion%20de%20Recursos%20Humanos%20y%20Organizacion/Gabinete%20de%20Orientacion%20para%20el%20Empleo%20(COIE)/DOCUMENTOS/CARTA_DE_PRESENTACION_02_2020.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "No tengo ninguna experiencia laboral, ¿qué pongo en la carta?",
+          "respuesta": "Céntrate en tu potencial. Habla de tus proyectos académicos más relevantes, tu trabajo de fin de grado (TFG), las asignaturas que más te han gustado y cómo se aplican a la empresa. Menciona tus habilidades blandas (trabajo en equipo, proactividad, capacidad de aprendizaje) y cualquier voluntariado o actividad extracurricular que demuestre tu iniciativa."
+        },
+        {
+          "pregunta": "¿Es importante mencionar el convenio de prácticas con mi universidad?",
+          "respuesta": "Sí, es fundamental. Para una empresa, poder firmar un 'convenio de cooperación educativa' con tu centro de estudios simplifica enormemente la contratación y la gestión de tus prácticas. Mencionar que tu universidad ofrece esta posibilidad es un punto muy a tu favor que debes destacar."
+        },
+        {
+          "pregunta": "¿A quién debo dirigir la carta?",
+          "respuesta": "La personalización es clave. Investiga en LinkedIn o en la web de la empresa quién es el responsable de Recursos Humanos o el director del departamento donde te gustaría hacer las prácticas. Dirigir la carta a una persona concreta demuestra interés y profesionalidad. Evita el genérico 'Estimado señor/a'."
+        },
+        {
+          "pregunta": "¿Qué longitud es la adecuada para esta carta?",
+          "respuesta": "Debe ser muy concisa, no más de tres o cuatro párrafos cortos. Piensa que es una introducción a tu CV. Un primer párrafo para presentarte y mostrar que conoces la empresa, un segundo para explicar qué puedes aportar, y un tercero para proponer una entrevista. El objetivo es generar interés, no contar toda tu vida."
+        },
+        {
+          "pregunta": "¿Qué error debo evitar a toda costa?",
+          "respuesta": "El error más grave es enviar una carta genérica. Los reclutadores detectan al instante una plantilla copiada y pegada. Demuestra que has dedicado tiempo a investigar la empresa, menciona un proyecto que te haya interesado o un valor corporativo con el que te identifiques. La personalización te diferenciará del resto."
+        },
+        {
+          "pregunta": "¿Debo hablar de mis notas o expediente académico?",
+          "respuesta": "Si tienes un buen expediente académico, puedes mencionarlo de forma sutil, por ejemplo, '...como demuestra mi buen rendimiento académico en el área de [tu especialidad]'. Sin embargo, no es el elemento central. Es más importante demostrar motivación y cómo puedes aplicar lo que has aprendido."
+        }
+      ],
+      "informacionLegal": "Las prácticas de estudiantes en empresas se regulan en España a través del Real Decreto 592/2014, que establece el marco de los 'convenios de cooperación educativa'. Estos convenios, firmados entre la empresa, el estudiante y el centro educativo, no constituyen una relación laboral, sino formativa, y establecen las condiciones de las prácticas curriculares y extracurriculares.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "295 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Entre 45 y 90 minutos, dedicando la mayor parte a la investigación de la empresa.",
+        "actualizaciones": "Plantilla revisada anualmente para adaptarse a las habilidades más demandadas por las empresas en perfiles junior."
+      },
+      "comoUsar": [
+        "Investiga a fondo la empresa. ¿A qué se dedica? ¿Qué proyectos tiene? ¿Cuáles son sus valores?",
+        "Descarga la plantilla en formato DOCX.",
+        "Personaliza el saludo, dirigiéndote al responsable de RRHH o del departamento de tu interés por su nombre.",
+        "En el primer párrafo, preséntate, indica qué estudias y por qué te interesa específicamente esa empresa.",
+        "En el párrafo central, conecta tus conocimientos y habilidades académicas con lo que la empresa hace. Sé específico.",
+        "En el último párrafo, menciona tu disponibilidad para realizar un convenio de prácticas y propón una entrevista.",
+        "Adjunta tu CV y envía el email con un asunto claro, como: 'Candidatura de Prácticas - [Tu Nombre], Estudiante de [Tus Estudios]'."
+      ],
+      "consejos": [
+        "Tu CV y tu perfil de LinkedIn deben estar perfectamente actualizados y alineados con tu carta.",
+        "Mencionar software específico que sepas usar, idiomas o algún curso relevante puede marcar la diferencia.",
+        "Cuantifica lo que puedas, incluso en proyectos académicos. 'Proyecto de fin de grado con calificación de Sobresaliente'.",
+        "La actitud lo es todo. Tu carta debe transmitir ganas de aprender, energía y proactividad.",
+        "Revisa la ortografía y la gramática tres veces. Un error en un texto tan corto puede descartarte automáticamente."
+      ]
+    },
+    {
+      "id": "carta-presentacion-documentos-2025",
+      "titulo": "Modelo de Carta de Presentación de Documentos",
+      "slug": "carta-presentacion-documentos",
+      "categoria": "Legal",
+      "descripcion": "Descarga nuestra plantilla oficial para la presentación de documentos ante cualquier organismo o empresa en España. Este modelo de carta, editable en Word (DOCX), te permite crear un registro formal de la documentación que entregas, detallando cada anexo. Es una herramienta indispensable para garantizar la seguridad jurídica y la constancia fehaciente de tus trámites.",
+      "imagenUrl": "https://images.pexels.com/photos/164790/pexels-photo-164790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 25400,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Formato de Instancia Oficial: Sigue la estructura estándar requerida por las administraciones públicas en España.",
+        "Trazabilidad Documental: Permite listar y describir cada uno de los documentos que se adjuntan, evitando pérdidas o malentendidos.",
+        "Versatilidad Total: Válida para presentar documentación en un ayuntamiento, una consejería, Hacienda, un juzgado o una empresa privada.",
+        "Plantilla DOCX 100% Editable: Adapta fácilmente la carta con tus datos, los del destinatario y el listado de anexos.",
+        "Deja Constancia Fehaciente: Diseñada para ser sellada por el registro de entrada, convirtiéndose en tu prueba legal de la entrega.",
+        "Apta para Trámites Telemáticos: La estructura sirve como cuerpo de texto al presentar documentación en sedes electrónicas.",
+        "Lenguaje Formal y Preciso: Redacción clara y directa para un trámite administrativo sin ambigüedades.",
+        "Esencial para Cumplir Plazos: Es la prueba que demuestra que has presentado la documentación requerida dentro de un plazo legal."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.asufin.com/wp-content/uploads/2021/02/Modelo-de-personacion-y-aportacion-de-documentos.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.sepe.es/contenidos/comunicacion/modelos_impresos/impreso-aportacion-documentacion.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Para qué sirve exactamente esta carta?",
+          "respuesta": "Sirve como un 'índice' o 'albarán' de la documentación que estás entregando. Su finalidad es crear una prueba oficial de qué documentos exactos has presentado, a quién y en qué fecha. Evita que un organismo pueda alegar en el futuro que no recibió un documento concreto que sí entregaste."
+        },
+        {
+          "pregunta": "¿Es obligatorio usar una carta como esta al presentar papeles?",
+          "respuesta": "No siempre es obligatorio, pero es una práctica administrativa y legal altamente recomendable, especialmente en trámites importantes o con plazos legales. Si un organismo tiene su propio formulario de 'aportación de documentación', deberías usar ese. Si no lo tiene, este modelo es la herramienta perfecta."
+        },
+        {
+          "pregunta": "¿Cómo debo presentarla para que tenga validez legal?",
+          "respuesta": "Debes llevar dos copias de la carta y toda la documentación original (y copias si es necesario). El funcionario del registro de entrada comprobará los documentos, sellará ambas copias de la carta y te devolverá una. Esa copia sellada es tu justificante oficial y fehaciente de la entrega."
+        },
+        {
+          "pregunta": "¿Puedo usar esta carta para responder a un requerimiento de Hacienda (AEAT)?",
+          "respuesta": "Sí, es el formato ideal. En la carta, harías referencia al número de expediente o de requerimiento al que estás respondiendo, y en el listado de anexos detallarías cada uno de los documentos que te han solicitado y que estás aportando. Esto asegura que queda constancia de que has cumplido con el requerimiento."
+        },
+        {
+          "pregunta": "Si presento los documentos en una sede electrónica, ¿necesito este escrito?",
+          "respuesta": "Sí. En la mayoría de trámites online, hay un campo de texto libre para 'Exponer' o 'Detallar'. Debes copiar la estructura de esta carta en ese campo, listando los documentos que vas a adjuntar digitalmente. El justificante que genera la propia sede electrónica al finalizar el trámite sería tu prueba, complementada por tu escrito."
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre 'EXPONE' y 'SOLICITA'?",
+          "respuesta": "Aunque en una simple presentación de documentos a veces no se usa el 'SOLICITA', la estructura es clara: en 'EXPONE' indicas el motivo de tu escrito (ej. 'Que en respuesta al requerimiento nº X, se adjunta la siguiente documentación'). En 'SOLICITA' pedirías algo concreto (ej. 'Que se tenga por presentada la documentación en tiempo y forma y se continúe con el procedimiento')."
+        }
+      ],
+      "informacionLegal": "La presentación de escritos y documentos ante las Administraciones Públicas se rige por la Ley 39/2015 del Procedimiento Administrativo Común. Dicha ley reconoce el derecho del ciudadano a obtener un recibo que acredite la fecha y hora de presentación. Este modelo de carta sirve como la base para ejercer ese derecho y obtener dicho justificante a través del sello del registro de entrada.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "280 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "15-20 minutos para listar y describir los documentos.",
+        "actualizaciones": "Plantilla revisada anualmente para asegurar su conformidad con la Ley de Procedimiento Administrativo y las prácticas de las sedes electrónicas."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos como interesado (o los de tu empresa) y los del organismo al que te diriges.",
+        "En el cuerpo del texto, haz referencia al expediente o motivo por el que presentas la documentación.",
+        "En el apartado de 'DOCUMENTACIÓN QUE SE ADJUNTA', crea una lista numerada y descriptiva de cada documento.",
+        "Imprime dos copias de la carta.",
+        "Acude a una oficina de registro, entrega la documentación y solicita que te sellen tu copia de la carta como justificante.",
+        "Guarda tu copia sellada en un lugar seguro. Es tu principal prueba del trámite."
+      ],
+      "consejos": [
+        "Sé muy específico al listar los documentos. En lugar de 'Facturas', escribe 'Facturas de gastos del primer trimestre de 2025, números 1 a 15'.",
+        "Antes de ir al registro, organiza los documentos en el mismo orden en que los has listado en la carta. Facilitarás el trabajo al funcionario.",
+        "Si tienes que presentar muchos documentos, puedes paginar toda la entrega (ej. 'Página 1 de 25').",
+        "El registro de entrada es la puerta de la Administración. Tu carta sellada es la prueba de que tus documentos han entrado oficialmente.",
+        "Para trámites con plazos muy ajustados, no esperes al último día. Acude al registro con antelación para evitar imprevistos."
+      ]
+    },
+    {
+      "id": "carta-presentacion-ninera-2025",
+      "titulo": "Modelo de Carta de Presentación para Niñera",
+      "slug": "carta-presentacion-ninera",
+      "categoria": "Recursos Humanos",
+      "descripcion": "Descarga nuestra plantilla de carta de presentación para niñera y consigue una entrevista. Este modelo editable en Word (DOCX) está diseñado para transmitir confianza y profesionalidad a las familias en España. Destaca tu experiencia, tus habilidades en el cuidado infantil y tu responsabilidad para presentarte como la candidata ideal para el puesto de 'canguro'.",
+      "imagenUrl": "https://images.pexels.com/photos/3931603/pexels-photo-3931603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 22500,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Enfoque en la Confianza y la Seguridad: Redacción centrada en transmitir responsabilidad, un aspecto clave para los padres.",
+        "Estructura Profesional y Clara: Guía para presentar tu experiencia, formación y habilidades de forma ordenada.",
+        "Destaca Habilidades Clave: Secciones para resaltar conocimientos de primeros auxilios, apoyo escolar, idiomas o actividades lúdicas.",
+        "Mención a las Referencias: Incluye un apartado para indicar la disponibilidad de referencias de familias anteriores, un punto crucial.",
+        "Tono Cercano y Profesional: Equilibra la calidez necesaria para el cuidado infantil con la seriedad que buscan los padres.",
+        "Plantilla DOCX 100% Editable: Adapta fácilmente la carta a tu perfil y a las necesidades específicas de cada familia.",
+        "Diseño Limpio y Amigable: Formato agradable a la vista que facilita la lectura y proyecta una imagen positiva.",
+        "Ideal para el Puesto de 'Canguro': Perfectamente adaptada a la terminología y las expectativas del mercado español."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.unax.es/blog/wp-content/uploads/2021/01/carta-de-presentacion-para-ninera.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://modelo-carta.com/wp-content/uploads/2021/03/Modelo-de-carta-de-presentacio%CC%81n-nin%CC%83era.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Qué es lo más importante que debo destacar en mi carta de presentación como niñera?",
+          "respuesta": "Lo más importante es transmitir confianza. Destaca tu experiencia previa, especificando las edades de los niños que has cuidado. Menciona cualquier formación relevante (primeros auxilios, educación infantil) y, fundamentalmente, indica que puedes aportar referencias de otras familias. La seguridad y la responsabilidad son lo que los padres más valoran."
+        },
+        {
+          "pregunta": "¿Debo incluir en la carta cuánto quiero cobrar por hora?",
+          "respuesta": "No, no es recomendable. La carta de presentación tiene como objetivo conseguir una entrevista. Las condiciones económicas se deben discutir en persona durante la entrevista, una vez que hayas conocido a la familia y entiendas completamente el alcance de las responsabilidades del puesto."
+        },
+        {
+          "pregunta": "¿Qué longitud debe tener la carta? ¿Debe ser muy formal?",
+          "respuesta": "La carta debe ser breve y concisa, no más de tres o cuatro párrafos cortos. El tono debe ser un equilibrio entre profesional y cercano. Usa un lenguaje respetuoso pero cálido, que muestre tu vocación por el cuidado de los niños. Evita un lenguaje excesivamente corporativo o, por el contrario, demasiado informal."
+        },
+        {
+          "pregunta": "¿Cómo puedo hacer que mi carta destaque sobre las demás?",
+          "respuesta": "La personalización es la clave. Si respondes a un anuncio, lee con atención lo que la familia busca (ayuda con los deberes, que hables inglés, etc.) y destaca en tu carta cómo cumples con esos requisitos específicos. Demostrar que has leído su oferta y que no es un envío masivo te diferenciará."
+        },
+        {
+          "pregunta": "Si no tengo experiencia profesional, ¿qué puedo poner en la carta?",
+          "respuesta": "Si no tienes experiencia remunerada, puedes mencionar tu experiencia en el cuidado de familiares (hermanos, sobrinos, primos), tu participación en voluntariado con niños, o si has sido monitora en campamentos. Destaca tus habilidades, tu responsabilidad, tu madurez y tu motivación para el puesto."
+        },
+        {
+          "pregunta": "¿Adjunto mi CV a esta carta de presentación?",
+          "respuesta": "Sí, siempre. La carta de presentación es la introducción que despierta el interés, pero el Currículum Vitae es el documento que contiene toda la información detallada sobre tu formación, experiencia y datos de contacto. Ambos documentos son complementarios e indispensables."
+        }
+      ],
+      "informacionLegal": "Aunque esta carta es un paso pre-contractual, una relación laboral formal como empleado/a de hogar está regulada en España por el Sistema Especial para Empleados de Hogar dentro del Régimen General de la Seguridad Social. Es importante que la candidata muestre profesionalidad y respete la privacidad de los datos de la familia, conforme a la LOPDGDD.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "290 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-45 minutos para personalizarla cuidadosamente para cada familia.",
+        "actualizaciones": "Plantilla revisada anualmente para incluir las habilidades y cualidades más demandadas por las familias en España."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Personaliza el encabezado con tus datos de contacto y los de la familia, si los conoces.",
+        "Redacta un primer párrafo donde expliques el motivo de tu carta (en respuesta a un anuncio o como autocandidatura).",
+        "En el segundo párrafo, destaca tu experiencia más relevante y tus habilidades clave (primeros auxilios, idiomas, apoyo escolar).",
+        "En el tercer párrafo, expresa tu entusiasmo por la oportunidad y tu disponibilidad para una entrevista.",
+        "Cierra la carta con una despedida cordial y menciona que adjuntas tu CV y que puedes proporcionar referencias.",
+        "Revisa todo el texto para corregir cualquier error antes de enviarlo."
+      ],
+      "consejos": [
+        "Si conoces las edades de los niños, adapta tu carta. No es lo mismo cuidar a un bebé que a un niño de 10 años que necesita ayuda con los deberes.",
+        "Usa palabras como 'responsable', 'paciente', 'creativa' y 'entorno seguro' para alinearte con lo que los padres buscan.",
+        "La honestidad es fundamental. No exageres tu experiencia ni tus habilidades.",
+        "Una foto profesional y sonriente en tu CV (que adjuntarás) ayuda a crear una primera impresión positiva.",
+        "Muestra flexibilidad horaria si la tienes, ya que suele ser un factor muy valorado por las familias."
+      ]
+    },
+    {
+      "id": "carta-presentacion-autocandidatura-2025",
+      "titulo": "Modelo de Carta de Presentación de Autocandidatura",
+      "slug": "carta-presentacion-autocandidatura",
+      "categoria": "Recursos Humanos",
+      "descripcion": "Descarga nuestra plantilla de carta de presentación para una autocandidatura, diseñada para captar la atención de RRHH en el mercado laboral español. Este modelo editable en Word (DOCX) te guía para presentar tu propuesta de valor de forma proactiva y profesional, aumentando tus posibilidades de conseguir una entrevista en empresas que no han publicado una oferta.",
+      "imagenUrl": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 21300,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Estructura Profesional y Moderna: Sigue un formato de tres párrafos: introducción, propuesta de valor y llamada a la acción.",
+        "Enfoque en la Propuesta de Valor: Diseñada para que destaques cómo tus habilidades pueden resolver problemas o necesidades de la empresa.",
+        "Altamente Personalizable: Es una guía que exige una investigación previa de la empresa para ser efectiva.",
+        "Formato DOCX Editable: Permite una adaptación total en Microsoft Word o Google Docs para cada candidatura.",
+        "Optimización para ATS: Estructura limpia y uso de palabras clave para superar los sistemas de seguimiento de candidatos.",
+        "Llamada a la Acción Clara: Finaliza con una invitación proactiva a una entrevista o una breve conversación.",
+        "Tono Profesional y Proactivo: Redacción que equilibra el respeto por el tiempo del reclutador con la confianza en tus capacidades.",
+        "Incluye Consejos de Redacción: Notas y comentarios en la plantilla para guiarte en la personalización del contenido."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/09/modelo-de-carta-de-presentacion-autocandidatura.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://labora.gva.es/documents/166567218/172352122/La+carta+de+presentaci%C3%B3n/d645f78b-0361-4648-9f37-1c6628b05615"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Sigue funcionando la autocandidatura en España en 2025?",
+          "respuesta": "Sí, y es muy valorada si se hace bien. Una candidatura espontánea bien investigada y personalizada te diferencia del 99% de los candidatos que solo aplican a ofertas publicadas. Demuestra un interés genuino y proactividad, cualidades muy buscadas por las empresas españolas."
+        },
+        {
+          "pregunta": "¿A quién debo dirigir la carta si no conozco a nadie en la empresa?",
+          "respuesta": "Tu principal herramienta es LinkedIn. Investiga quién es el Director/a de Recursos Humanos, el responsable del departamento que te interesa (ej. Director Comercial) o un 'Talent Acquisition Manager'. Dirigir la carta a una persona concreta multiplica su efectividad. Evita a toda costa el genérico 'A la atención de RRHH'."
+        },
+        {
+          "pregunta": "¿Cuál es la parte más importante de una carta de autocandidatura?",
+          "respuesta": "El párrafo central: tu propuesta de valor. Aquí es donde debes responder a la pregunta que se hará el reclutador: '¿Y a mí, esto por qué me interesa?'. Conecta tus logros pasados con los posibles desafíos o metas de la empresa. Por ejemplo: 'Veo que están expandiéndose en LATAM, mi experiencia abriendo el mercado de Colombia podría serles de gran utilidad'."
+        },
+        {
+          "pregunta": "¿Qué longitud debe tener la carta?",
+          "respuesta": "Corta y directa. Nunca más de una página, idealmente entre 200 y 300 palabras. Los reclutadores dedican pocos segundos a cada candidatura. Usa párrafos cortos y ve al grano. El objetivo es despertar su interés para que quieran saber más y abran tu CV."
+        },
+        {
+          "pregunta": "Después de enviar la carta y el CV, ¿debo hacer seguimiento?",
+          "respuesta": "Sí, de forma profesional. Si no has tenido respuesta en una semana o diez días, puedes enviar un breve y amable email de seguimiento o intentar contactar con la persona a través de LinkedIn. Un seguimiento sutil puede ser el empujón final para conseguir una respuesta."
+        },
+        {
+          "pregunta": "¿Es obligatorio adjuntar el CV a una carta de autocandidatura?",
+          "respuesta": "Sí, siempre. La carta es la introducción, el 'tráiler' que genera interés. El CV es el documento principal que contiene toda tu trayectoria y datos de contacto. La carta sin el CV estaría incompleta."
+        }
+      ],
+      "informacionLegal": "Al enviar una autocandidatura, estás ejerciendo tu derecho a presentar tus datos personales para un fin legítimo, que es la búsqueda de empleo. La empresa receptora debe tratar tus datos conforme al Reglamento General de Protección de Datos (RGPD) y la LOPDGDD, incorporándolos a sus bases de datos de selección y conservándolos por un tiempo razonable.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "285 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "Entre 45 y 90 minutos, dedicando la mayor parte a la investigación de la empresa.",
+        "actualizaciones": "Plantilla revisada anualmente para adaptarse a las nuevas tendencias de recruiting y selección de personal en España."
+      },
+      "comoUsar": [
+        "Dedica al menos 30 minutos a investigar la empresa: sus últimos proyectos, sus valores, sus directivos clave en LinkedIn.",
+        "Descarga la plantilla en formato DOCX.",
+        "Personaliza el saludo, dirigiéndote a una persona específica con su nombre y cargo.",
+        "Redacta un primer párrafo que demuestre que conoces la empresa y que no es un envío masivo.",
+        "Construye tu párrafo de 'propuesta de valor', explicando cómo puedes ayudarles a crecer, mejorar o solucionar un problema.",
+        "Cierra con una llamada a la acción, sugiriendo una breve reunión para explorar posibles sinergias.",
+        "Adjunta tu CV actualizado y envía el email. El asunto debe ser claro, por ejemplo: 'Candidatura espontánea – [Tu Nombre], especialista en [Tu Área]'."
+      ],
+      "consejos": [
+        "Tu perfil de LinkedIn debe estar impecable y alineado con el mensaje de tu carta. Es lo primero que mirarán si les interesas.",
+        "Habla su idioma. Utiliza en tu carta palabras clave que la empresa use en sus ofertas de empleo o en su web.",
+        "Cuantifica tus logros. En lugar de 'Mejoré las ventas', escribe 'Aumenté las ventas del departamento en un 15% en 6 meses'.",
+        "La proactividad es tu mejor baza, pero sé respetuoso. Un seguimiento está bien, ser insistente es contraproducente.",
+        "Adapta la carta para cada empresa. Una plantilla es una guía, no una solución mágica. El éxito está en la personalización."
+      ]
+    },
+    {
+      "id": "carta-compromiso-laboral-2025",
+      "titulo": "Modelo de Carta de Compromiso Laboral",
+      "slug": "carta-compromiso-laboral",
+      "categoria": "Recursos Humanos",
+      "descripcion": "Descarga nuestra plantilla de carta de compromiso laboral para formalizar una oferta de empleo. Este modelo editable (Word DOCX) sirve como precontrato, detallando salario, puesto y condiciones, y garantizando la seguridad jurídica para empresa y candidato en el proceso de selección en España. Es el paso previo y fundamental antes del contrato de trabajo definitivo.",
+      "imagenUrl": "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 19800,
+      "valoracion": 4.9,
+      "caracteristicas": [
+        "Con Validez de Precontrato: Aporta seguridad jurídica al ser una oferta en firme que, una vez aceptada, vincula a la empresa.",
+        "Estructura Profesional Completa: Detalla el puesto, funciones, salario bruto anual, tipo de jornada y fecha de incorporación.",
+        "Cláusula de Confidencialidad: Incluye un apartado sobre la confidencialidad de los términos de la oferta.",
+        "Plazo de Aceptación: Establece una fecha límite para que el candidato responda, agilizando el proceso de selección.",
+        "Mención al Periodo de Prueba: Adelanta la duración del periodo de prueba que se especificará en el contrato final, según convenio.",
+        "Formato DOCX Editable: Personaliza cada campo para adaptarlo a las condiciones específicas del puesto y del candidato.",
+        "Adaptada al Teletrabajo: Incluye un apartado para especificar la política de trabajo en remoto o híbrido, un punto clave en 2025.",
+        "Base para el Contrato Final: Sirve como la guía inequívoca sobre la que se redactará el contrato de trabajo oficial."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.bizneo.com/blog/wp-content/uploads/2020/02/Modelo-carta-oferta-de-trabajo.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://todofp.es/dam/jcr:15a8c6c5-f8a8-4443-8517-8153c9e657c9/23-anexo-xi-modelo-de-carta-de-compromiso.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Esta carta de compromiso es un contrato de trabajo?",
+          "respuesta": "No, no es el contrato de trabajo definitivo, pero tiene validez legal como 'precontrato' u oferta vinculante. Si el candidato la acepta por escrito, la empresa está obligada a mantener las condiciones ofrecidas. El contrato de trabajo formal, que se registra en el SEPE, se firmará posteriormente, antes de la incorporación."
+        },
+        {
+          "pregunta": "¿Qué pasa si la empresa retira la oferta después de que yo la haya aceptado?",
+          "respuesta": "Si has aceptado la oferta formalmente (por ejemplo, respondiendo al email) y la empresa se retracta sin una causa justificada, tienes derecho a reclamar una indemnización por daños y perjuicios. Por ejemplo, si ya habías renunciado a tu anterior empleo basándote en esta oferta en firme."
+        },
+        {
+          "pregunta": "El salario que figura en la carta, ¿es bruto o neto?",
+          "respuesta": "En España, todas las ofertas de empleo y contratos deben hacer referencia al salario bruto anual. La cantidad neta (lo que recibes en tu cuenta) dependerá de tus circunstancias personales a efectos de la retención del IRPF. Esta carta está diseñada para especificar el salario bruto anual."
+        },
+        {
+          "pregunta": "Si acepto la carta, ¿debo renunciar inmediatamente a mi trabajo actual?",
+          "respuesta": "No es recomendable. Debes esperar a tener firmado el contrato de trabajo definitivo. La carta de compromiso es una garantía muy sólida, pero el contrato final es el documento que formaliza la relación al 100%. Lo prudente es presentar tu renuncia solo después de haber firmado el contrato con tu nueva empresa."
+        },
+        {
+          "pregunta": "¿Qué hago si las condiciones del contrato final son diferentes a las de esta carta?",
+          "respuesta": "Las condiciones de la carta de compromiso, una vez aceptadas, son las que prevalecen. Si el contrato final contiene condiciones peores, tienes derecho a exigir que se respeten las pactadas en la carta de oferta. No debes firmar el contrato hasta que no refleje fielmente lo acordado previamente."
+        },
+        {
+          "pregunta": "¿La empresa está obligada a darme esta carta por escrito?",
+          "respuesta": "Aunque una oferta verbal puede ser válida, no es nada recomendable. Exigir una oferta por escrito (esta carta de compromiso) es una práctica estándar y una señal de seriedad por ambas partes. Te da una seguridad jurídica que una simple llamada telefónica no puede ofrecer."
+        }
+      ],
+      "informacionLegal": "Esta carta constituye una oferta de contrato de trabajo que, si es aceptada por el destinatario, da lugar a un precontrato con fuerza vinculante para las partes, según la jurisprudencia y el Código Civil. El incumplimiento sin causa justa por parte de la empresa puede dar lugar a una reclamación de daños y perjuicios por parte del candidato. Las condiciones aquí pactadas deberán ser respetadas en el contrato de trabajo final, que se regirá por el Estatuto de los Trabajadores.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "310 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "15-20 minutos para rellenar los datos de la oferta.",
+        "actualizaciones": "Plantilla revisada anualmente para adaptarse a los cambios en la legislación laboral y las tendencias de contratación en España."
+      },
+      "comoUsar": [
+        "Descarga la plantilla en formato DOCX.",
+        "Personaliza la cabecera con los datos y el logo de tu empresa.",
+        "Rellena los datos completos del candidato al que se dirige la oferta.",
+        "Detalla de forma clara y concisa todas las condiciones: puesto, salario bruto anual, jornada, horario, política de teletrabajo y fecha de inicio.",
+        "Establece un plazo de validez de la oferta (ej. '7 días naturales') para que el candidato dé una respuesta.",
+        "Envía la carta al candidato por un medio que deje constancia, como el correo electrónico.",
+        "Una vez recibida la aceptación por escrito, procede a preparar el contrato de trabajo oficial para la firma."
+      ],
+      "consejos": [
+        "Utiliza la carta no solo para informar, sino para ilusionar. Añade una frase sobre por qué estáis entusiasmados con su posible incorporación.",
+        "Sé totalmente transparente con las condiciones. Cualquier ambigüedad ahora puede generar desconfianza más adelante.",
+        "Especifica siempre el salario en términos de 'Salario Bruto Anual'. Es el estándar en el mercado español y evita malentendidos.",
+        "Adjunta a la carta un resumen de los beneficios sociales (seguro médico, tickets restaurante, formación), ya que es un factor decisivo.",
+        "Una vez el candidato acepte, llámale para felicitarle. Un gesto personal fortalece la relación antes incluso de empezar."
+      ]
+    },
+    {
       "id": "carta-despido-disciplinario-ofensas-verbales-2025",
       "titulo": "Modelo de Carta de Despido por Ofensas Verbales",
       "slug": "carta-despido-disciplinario-ofensas-verbales",
@@ -259,6 +945,92 @@
       ]
     },
     {
+      "id": "carta-queja-profesor-2025",
+      "titulo": "Modelo de Carta de Queja a un Profesor",
+      "slug": "carta-queja-profesor",
+      "categoria": "Educación",
+      "descripcion": "Descarga nuestra plantilla para redactar una carta de queja formal a un profesor o centro educativo. Este modelo, editable en Word (DOCX), te ayuda a exponer los hechos de forma respetuosa y constructiva, siguiendo el procedimiento adecuado. Es una herramienta esencial para padres o alumnos que buscan solucionar un problema de manera efectiva y documentada.",
+      "imagenUrl": "https://images.pexels.com/photos/4145146/pexels-photo-4145146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 16700,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Estructura Respetuosa y Formal: Redactada para comunicar un problema de forma constructiva, no confrontacional.",
+        "Enfoque en Hechos Objetivos: Secciones para describir la situación con datos concretos (fechas, ejemplos), evitando opiniones subjetivas.",
+        "Sigue el Conducto Reglamentario: Diseñada para ser dirigida al profesor, al tutor o a la Jefatura de Estudios, según el paso en que te encuentres.",
+        "Solicitud de Reunión: Finaliza con una llamada a la acción clara y conciliadora: solicitar una reunión para resolver el asunto.",
+        "Plantilla DOCX 100% Editable: Adapta el contenido al nivel educativo (infantil, primaria, universidad) y al problema específico.",
+        "Válida como Registro Formal: Sirve como prueba escrita de que has comunicado el problema, un paso importante si necesitas escalar la queja.",
+        "Referencia al Bienestar del Alumno: El tono de la carta se centra en el interés y el desarrollo educativo del estudiante.",
+        "Asesoramiento en el Procedimiento: Incluye notas sobre los pasos a seguir antes y después de entregar la carta."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelo-carta.com/wp-content/uploads/2019/12/carta-formal-para-un-profesor.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://redsocial.ugr.es/sites/redsocial/files/2021-03/Sugerencias%2C%20Quejas%20y%20Felicitaciones.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿A quién debo dirigir la carta primero?",
+          "respuesta": "La norma general es seguir el conducto reglamentario. El primer paso es, casi siempre, dirigirse al propio profesor para solicitar una tutoría y hablar del tema. Si esto no funciona o no es apropiado, el siguiente paso es el tutor del alumno. Solo si el problema persiste, se debe escalar a la Jefatura de Estudios o a la Dirección del centro."
+        },
+        {
+          "pregunta": "¿Es mejor hablar con el profesor en persona antes de enviar una carta?",
+          "respuesta": "Sí, siempre. La comunicación verbal, en un tono calmado y constructivo, debería ser el primer intento para resolver cualquier malentendido. La carta formal se utiliza cuando el diálogo no ha sido posible, no ha dado resultado, o cuando la gravedad del asunto requiere dejar constancia por escrito desde el principio."
+        },
+        {
+          "pregunta": "¿Qué pasa si no obtengo respuesta o la solución no es satisfactoria?",
+          "respuesta": "Si tras entregar la carta al profesor o tutor el problema no se soluciona, el siguiente paso es presentar una copia de ese escrito, junto con una nueva carta, a la Jefatura de Estudios o a la Dirección del centro. En esta nueva carta explicarás que ya intentaste solucionarlo en el nivel anterior sin éxito."
+        },
+        {
+          "pregunta": "¿Cómo puedo presentar la queja sin que perjudique al alumno?",
+          "respuesta": "Centrando la carta en los hechos y en la búsqueda de soluciones, nunca en un ataque personal al profesor. Utiliza un lenguaje respetuoso y enfócate en el bienestar y el derecho a la educación del alumno. El objetivo es colaborar con el centro para resolver un problema, no crear uno nuevo."
+        },
+        {
+          "pregunta": "¿Qué tipo de pruebas o información debo incluir en la carta?",
+          "respuesta": "Debes ser lo más específico y objetivo posible. Incluye fechas, descripción de los incidentes, ejemplos concretos de lo ocurrido, y cómo está afectando al alumno. Evita generalizaciones como 'siempre hace...' y opta por 'El pasado día 15 de octubre, ocurrió que...'. Aporta hechos, no rumores ni opiniones."
+        },
+        {
+          "pregunta": "¿Puedo presentar una queja de forma anónima?",
+          "respuesta": "Una queja formal no puede ser anónima, ya que el centro educativo necesita identificar al interesado (el padre, madre o alumno) para poder investigar los hechos y dar una respuesta. Las quejas anónimas suelen ser desestimadas por falta de legitimidad para iniciar un procedimiento."
+        }
+      ],
+      "informacionLegal": "El derecho de los padres y alumnos a presentar quejas está amparado por la legislación educativa (LOMLOE) y se articula a través del Reglamento de Régimen Interior (RRI) de cada centro educativo. Dicho reglamento establece los cauces y procedimientos para la resolución de conflictos. La comunicación debe respetar la Ley de Protección de Datos (LOPDGDD), especialmente si se mencionan a otros menores.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "290 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "30-45 minutos, para una reflexión y redacción cuidadosa de los hechos.",
+        "actualizaciones": "Plantilla revisada anualmente para ajustarse a las mejores prácticas en resolución de conflictos en el ámbito educativo."
+      },
+      "comoUsar": [
+        "Primero, intenta siempre solicitar una reunión y dialogar en persona.",
+        "Si el diálogo no es efectivo, descarga la plantilla en formato DOCX.",
+        "Dirige la carta a la persona adecuada según el paso en el que te encuentres (profesor, tutor, etc.).",
+        "En la sección de 'HECHOS', sé objetivo y específico. Describe la situación sin juicios de valor.",
+        "En la 'SOLICITUD', pide de forma clara una reunión para tratar el asunto y buscar una solución conjunta.",
+        "Entrega la carta en mano o a través del registro del centro, quedándote siempre con una copia sellada o firmada como 'recibí'.",
+        "Guarda tu copia como prueba de la comunicación."
+      ],
+      "consejos": [
+        "Mantén siempre un tono calmado y respetuoso, tanto en persona como por escrito. La agresividad es contraproducente.",
+        "Céntrate en el problema, no en la persona. Ataca la conducta, no al profesor.",
+        "Si el problema afecta a varios alumnos, considera presentar una queja conjunta con otros padres. Tendrá más fuerza.",
+        "Documenta todo. Anota las fechas de las conversaciones, de la entrega de la carta y las respuestas que recibes.",
+        "Conoce el 'conducto reglamentario' de tu centro educativo. Seguir los pasos correctos demuestra seriedad y agiliza la solución."
+      ]
+    },
+    {
       "id": "carta-subida-ipc-alquiler-2025",
       "titulo": "Modelo de Carta de Subida de Alquiler [LAU 2025]",
       "slug": "carta-subida-alquiler-ipc-lau",
@@ -514,6 +1286,92 @@
         "Asegúrate de que los saldos de días de vacaciones que comunicas son correctos y están actualizados para evitar confusiones.",
         "Para una gestión más eficiente en empresas grandes, considera la implementación de un portal del empleado que automatice este proceso.",
         "Planifica las vacaciones del equipo con suficiente antelación para garantizar que las necesidades del negocio queden cubiertas."
+      ]
+    },
+    {
+      "id": "carta-baja-socio-club-2025",
+      "titulo": "Modelo de Carta de Baja de Socio de un Club",
+      "slug": "carta-baja-socio-club",
+      "categoria": "Consumo",
+      "descripcion": "Descarga nuestra plantilla para solicitar la baja como socio de un club, gimnasio o asociación. Este modelo de carta, editable en Word (DOCX), te permite comunicar tu decisión de forma clara y fehaciente, cumpliendo con los plazos de preaviso. Es la herramienta ideal para formalizar tu renuncia, solicitar la cancelación de las cuotas y asegurar un proceso de baja sin complicaciones.",
+      "imagenUrl": "https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descargas": 14820,
+      "valoracion": 4.8,
+      "caracteristicas": [
+        "Formato Directo y Formal: Comunica la decisión de causar baja de forma inequívoca, respetuosa y profesional.",
+        "Solicitud de Cese de Cuotas: Incluye la instrucción explícita de que no se emitan más recibos o cuotas a partir de la fecha de efecto de la baja.",
+        "Referencia a los Estatutos: Espacio para mencionar el cumplimiento de los plazos de preaviso según la normativa del club.",
+        "Plantilla DOCX 100% Editable: Personaliza fácilmente con tus datos de socio, los del club y la fecha deseada para la baja.",
+        "Apta para Envío Certificado: Diseño ideal para enviar por Burofax o email certificado, obteniendo una prueba legal de la comunicación.",
+        "Versátil para Varios Tipos de Club: Válida para gimnasios, clubes deportivos, asociaciones culturales, peñas, etc.",
+        "Previene Cobros Indebidos: Una notificación fehaciente es tu mejor defensa si el club sigue intentando cobrar las cuotas.",
+        "Incluye Agradecimiento Opcional: Permite añadir una nota de agradecimiento por el tiempo compartido en la asociación."
+      ],
+      "formatos": [
+        {
+          "tipo": "DOCX",
+          "url": "https://www.modelos-de-carta.com/wp-content/uploads/2020/09/modelo-de-carta-de-baja-de-socio-de-un-club.docx"
+        },
+        {
+          "tipo": "PDF",
+          "url": "https://www.aspe.es/images/documentos/omic/201604006ModeloImpresoSolicitarBAJAdeunContrato.pdf"
+        }
+      ],
+      "faqs": [
+        {
+          "pregunta": "¿Con cuánta antelación debo comunicar mi baja como socio?",
+          "respuesta": "Debes revisar los estatutos del club o el contrato que firmaste al inscribirte. Ahí se especificará el plazo de preaviso obligatorio, que puede variar (por ejemplo, 15 días, un mes, o antes de una fecha concreta para evitar la renovación anual). Cumplir este plazo es crucial para que la baja sea efectiva."
+        },
+        {
+          "pregunta": "¿Cuál es la mejor forma de enviar la carta para que quede constancia?",
+          "respuesta": "La forma más segura es enviarla por un medio fehaciente que deje prueba de la entrega y del contenido. Un Burofax con acuse de recibo y certificación de texto es la opción más sólida legalmente. Un email certificado también es una buena alternativa. Si la entregas en mano, lleva dos copias y pide que te sellen o firmen una como 'recibí'."
+        },
+        {
+          "pregunta": "¿Puede el club negarse a darme de baja?",
+          "respuesta": "No, el derecho a darse de baja es libre. Sin embargo, pueden exigirte que cumplas con las condiciones pactadas, como el plazo de preaviso o estar al corriente de pago de todas las cuotas hasta la fecha de la baja. No pueden obligarte a permanecer como socio indefinidamente."
+        },
+        {
+          "pregunta": "Tengo un contrato con permanencia, ¿puedo darme de baja antes?",
+          "respuesta": "Si firmaste un contrato con un periodo de permanencia (muy común en gimnasios), darte de baja antes de tiempo puede implicar el pago de una penalización, que debería estar especificada en el contrato. Revisa las cláusulas para conocer las consecuencias económicas de una baja anticipada."
+        },
+        {
+          "pregunta": "¿Qué datos son imprescindibles en la carta de baja?",
+          "respuesta": "La carta debe contener tus datos completos como socio (nombre, DNI, número de socio), los datos del club, una manifestación clara e inequívoca de tu voluntad de causar baja, la fecha a partir de la cual quieres que sea efectiva y, muy importante, la fecha y tu firma. Si tienes domiciliadas las cuotas, añade una orden de cancelación."
+        },
+        {
+          "pregunta": "Después de enviar la carta, ¿debo hacer algo más?",
+          "respuesta": "Sí. Es muy recomendable que, además de enviar la carta, des una orden explícita a tu banco para que no atienda futuros recibos de ese club. Esto se conoce como 'revocación del consentimiento de adeudo directo SEPA' y te proporciona una capa extra de seguridad contra cobros indebidos."
+        }
+      ],
+      "informacionLegal": "El derecho de un socio a darse de baja en una asociación o club se rige por la Ley Orgánica 1/2002, reguladora del Derecho de Asociación, y por los estatutos de la propia entidad. Para contratos de servicios (como gimnasios), aplica la Ley General para la Defensa de los Consumidores y Usuarios. La comunicación debe ser fehaciente y respetar las condiciones de preaviso y permanencia pactadas contractualmente.",
+      "detalles": {
+        "fechaActualizacion": "17/10/2025",
+        "tamanoArchivo": "295 KB",
+        "idiomas": [
+          "Español (España)"
+        ],
+        "softwareRecomendado": [
+          "Microsoft Word 2016 o superior",
+          "Google Docs"
+        ],
+        "tiempoEdicion": "10-15 minutos.",
+        "actualizaciones": "Plantilla revisada anualmente para asegurar el cumplimiento con la normativa de consumo y de asociaciones."
+      },
+      "comoUsar": [
+        "Primero, localiza y revisa los estatutos de tu club o el contrato de inscripción para conocer el plazo de preaviso.",
+        "Descarga la plantilla en formato DOCX.",
+        "Rellena tus datos personales, tu número de socio y los datos de la asociación.",
+        "Indica claramente la fecha en la que deseas que tu baja se haga efectiva, respetando el preaviso.",
+        "Firma la carta.",
+        "Envía la carta por un método fehaciente (Burofax, email certificado) o entrégala en mano quedándote con una copia sellada.",
+        "Comunica a tu banco la orden de no atender más recibos de este emisor."
+      ],
+      "consejos": [
+        "No te conformes con una baja verbal o por teléfono. Deja siempre constancia por escrito.",
+        "Asegúrate de estar al corriente de pago de todas las cuotas devengadas hasta la fecha de la baja para evitar problemas.",
+        "Si tienes material del club en depósito (taquillas, equipación), coordina su devolución en la misma comunicación.",
+        "Guarda una copia de la carta de baja y del justificante de envío indefinidamente. Es tu seguro ante futuras reclamaciones.",
+        "Si el club te pone problemas injustificados, puedes acudir a la Oficina Municipal de Información al Consumidor (OMIC) de tu localidad."
       ]
     },
     {

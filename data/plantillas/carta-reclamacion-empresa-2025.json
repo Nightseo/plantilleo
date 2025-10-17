@@ -1,0 +1,86 @@
+{
+  "id": "carta-reclamacion-empresa-2025",
+  "titulo": "Modelo de Carta de Reclamación a una Empresa",
+  "slug": "carta-reclamacion-empresa",
+  "categoria": "Consumo",
+  "descripcion": "Descarga nuestra plantilla de carta para reclamar a una empresa por un producto defectuoso o un servicio insatisfactorio. Este modelo, editable en Word (DOCX) y conforme a la ley española, te guía para presentar una reclamación formal, detallar los hechos y exigir una solución (reparación, sustitución, devolución). Es tu primera herramienta legal para defender tus derechos como consumidor.",
+  "imagenUrl": "https://images.pexels.com/photos/5650027/pexels-photo-5650027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "descargas": 31200,
+  "valoracion": 4.9,
+  "caracteristicas": [
+    "Basada en la Ley de Consumidores y Usuarios: Fundamenta tu queja en el Real Decreto Legislativo 1/2007, la base legal de tus derechos.",
+    "Estructura Legalmente Sólida: Incluye los apartados clave: identificación, exposición de hechos y solicitud de una solución concreta.",
+    "Apta para Múltiples Reclamaciones: Válida para productos defectuosos, servicios mal prestados, facturación incorrecta, incumplimiento de contrato, etc.",
+    "Exige una Solución Específica: Te guía para solicitar claramente lo que deseas: la reparación, la sustitución, la devolución del dinero o el cumplimiento del contrato.",
+    "Formato DOCX Editable: Adapta fácilmente la carta a tu caso particular, adjuntando pruebas como facturas, fotos o contratos.",
+    "Diseñada para Envío Fehaciente: Formato ideal para enviar por Burofax o email certificado, creando una prueba legal de tu reclamación.",
+    "Paso Previo a la Vía Oficial: Es el requisito que te pedirán en la Oficina de Consumo (OMIC) o en un juzgado si necesitas escalar la queja.",
+    "Lenguaje Formal y Directo: Redactada para comunicar tu reclamación de forma seria, clara y contundente."
+  ],
+  "formatos": [
+    {
+      "tipo": "DOCX",
+      "url": "https://www.ocu.org/-/media/ocu/files/modelos/consumo/cartas/reclamacion-general.docx"
+    },
+    {
+      "tipo": "PDF",
+      "url": "https://consumo.cordoba.es/images/stories/omic/pdfs/solicitud%20general.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál es el primer paso que debo dar antes de enviar esta carta?",
+      "respuesta": "El primer paso es contactar con el servicio de atención al cliente de la empresa por teléfono o chat para intentar una solución amistosa. Anota el número de incidencia que te proporcionen. Si esta vía no funciona, el siguiente paso es enviar esta carta de reclamación formal para dejar constancia por escrito."
+    },
+    {
+      "pregunta": "¿Qué datos son imprescindibles para que la reclamación sea válida?",
+      "respuesta": "Debes identificarte con tu nombre y DNI, aportar un número de cliente, de póliza o de factura para que la empresa identifique la relación comercial, describir los hechos de forma cronológica y detallada, y especificar claramente qué solución exiges. Adjuntar una copia de la factura o contrato es fundamental."
+    },
+    {
+      "pregunta": "¿Cuál es la forma más segura de enviar esta carta?",
+      "respuesta": "La forma más segura y con mayor validez legal es un Burofax con acuse de recibo y certificación de texto. Un correo electrónico certificado también es una excelente opción. Estos métodos crean una prueba irrefutable de que la empresa ha recibido tu reclamación y en qué fecha, lo cual es crucial."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo tiene la empresa para responderme?",
+      "respuesta": "Según la normativa de consumo, la empresa tiene un plazo máximo de un mes para darte una respuesta o una solución. Si en 30 días no has recibido contestación, o la que te dan no es satisfactoria, se entiende que la vía amistosa se ha agotado y puedes pasar al siguiente nivel."
+    },
+    {
+      "pregunta": "Si la empresa no me hace caso, ¿qué hago después de enviar la carta?",
+      "respuesta": "Si tras un mes no hay solución, puedes presentar una reclamación formal en la Oficina Municipal de Información al Consumidor (OMIC) de tu localidad, en la Dirección General de Consumo de tu comunidad autónoma, o ante las Juntas Arbitrales de Consumo. La carta que enviaste será la prueba de que intentaste la vía amistosa."
+    },
+    {
+      "pregunta": "¿Tengo que adjuntar pruebas a mi reclamación?",
+      "respuesta": "Sí, es crucial. Debes adjuntar una copia de todo lo que sustente tu queja: la factura, el contrato, fotografías del producto defectuoso, emails previos con la empresa, informes periciales si los tienes, etc. Cuantas más pruebas aportes, más sólida será tu reclamación."
+    }
+  ],
+  "informacionLegal": "El derecho a reclamar está amparado por el Real Decreto Legislativo 1/2007, que aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios. Las empresas están obligadas a disponer de un servicio de atención al cliente y a dar respuesta a las quejas en el plazo de un mes. Esta reclamación extrajudicial es el paso previo y necesario para poder acudir a la vía arbitral de consumo o a la vía judicial.",
+  "detalles": {
+    "fechaActualizacion": "17/10/2025",
+    "tamanoArchivo": "340 KB",
+    "idiomas": [
+      "Español (España)"
+    ],
+    "softwareRecomendado": [
+      "Microsoft Word 2016 o superior",
+      "Google Docs"
+    ],
+    "tiempoEdicion": "30-45 minutos para recopilar datos y detallar los hechos.",
+    "actualizaciones": "Plantilla revisada anualmente para ajustarse a las últimas modificaciones en la normativa de protección al consumidor."
+  },
+  "comoUsar": [
+    "Recopila toda la documentación de tu caso: factura, contrato, emails, fotos, número de incidencia, etc.",
+    "Descarga la plantilla en formato DOCX.",
+    "Rellena tus datos, los de la empresa y los datos que identifican el producto o servicio (nº de factura, póliza...).",
+    "En la sección 'EXPONGO', describe los hechos de forma clara, ordenada cronológicamente y objetiva.",
+    "En la sección 'SOLICITO', indica de forma precisa qué solución exiges (ej. 'la devolución del importe de 95€').",
+    "Adjunta una copia de todas las pruebas que has recopilado.",
+    "Envía la carta por un medio fehaciente (Burofax es la mejor opción) y guarda el resguardo."
+  ],
+  "consejos": [
+    "Sé conciso y ve al grano. Una reclamación efectiva es la que se entiende perfectamente en la primera lectura.",
+    "Céntrate en los hechos y evita las opiniones subjetivas o los comentarios ofensivos. La objetividad te da credibilidad.",
+    "Guarda siempre los originales de tus documentos. A la reclamación adjunta siempre copias.",
+    "Especifica un plazo razonable en tu escrito (ej. 'un plazo de 10 días') para que te den una solución antes de iniciar otras acciones.",
+    "Si tu reclamación implica una cantidad de dinero importante, considera consultar con una asociación de consumidores o un abogado."
+  ]
+}
