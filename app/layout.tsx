@@ -1,6 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Poppins } from "next/font/google"
+import Script from "next/script"
 import { Layout } from "@/components/layout"
 import "./globals.css"
 
@@ -51,6 +52,19 @@ export default function RootLayout({
         <link rel="icon" type="image/png" href="/favicon.png" sizes="48x48" />
       </head>
       <body className={poppins.className}>
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-6NQCYX0EQ8"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-6NQCYX0EQ8');
+          `}
+        </Script>
         <Layout>{children}</Layout>
       </body>
     </html>
